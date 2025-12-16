@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_nxmivih2_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2198" HEIGHT="2620" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2198" HEIGHT="2620">
+				<ComposedBlock ID="cblock_0" HPOS="727" VPOS="1213" WIDTH="802" HEIGHT="58">
+					<TextBlock ID="block_0" HPOS="727" VPOS="1213" WIDTH="802" HEIGHT="58">
+						<TextLine ID="line_0" HPOS="727" VPOS="1213" WIDTH="802" HEIGHT="58">
+							<String ID="string_0" HPOS="727" VPOS="1213" WIDTH="182" HEIGHT="52" WC="0.93" CONTENT="Stockholm,"/><SP WIDTH="25" VPOS="1213" HPOS="909"/>
+							<String ID="string_1" HPOS="934" VPOS="1215" WIDTH="38" HEIGHT="45" WC="0.92" CONTENT="K."/><SP WIDTH="21" VPOS="1215" HPOS="972"/>
+							<String ID="string_2" HPOS="993" VPOS="1213" WIDTH="41" HEIGHT="48" WC="0.92" CONTENT="B."/><SP WIDTH="17" VPOS="1213" HPOS="1034"/>
+							<String ID="string_3" HPOS="1051" VPOS="1209" WIDTH="149" HEIGHT="72" WC="0.96" CONTENT="Boströms"/><SP WIDTH="22" VPOS="1209" HPOS="1200"/>
+							<String ID="string_4" HPOS="1222" VPOS="1209" WIDTH="208" HEIGHT="72" WC="0.96" CONTENT="Boktryckeri,"/><SP WIDTH="8" VPOS="1209" HPOS="1430"/>
+							<String ID="string_5" HPOS="1438" VPOS="1218" WIDTH="91" HEIGHT="47" WC="0.96" CONTENT="1917."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="770" VPOS="1280" WIDTH="759" HEIGHT="7"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
