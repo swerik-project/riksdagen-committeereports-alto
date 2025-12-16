@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_d10blq01_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1862" HEIGHT="2778" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1862" HEIGHT="2778">
+				<ComposedBlock ID="cblock_0" HPOS="184" VPOS="244" WIDTH="188" HEIGHT="27">
+					<TextBlock ID="block_0" HPOS="184" VPOS="244" WIDTH="188" HEIGHT="27">
+						<TextLine ID="line_0" HPOS="184" VPOS="244" WIDTH="188" HEIGHT="27">
+							<String ID="string_0" HPOS="184" VPOS="246" WIDTH="108" HEIGHT="25" WC="0.0" CONTENT="Läbvi"/><SP WIDTH="27" VPOS="246" HPOS="292"/>
+							<String ID="string_1" HPOS="319" VPOS="244" WIDTH="53" HEIGHT="26" WC="0.31" CONTENT="IG"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="680" VPOS="658" WIDTH="480" HEIGHT="133">
+					<TextBlock ID="block_1" HPOS="680" VPOS="658" WIDTH="480" HEIGHT="133">
+						<TextLine ID="line_1" HPOS="680" VPOS="658" WIDTH="480" HEIGHT="56">
+							<String ID="string_2" HPOS="680" VPOS="658" WIDTH="338" HEIGHT="56" WC="0.0" CONTENT="tssutetadinod"/><SP WIDTH="28" VPOS="658" HPOS="1018"/>
+							<String ID="string_3" HPOS="1046" VPOS="660" WIDTH="114" HEIGHT="38" WC="0.55" CONTENT="Berit"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="850" VPOS="756" WIDTH="160" HEIGHT="35">
+							<String ID="string_4" HPOS="850" VPOS="756" WIDTH="160" HEIGHT="35" WC="0.24" CONTENT="sabariör"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="614" VPOS="844" WIDTH="632" HEIGHT="49">
+					<TextBlock ID="block_2" HPOS="614" VPOS="844" WIDTH="632" HEIGHT="49">
+						<TextLine ID="line_3" HPOS="614" VPOS="844" WIDTH="632" HEIGHT="49">
+							<String ID="string_5" HPOS="614" VPOS="859" WIDTH="51" HEIGHT="21" WC="0.41" CONTENT="fra"/><SP WIDTH="19" VPOS="859" HPOS="665"/>
+							<String ID="string_6" HPOS="684" VPOS="854" WIDTH="55" HEIGHT="26" WC="0.41" CONTENT="too"/><SP WIDTH="31" VPOS="854" HPOS="739"/>
+							<String ID="string_7" HPOS="770" VPOS="844" WIDTH="41" HEIGHT="36" WC="0.47" CONTENT="tea"/><SP WIDTH="8" VPOS="844" HPOS="811"/>
+							<String ID="string_8" HPOS="819" VPOS="845" WIDTH="203" HEIGHT="48" WC="0.0" CONTENT="oluadbaoi"/><SP WIDTH="20" VPOS="845" HPOS="1022"/>
+							<String ID="string_9" HPOS="1042" VPOS="845" WIDTH="68" HEIGHT="35" WC="0.41" CONTENT="doo"/><SP WIDTH="22" VPOS="845" HPOS="1110"/>
+							<String ID="string_10" HPOS="1132" VPOS="854" WIDTH="114" HEIGHT="26" WC="0.0" CONTENT="--tetr"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
