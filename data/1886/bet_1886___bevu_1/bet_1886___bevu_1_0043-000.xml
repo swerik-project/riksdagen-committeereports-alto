@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_qe7usnqe_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2168" HEIGHT="2598" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2168" HEIGHT="2598">
+				<ComposedBlock ID="cblock_0" HPOS="797" VPOS="955" WIDTH="412" HEIGHT="220">
+					<TextBlock ID="block_0" HPOS="797" VPOS="955" WIDTH="412" HEIGHT="220">
+						<TextLine ID="line_0" HPOS="797" VPOS="955" WIDTH="412" HEIGHT="84">
+							<String ID="string_0" HPOS="797" VPOS="955" WIDTH="412" HEIGHT="84" WC="0.71" CONTENT="Bilagor"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="976" VPOS="1143" WIDTH="51" HEIGHT="32">
+							<String ID="string_1" HPOS="976" VPOS="1143" WIDTH="51" HEIGHT="32" WC="0.96" CONTENT="till"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="597" VPOS="1289" WIDTH="814" HEIGHT="50">
+					<TextBlock ID="block_1" HPOS="597" VPOS="1289" WIDTH="814" HEIGHT="50">
+						<TextLine ID="line_2" HPOS="597" VPOS="1289" WIDTH="814" HEIGHT="50">
+							<String ID="string_2" HPOS="597" VPOS="1293" WIDTH="221" HEIGHT="39" WC="0.96" CONTENT="Utskottets"/><SP WIDTH="34" VPOS="1293" HPOS="818"/>
+							<String ID="string_3" HPOS="852" VPOS="1292" WIDTH="258" HEIGHT="47" WC="0.96" CONTENT="betänkande,"/><SP WIDTH="33" VPOS="1292" HPOS="1110"/>
+							<String ID="string_4" HPOS="1143" VPOS="1290" WIDTH="90" HEIGHT="39" WC="0.93" CONTENT="Litt."/><SP WIDTH="34" VPOS="1290" HPOS="1233"/>
+							<String ID="string_5" HPOS="1267" VPOS="1289" WIDTH="144" HEIGHT="40" WC="0.89" CONTENT="A—P."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
