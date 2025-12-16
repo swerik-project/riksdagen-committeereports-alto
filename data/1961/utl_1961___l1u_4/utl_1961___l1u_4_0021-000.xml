@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_55zzegoh_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1870" HEIGHT="2786" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1870" HEIGHT="2786">
+				<ComposedBlock ID="cblock_0" HPOS="446" VPOS="192" WIDTH="875" HEIGHT="50">
+					<TextBlock ID="block_0" HPOS="446" VPOS="192" WIDTH="875" HEIGHT="50">
+						<TextLine ID="line_0" HPOS="446" VPOS="192" WIDTH="875" HEIGHT="50">
+							<String ID="string_0" HPOS="446" VPOS="205" WIDTH="125" HEIGHT="30" WC="0.93" CONTENT="Första"/><SP WIDTH="23" VPOS="205" HPOS="571"/>
+							<String ID="string_1" HPOS="594" VPOS="201" WIDTH="246" HEIGHT="41" WC="0.90" CONTENT="lagutskottets"/><SP WIDTH="25" VPOS="201" HPOS="840"/>
+							<String ID="string_2" HPOS="865" VPOS="196" WIDTH="180" HEIGHT="32" WC="0.96" CONTENT="utlåtande"/><SP WIDTH="23" VPOS="196" HPOS="1045"/>
+							<String ID="string_3" HPOS="1068" VPOS="204" WIDTH="43" HEIGHT="20" WC="0.96" CONTENT="nr"/><SP WIDTH="22" VPOS="204" HPOS="1111"/>
+							<String ID="string_4" HPOS="1133" VPOS="195" WIDTH="19" HEIGHT="29" WC="0.96" CONTENT="4"/><SP WIDTH="23" VPOS="195" HPOS="1152"/>
+							<String ID="string_5" HPOS="1175" VPOS="193" WIDTH="40" HEIGHT="31" WC="0.95" CONTENT="år"/><SP WIDTH="25" VPOS="193" HPOS="1215"/>
+							<String ID="string_6" HPOS="1240" VPOS="192" WIDTH="81" HEIGHT="30" WC="0.96" CONTENT="1961"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="748" VPOS="353" WIDTH="249" HEIGHT="39">
+					<TextBlock ID="block_1" HPOS="748" VPOS="353" WIDTH="249" HEIGHT="39">
+						<TextLine ID="line_1" HPOS="748" VPOS="353" WIDTH="249" HEIGHT="39">
+							<String ID="string_7" HPOS="748" VPOS="353" WIDTH="249" HEIGHT="39" WC="0.96" CONTENT="Reservation"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="174" VPOS="438" WIDTH="833" HEIGHT="43">
+					<TextBlock ID="block_2" HPOS="174" VPOS="438" WIDTH="833" HEIGHT="43">
+						<TextLine ID="line_2" HPOS="174" VPOS="438" WIDTH="833" HEIGHT="43">
+							<String ID="string_8" HPOS="174" VPOS="460" WIDTH="42" HEIGHT="21" WC="0.95" CONTENT="av"/><SP WIDTH="14" VPOS="460" HPOS="216"/>
+							<String ID="string_9" HPOS="230" VPOS="451" WIDTH="123" HEIGHT="29" WC="0.96" CONTENT="herrar"/><SP WIDTH="15" VPOS="451" HPOS="353"/>
+							<String ID="string_10" HPOS="368" VPOS="444" WIDTH="202" HEIGHT="34" WC="0.96" CONTENT="Ferdinand"/><SP WIDTH="14" VPOS="444" HPOS="570"/>
+							<String ID="string_11" HPOS="584" VPOS="443" WIDTH="140" HEIGHT="31" WC="0.95" CONTENT="Nilsson"/><SP WIDTH="18" VPOS="443" HPOS="724"/>
+							<String ID="string_12" HPOS="742" VPOS="441" WIDTH="64" HEIGHT="30" WC="0.92" CONTENT="och"/><SP WIDTH="16" VPOS="441" HPOS="806"/>
+							<String ID="string_13" HPOS="822" VPOS="438" WIDTH="185" HEIGHT="32" WC="0.92" CONTENT="Arvidson."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="1589" VPOS="187" WIDTH="39" HEIGHT="31">
+					<TextBlock ID="block_3" HPOS="1589" VPOS="187" WIDTH="39" HEIGHT="31">
+						<TextLine ID="line_3" HPOS="1589" VPOS="187" WIDTH="39" HEIGHT="31">
+							<String ID="string_14" HPOS="1589" VPOS="187" WIDTH="39" HEIGHT="31" WC="0.96" CONTENT="21"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
