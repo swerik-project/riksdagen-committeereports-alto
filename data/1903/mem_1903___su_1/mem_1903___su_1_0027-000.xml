@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_3g3ascrf_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2224" HEIGHT="2616" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2224" HEIGHT="2616">
+				<ComposedBlock ID="cblock_0" HPOS="267" VPOS="1186" WIDTH="1492" HEIGHT="160">
+					<TextBlock ID="block_0" HPOS="267" VPOS="1186" WIDTH="1492" HEIGHT="160">
+						<TextLine ID="line_0" HPOS="267" VPOS="1186" WIDTH="1492" HEIGHT="69">
+							<String ID="string_0" HPOS="267" VPOS="1194" WIDTH="505" HEIGHT="61" WC="0.91" CONTENT="Riksgäldskontorets"/><SP WIDTH="32" VPOS="1194" HPOS="772"/>
+							<String ID="string_1" HPOS="804" VPOS="1190" WIDTH="310" HEIGHT="49" WC="0.96" CONTENT="balanserade"/><SP WIDTH="32" VPOS="1190" HPOS="1114"/>
+							<String ID="string_2" HPOS="1146" VPOS="1189" WIDTH="263" HEIGHT="60" WC="0.96" CONTENT="tillgångar"/><SP WIDTH="31" VPOS="1189" HPOS="1409"/>
+							<String ID="string_3" HPOS="1440" VPOS="1187" WIDTH="89" HEIGHT="48" WC="0.96" CONTENT="och"/><SP WIDTH="31" VPOS="1187" HPOS="1529"/>
+							<String ID="string_4" HPOS="1560" VPOS="1186" WIDTH="199" HEIGHT="49" WC="0.96" CONTENT="skulder"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="608" VPOS="1283" WIDTH="801" HEIGHT="63">
+							<String ID="string_5" HPOS="608" VPOS="1288" WIDTH="81" HEIGHT="48" WC="0.96" CONTENT="vid"/><SP WIDTH="32" VPOS="1288" HPOS="689"/>
+							<String ID="string_6" HPOS="721" VPOS="1286" WIDTH="120" HEIGHT="49" WC="0.95" CONTENT="1902"/><SP WIDTH="33" VPOS="1286" HPOS="841"/>
+							<String ID="string_7" HPOS="874" VPOS="1288" WIDTH="80" HEIGHT="46" WC="0.96" CONTENT="års"/><SP WIDTH="31" VPOS="1288" HPOS="954"/>
+							<String ID="string_8" HPOS="985" VPOS="1287" WIDTH="165" HEIGHT="59" WC="0.96" CONTENT="början"/><SP WIDTH="32" VPOS="1287" HPOS="1150"/>
+							<String ID="string_9" HPOS="1182" VPOS="1284" WIDTH="89" HEIGHT="48" WC="0.96" CONTENT="och"/><SP WIDTH="31" VPOS="1284" HPOS="1271"/>
+							<String ID="string_10" HPOS="1302" VPOS="1283" WIDTH="107" HEIGHT="49" WC="0.96" CONTENT="slut."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
