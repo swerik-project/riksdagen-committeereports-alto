@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_l_9w1kpq_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1896" HEIGHT="2832" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1896" HEIGHT="2832">
+				<Illustration ID="cblock_0" HPOS="0" VPOS="1459" WIDTH="44" HEIGHT="51"></Illustration>
+				<Illustration ID="cblock_1" HPOS="0" VPOS="1659" WIDTH="32" HEIGHT="30"></Illustration>
+				<Illustration ID="cblock_2" HPOS="23" VPOS="1879" WIDTH="53" HEIGHT="66"></Illustration>
+				<Illustration ID="cblock_3" HPOS="32" VPOS="2689" WIDTH="28" HEIGHT="13"></Illustration>
+				<Illustration ID="cblock_4" HPOS="291" VPOS="2220" WIDTH="38" HEIGHT="38"></Illustration>
+				<ComposedBlock ID="cblock_5" HPOS="346" VPOS="1797" WIDTH="18" HEIGHT="15">
+					<TextBlock ID="block_0" HPOS="346" VPOS="1797" WIDTH="18" HEIGHT="15">
+						<TextLine ID="line_0" HPOS="346" VPOS="1797" WIDTH="18" HEIGHT="15">
+							<String ID="string_0" HPOS="346" VPOS="1797" WIDTH="18" HEIGHT="15" WC="0.19" CONTENT="rv"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_6" HPOS="251" VPOS="122" WIDTH="11" HEIGHT="11"></Illustration>
+				<Illustration ID="cblock_7" HPOS="492" VPOS="447" WIDTH="67" HEIGHT="31"></Illustration>
+				<Illustration ID="cblock_8" HPOS="1160" VPOS="1624" WIDTH="14" HEIGHT="13"></Illustration>
+				<Illustration ID="cblock_9" HPOS="1148" VPOS="1783" WIDTH="72" HEIGHT="38"></Illustration>
+				<Illustration ID="cblock_10" HPOS="1190" VPOS="2817" WIDTH="25" HEIGHT="11"></Illustration>
+				<Illustration ID="cblock_11" HPOS="186" VPOS="527" WIDTH="1593" HEIGHT="1079"></Illustration>
+				<Illustration ID="cblock_12" HPOS="1812" VPOS="1406" WIDTH="40" HEIGHT="16"></Illustration>
+				<Illustration ID="cblock_13" HPOS="1872" VPOS="1710" WIDTH="20" HEIGHT="35"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
