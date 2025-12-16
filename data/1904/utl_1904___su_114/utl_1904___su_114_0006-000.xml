@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_n3avth_8_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2212" HEIGHT="2630" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2212" HEIGHT="2630">
+				<GraphicalElement ID="cblock_0" HPOS="505" VPOS="1182" WIDTH="1063" HEIGHT="7"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="590" VPOS="1210" WIDTH="880" HEIGHT="35">
+					<TextBlock ID="block_0" HPOS="590" VPOS="1210" WIDTH="880" HEIGHT="35">
+						<TextLine ID="line_0" HPOS="590" VPOS="1210" WIDTH="880" HEIGHT="35">
+							<String ID="string_0" HPOS="590" VPOS="1210" WIDTH="169" HEIGHT="31" WC="0.96" CONTENT="Stockholm,"/><SP WIDTH="19" VPOS="1210" HPOS="759"/>
+							<String ID="string_1" HPOS="778" VPOS="1211" WIDTH="95" HEIGHT="31" WC="0.96" CONTENT="tryckt"/><SP WIDTH="18" VPOS="1211" HPOS="873"/>
+							<String ID="string_2" HPOS="891" VPOS="1212" WIDTH="51" HEIGHT="24" WC="0.93" CONTENT="hos"/><SP WIDTH="19" VPOS="1212" HPOS="942"/>
+							<String ID="string_3" HPOS="961" VPOS="1212" WIDTH="29" HEIGHT="24" WC="0.91" CONTENT="P."/><SP WIDTH="20" VPOS="1212" HPOS="990"/>
+							<String ID="string_4" HPOS="1010" VPOS="1212" WIDTH="169" HEIGHT="31" WC="0.92" CONTENT="Palmquists"/><SP WIDTH="19" VPOS="1212" HPOS="1179"/>
+							<String ID="string_5" HPOS="1198" VPOS="1213" WIDTH="174" HEIGHT="32" WC="0.96" CONTENT="Aktiebolag,"/><SP WIDTH="22" VPOS="1213" HPOS="1372"/>
+							<String ID="string_6" HPOS="1394" VPOS="1214" WIDTH="76" HEIGHT="25" WC="0.96" CONTENT="1904."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="505" VPOS="1263" WIDTH="1062" HEIGHT="9"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
