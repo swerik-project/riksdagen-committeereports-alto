@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ku5hofam_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1898" HEIGHT="2804" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1898" HEIGHT="2804">
+				<ComposedBlock ID="cblock_0" HPOS="483" VPOS="124" WIDTH="766" HEIGHT="41">
+					<TextBlock ID="block_0" HPOS="483" VPOS="124" WIDTH="766" HEIGHT="41">
+						<TextLine ID="line_0" HPOS="483" VPOS="124" WIDTH="766" HEIGHT="41">
+							<String ID="string_0" HPOS="483" VPOS="124" WIDTH="406" HEIGHT="41" WC="0.92" CONTENT="Bevillningsutskottets"/><SP WIDTH="21" VPOS="124" HPOS="889"/>
+							<String ID="string_1" HPOS="910" VPOS="124" WIDTH="220" HEIGHT="31" WC="0.96" CONTENT="betänkande"/><SP WIDTH="22" VPOS="124" HPOS="1130"/>
+							<String ID="string_2" HPOS="1152" VPOS="133" WIDTH="45" HEIGHT="21" WC="0.96" CONTENT="nr"/><SP WIDTH="21" VPOS="133" HPOS="1197"/>
+							<String ID="string_3" HPOS="1218" VPOS="124" WIDTH="31" HEIGHT="31" WC="0.96" CONTENT="9."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
