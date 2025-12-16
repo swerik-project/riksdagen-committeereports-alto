@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_eg6ri5vl_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2240" HEIGHT="2610" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2240" HEIGHT="2610">
+				<ComposedBlock ID="cblock_0" HPOS="722" VPOS="1201" WIDTH="1002" HEIGHT="65">
+					<TextBlock ID="block_0" HPOS="722" VPOS="1201" WIDTH="1002" HEIGHT="65">
+						<TextLine ID="line_0" HPOS="722" VPOS="1201" WIDTH="1002" HEIGHT="14">
+							<String ID="string_0" HPOS="722" VPOS="1201" WIDTH="1002" HEIGHT="14" WC="0.0" CONTENT="FR"/><SP WIDTH="-448" VPOS="1201" HPOS="1724"/>
+							<String ID="string_1" HPOS="1276" VPOS="1187" WIDTH="116" HEIGHT="34" WC="0.0" CONTENT="Rrrrrrrrrrr"/><SP WIDTH="3" VPOS="1187" HPOS="1392"/>
+							<String ID="string_2" HPOS="1395" VPOS="1187" WIDTH="91" HEIGHT="34" WC="0.0" CONTENT="rna"/><SP WIDTH="41" VPOS="1187" HPOS="1486"/>
+							<String ID="string_3" HPOS="1527" VPOS="1187" WIDTH="201" HEIGHT="34" WC="0.2" CONTENT="OT"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="796" VPOS="1230" WIDTH="892" HEIGHT="36">
+							<String ID="string_4" HPOS="796" VPOS="1240" WIDTH="180" HEIGHT="26" WC="0.93" CONTENT="STOCKHOLM,"/><SP WIDTH="17" VPOS="1240" HPOS="976"/>
+							<String ID="string_5" HPOS="993" VPOS="1239" WIDTH="70" HEIGHT="20" WC="0.59" CONTENT="IVAR"/><SP WIDTH="18" VPOS="1239" HPOS="1063"/>
+							<String ID="string_6" HPOS="1081" VPOS="1230" WIDTH="197" HEIGHT="27" WC="0.70" CONTENT="HAGGSTRÖMS"/><SP WIDTH="16" VPOS="1230" HPOS="1278"/>
+							<String ID="string_7" HPOS="1294" VPOS="1235" WIDTH="206" HEIGHT="21" WC="0.90" CONTENT="BOKTRYCKERI"/><SP WIDTH="18" VPOS="1235" HPOS="1500"/>
+							<String ID="string_8" HPOS="1518" VPOS="1233" WIDTH="26" HEIGHT="21" WC="0.67" CONTENT="A,"/><SP WIDTH="15" VPOS="1233" HPOS="1544"/>
+							<String ID="string_9" HPOS="1559" VPOS="1234" WIDTH="35" HEIGHT="25" WC="0.85" CONTENT="B.,"/><SP WIDTH="20" VPOS="1234" HPOS="1594"/>
+							<String ID="string_10" HPOS="1614" VPOS="1232" WIDTH="74" HEIGHT="21" WC="0.93" CONTENT="1911."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="1036" VPOS="1280" WIDTH="632" HEIGHT="9"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

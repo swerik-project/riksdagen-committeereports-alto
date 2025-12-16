@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_2b_yvw5w_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2217" HEIGHT="2618" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2217" HEIGHT="2618">
+				<ComposedBlock ID="cblock_0" HPOS="420" VPOS="143" WIDTH="1059" HEIGHT="35">
+					<TextBlock ID="block_0" HPOS="420" VPOS="143" WIDTH="1059" HEIGHT="35">
+						<TextLine ID="line_0" HPOS="420" VPOS="143" WIDTH="1059" HEIGHT="35">
+							<String ID="string_0" HPOS="420" VPOS="143" WIDTH="43" HEIGHT="30" WC="0.96" CONTENT="40"/><SP WIDTH="405" VPOS="143" HPOS="463"/>
+							<String ID="string_1" HPOS="868" VPOS="143" WIDTH="253" HEIGHT="33" WC="0.90" CONTENT="Statsutskottets"/><SP WIDTH="22" VPOS="143" HPOS="1121"/>
+							<String ID="string_2" HPOS="1143" VPOS="146" WIDTH="164" HEIGHT="30" WC="0.95" CONTENT="memorial"/><SP WIDTH="23" VPOS="146" HPOS="1307"/>
+							<String ID="string_3" HPOS="1330" VPOS="145" WIDTH="53" HEIGHT="31" WC="0.96" CONTENT="Nr"/><SP WIDTH="27" VPOS="145" HPOS="1383"/>
+							<String ID="string_4" HPOS="1410" VPOS="146" WIDTH="69" HEIGHT="32" WC="0.96" CONTENT="113."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="822" VPOS="232" WIDTH="314" HEIGHT="3"></GraphicalElement >
+				<Illustration ID="cblock_2" HPOS="274" VPOS="215" WIDTH="1799" HEIGHT="29"></Illustration>
+				<ComposedBlock ID="cblock_3" HPOS="1847" VPOS="277" WIDTH="226" HEIGHT="30">
+					<TextBlock ID="block_1" HPOS="1847" VPOS="277" WIDTH="226" HEIGHT="30">
+						<TextLine ID="line_1" HPOS="1847" VPOS="277" WIDTH="226" HEIGHT="30">
+							<String ID="string_5" HPOS="1847" VPOS="277" WIDTH="116" HEIGHT="28" WC="0.39" CONTENT="Kronor."/><SP WIDTH="55" VPOS="277" HPOS="1963"/>
+							<String ID="string_6" HPOS="2018" VPOS="285" WIDTH="35" HEIGHT="22" WC="0.27" CONTENT=" &#39;ö."/><SP WIDTH="17" VPOS="285" HPOS="2053"/>
+							<String ID="string_7" HPOS="2070" VPOS="288" WIDTH="3" HEIGHT="4" WC="0.70" CONTENT="|"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="1605" VPOS="395" WIDTH="455" HEIGHT="43">
+					<TextBlock ID="block_2" HPOS="1605" VPOS="395" WIDTH="455" HEIGHT="43">
+						<TextLine ID="line_2" HPOS="1605" VPOS="395" WIDTH="455" HEIGHT="43">
+							<String ID="string_8" HPOS="1605" VPOS="395" WIDTH="180" HEIGHT="41" WC="0.93" CONTENT="Transport"/><SP WIDTH="33" VPOS="395" HPOS="1785"/>
+							<String ID="string_9" HPOS="1818" VPOS="399" WIDTH="192" HEIGHT="39" WC="0.55" CONTENT="83,152,697"/><SP WIDTH="16" VPOS="399" HPOS="2010"/>
+							<String ID="string_10" HPOS="2026" VPOS="413" WIDTH="34" HEIGHT="21" WC="0.55" CONTENT="41"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="1517" VPOS="2185" WIDTH="551" HEIGHT="43">
+					<TextBlock ID="block_3" HPOS="1517" VPOS="2185" WIDTH="551" HEIGHT="43">
+						<TextLine ID="line_3" HPOS="1517" VPOS="2185" WIDTH="551" HEIGHT="43">
+							<String ID="string_11" HPOS="1517" VPOS="2186" WIDTH="133" HEIGHT="33" WC="0.95" CONTENT="Summa"/><SP WIDTH="23" VPOS="2186" HPOS="1650"/>
+							<String ID="string_12" HPOS="1673" VPOS="2188" WIDTH="120" HEIGHT="32" WC="0.92" CONTENT="kronor"/><SP WIDTH="33" VPOS="2188" HPOS="1793"/>
+							<String ID="string_13" HPOS="1826" VPOS="2185" WIDTH="242" HEIGHT="43" WC="0.86" CONTENT="83,152,697&#39;41"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
