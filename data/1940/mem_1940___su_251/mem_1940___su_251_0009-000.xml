@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_aizr_ker_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1922" HEIGHT="2822" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1922" HEIGHT="2822">
+				<ComposedBlock ID="cblock_0" HPOS="429" VPOS="687" WIDTH="940" HEIGHT="42">
+					<TextBlock ID="block_0" HPOS="429" VPOS="687" WIDTH="940" HEIGHT="42">
+						<TextLine ID="line_0" HPOS="429" VPOS="687" WIDTH="940" HEIGHT="42">
+							<String ID="string_0" HPOS="429" VPOS="687" WIDTH="940" HEIGHT="42" WC="0.89" CONTENT="KAPITALINVESTERINGAR"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="880" VPOS="811" WIDTH="30" HEIGHT="42">
+					<TextBlock ID="block_1" HPOS="880" VPOS="811" WIDTH="30" HEIGHT="42">
+						<TextLine ID="line_1" HPOS="880" VPOS="811" WIDTH="30" HEIGHT="42">
+							<String ID="string_1" HPOS="880" VPOS="811" WIDTH="30" HEIGHT="42" WC="0.92" CONTENT="Å"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="505" VPOS="932" WIDTH="772" HEIGHT="69">
+					<TextBlock ID="block_2" HPOS="505" VPOS="932" WIDTH="772" HEIGHT="69">
+						<TextLine ID="line_2" HPOS="505" VPOS="932" WIDTH="772" HEIGHT="69">
+							<String ID="string_2" HPOS="505" VPOS="932" WIDTH="772" HEIGHT="69" WC="0.91" CONTENT="TILLÄGGSSTAT"/><SP WIDTH="-91" VPOS="932" HPOS="1277"/>
+							<String ID="string_3" HPOS="1186" VPOS="928" WIDTH="91" HEIGHT="97" WC="0.96" CONTENT="II"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="837" VPOS="1088" WIDTH="112" HEIGHT="33">
+					<TextBlock ID="block_3" HPOS="837" VPOS="1088" WIDTH="112" HEIGHT="33">
+						<TextLine ID="line_3" HPOS="837" VPOS="1088" WIDTH="112" HEIGHT="33">
+							<String ID="string_4" HPOS="837" VPOS="1088" WIDTH="112" HEIGHT="33" WC="0.95" CONTENT="TILL"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="360" VPOS="1198" WIDTH="1066" HEIGHT="50">
+					<TextBlock ID="block_4" HPOS="360" VPOS="1198" WIDTH="1066" HEIGHT="50">
+						<TextLine ID="line_4" HPOS="360" VPOS="1198" WIDTH="1066" HEIGHT="50">
+							<String ID="string_5" HPOS="360" VPOS="1205" WIDTH="406" HEIGHT="41" WC="0.91" CONTENT="RIKSSTATEN"/><SP WIDTH="47" VPOS="1205" HPOS="766"/>
+							<String ID="string_6" HPOS="813" VPOS="1200" WIDTH="125" HEIGHT="47" WC="0.93" CONTENT="FÖR"/><SP WIDTH="45" VPOS="1200" HPOS="938"/>
+							<String ID="string_7" HPOS="983" VPOS="1198" WIDTH="443" HEIGHT="50" WC="0.91" CONTENT="BUDGETÅRET"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="722" VPOS="1338" WIDTH="324" HEIGHT="72">
+					<TextBlock ID="block_5" HPOS="722" VPOS="1338" WIDTH="324" HEIGHT="72">
+						<TextLine ID="line_5" HPOS="722" VPOS="1338" WIDTH="324" HEIGHT="72">
+							<String ID="string_8" HPOS="722" VPOS="1338" WIDTH="324" HEIGHT="72" WC="0.90" CONTENT="1939/40"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="187" VPOS="2534" WIDTH="855" HEIGHT="32">
+					<TextBlock ID="block_6" HPOS="187" VPOS="2534" WIDTH="855" HEIGHT="32">
+						<TextLine ID="line_6" HPOS="187" VPOS="2534" WIDTH="855" HEIGHT="32">
+							<String ID="string_9" HPOS="187" VPOS="2535" WIDTH="110" HEIGHT="31" WC="0.82" CONTENT="Bihang"/><SP WIDTH="11" VPOS="2535" HPOS="297"/>
+							<String ID="string_10" HPOS="308" VPOS="2534" WIDTH="42" HEIGHT="25" WC="0.96" CONTENT="till"/><SP WIDTH="11" VPOS="2534" HPOS="350"/>
+							<String ID="string_11" HPOS="361" VPOS="2535" WIDTH="167" HEIGHT="31" WC="0.96" CONTENT="riksdagens"/><SP WIDTH="11" VPOS="2535" HPOS="528"/>
+							<String ID="string_12" HPOS="539" VPOS="2535" WIDTH="146" HEIGHT="31" WC="0.95" CONTENT="protokoll"/><SP WIDTH="13" VPOS="2535" HPOS="685"/>
+							<String ID="string_13" HPOS="698" VPOS="2536" WIDTH="74" HEIGHT="24" WC="0.95" CONTENT="1940."/><SP WIDTH="21" VPOS="2536" HPOS="772"/>
+							<String ID="string_14" HPOS="793" VPOS="2536" WIDTH="16" HEIGHT="24" WC="0.96" CONTENT="6"/><SP WIDTH="11" VPOS="2536" HPOS="809"/>
+							<String ID="string_15" HPOS="820" VPOS="2536" WIDTH="78" HEIGHT="25" WC="0.94" CONTENT="saml."/><SP WIDTH="34" VPOS="2536" HPOS="898"/>
+							<String ID="string_16" HPOS="932" VPOS="2535" WIDTH="38" HEIGHT="23" WC="0.94" CONTENT="Nr"/><SP WIDTH="16" VPOS="2535" HPOS="970"/>
+							<String ID="string_17" HPOS="986" VPOS="2536" WIDTH="56" HEIGHT="23" WC="0.96" CONTENT="251."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

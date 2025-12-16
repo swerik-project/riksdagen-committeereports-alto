@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_s0e86ked_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1920" HEIGHT="2826" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1920" HEIGHT="2826">
+				<ComposedBlock ID="cblock_0" HPOS="1363" VPOS="362" WIDTH="258" HEIGHT="38">
+					<TextBlock ID="block_0" HPOS="1363" VPOS="362" WIDTH="258" HEIGHT="38">
+						<TextLine ID="line_0" HPOS="1363" VPOS="362" WIDTH="258" HEIGHT="38">
+							<String ID="string_0" HPOS="1363" VPOS="362" WIDTH="258" HEIGHT="38" WC="0.94" CONTENT="Bilagor."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="672" VPOS="710" WIDTH="410" HEIGHT="52">
+					<TextBlock ID="block_1" HPOS="672" VPOS="710" WIDTH="410" HEIGHT="52">
+						<TextLine ID="line_1" HPOS="672" VPOS="710" WIDTH="410" HEIGHT="52">
+							<String ID="string_1" HPOS="672" VPOS="721" WIDTH="338" HEIGHT="41" WC="0.92" CONTENT="UTGIFTER"/><SP WIDTH="38" VPOS="721" HPOS="1010"/>
+							<String ID="string_2" HPOS="1048" VPOS="710" WIDTH="34" HEIGHT="49" WC="0.92" CONTENT="Å"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="486" VPOS="840" WIDTH="774" HEIGHT="70">
+					<TextBlock ID="block_2" HPOS="486" VPOS="840" WIDTH="774" HEIGHT="70">
+						<TextLine ID="line_2" HPOS="486" VPOS="840" WIDTH="774" HEIGHT="70">
+							<String ID="string_3" HPOS="486" VPOS="840" WIDTH="774" HEIGHT="70" WC="0.91" CONTENT="TILLÄGGSSTAT"/><SP WIDTH="-88" VPOS="840" HPOS="1260"/>
+							<String ID="string_4" HPOS="1172" VPOS="836" WIDTH="90" HEIGHT="96" WC="0.95" CONTENT="II"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="825" VPOS="996" WIDTH="110" HEIGHT="33">
+					<TextBlock ID="block_3" HPOS="825" VPOS="996" WIDTH="110" HEIGHT="33">
+						<TextLine ID="line_3" HPOS="825" VPOS="996" WIDTH="110" HEIGHT="33">
+							<String ID="string_5" HPOS="825" VPOS="996" WIDTH="110" HEIGHT="33" WC="0.96" CONTENT="TILL"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="347" VPOS="1103" WIDTH="1090" HEIGHT="54">
+					<TextBlock ID="block_4" HPOS="347" VPOS="1103" WIDTH="1090" HEIGHT="54">
+						<TextLine ID="line_4" HPOS="347" VPOS="1103" WIDTH="1090" HEIGHT="54">
+							<String ID="string_6" HPOS="347" VPOS="1116" WIDTH="407" HEIGHT="41" WC="0.91" CONTENT="RIKSSTATEN"/><SP WIDTH="48" VPOS="1116" HPOS="754"/>
+							<String ID="string_7" HPOS="802" VPOS="1108" WIDTH="127" HEIGHT="47" WC="0.93" CONTENT="FÖR"/><SP WIDTH="42" VPOS="1108" HPOS="929"/>
+							<String ID="string_8" HPOS="971" VPOS="1103" WIDTH="466" HEIGHT="51" WC="0.91" CONTENT="BUDGETÅRET"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="707" VPOS="1245" WIDTH="347" HEIGHT="73">
+					<TextBlock ID="block_5" HPOS="707" VPOS="1245" WIDTH="347" HEIGHT="73">
+						<TextLine ID="line_5" HPOS="707" VPOS="1245" WIDTH="347" HEIGHT="73">
+							<String ID="string_9" HPOS="707" VPOS="1245" WIDTH="347" HEIGHT="73" WC="0.91" CONTENT="1939/40:"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_6" HPOS="572" VPOS="1450" WIDTH="622" HEIGHT="44">
+					<TextBlock ID="block_6" HPOS="572" VPOS="1450" WIDTH="622" HEIGHT="44">
+						<TextLine ID="line_6" HPOS="572" VPOS="1450" WIDTH="622" HEIGHT="44">
+							<String ID="string_10" HPOS="572" VPOS="1450" WIDTH="622" HEIGHT="44" WC="0.92" CONTENT="DRIFTBUDGETEN"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
