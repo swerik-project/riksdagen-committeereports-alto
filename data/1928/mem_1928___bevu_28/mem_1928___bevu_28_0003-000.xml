@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_lvxokid7_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1882" HEIGHT="2826" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1882" HEIGHT="2826">
+				<GraphicalElement ID="cblock_0" HPOS="541" VPOS="1072" WIDTH="952" HEIGHT="9"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="540" VPOS="1091" WIDTH="951" HEIGHT="35">
+					<TextBlock ID="block_0" HPOS="540" VPOS="1091" WIDTH="951" HEIGHT="35">
+						<TextLine ID="line_0" HPOS="540" VPOS="1091" WIDTH="951" HEIGHT="35">
+							<String ID="string_0" HPOS="540" VPOS="1096" WIDTH="174" HEIGHT="30" WC="0.96" CONTENT="Stockholm,"/><SP WIDTH="31" VPOS="1096" HPOS="714"/>
+							<String ID="string_1" HPOS="745" VPOS="1096" WIDTH="79" HEIGHT="25" WC="0.96" CONTENT="Isaac"/><SP WIDTH="31" VPOS="1096" HPOS="824"/>
+							<String ID="string_2" HPOS="855" VPOS="1095" WIDTH="120" HEIGHT="25" WC="0.80" CONTENT="Marcus”"/><SP WIDTH="31" VPOS="1095" HPOS="975"/>
+							<String ID="string_3" HPOS="1006" VPOS="1091" WIDTH="376" HEIGHT="33" WC="0.90" CONTENT="Boktryckeri-Aktiebolag,"/><SP WIDTH="32" VPOS="1091" HPOS="1382"/>
+							<String ID="string_4" HPOS="1414" VPOS="1091" WIDTH="77" HEIGHT="25" WC="0.96" CONTENT="1928."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="577" VPOS="1134" WIDTH="913" HEIGHT="8"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
