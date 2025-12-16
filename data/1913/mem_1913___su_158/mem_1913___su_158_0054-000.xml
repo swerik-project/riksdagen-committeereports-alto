@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_may32mjs_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2203" HEIGHT="2670" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2203" HEIGHT="2670">
+				<ComposedBlock ID="cblock_0" HPOS="898" VPOS="176" WIDTH="601" HEIGHT="35">
+					<TextBlock ID="block_0" HPOS="898" VPOS="176" WIDTH="601" HEIGHT="35">
+						<TextLine ID="line_0" HPOS="898" VPOS="176" WIDTH="601" HEIGHT="35">
+							<String ID="string_0" HPOS="898" VPOS="176" WIDTH="246" HEIGHT="33" WC="0.90" CONTENT="Statsutskottels"/><SP WIDTH="23" VPOS="176" HPOS="1144"/>
+							<String ID="string_1" HPOS="1167" VPOS="179" WIDTH="162" HEIGHT="32" WC="0.96" CONTENT="memorial"/><SP WIDTH="22" VPOS="179" HPOS="1329"/>
+							<String ID="string_2" HPOS="1351" VPOS="179" WIDTH="52" HEIGHT="32" WC="0.94" CONTENT="Nr"/><SP WIDTH="24" VPOS="179" HPOS="1403"/>
+							<String ID="string_3" HPOS="1427" VPOS="179" WIDTH="72" HEIGHT="32" WC="0.77" CONTENT="155."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="332" VPOS="259" WIDTH="877" HEIGHT="18"></GraphicalElement >
+				<Illustration ID="cblock_2" HPOS="697" VPOS="252" WIDTH="1393" HEIGHT="328"></Illustration>
+				<ComposedBlock ID="cblock_3" HPOS="1522" VPOS="787" WIDTH="558" HEIGHT="50">
+					<TextBlock ID="block_1" HPOS="1522" VPOS="787" WIDTH="558" HEIGHT="50">
+						<TextLine ID="line_1" HPOS="1522" VPOS="787" WIDTH="558" HEIGHT="50">
+							<String ID="string_4" HPOS="1522" VPOS="796" WIDTH="133" HEIGHT="33" WC="0.92" CONTENT="Summa"/><SP WIDTH="22" VPOS="796" HPOS="1655"/>
+							<String ID="string_5" HPOS="1677" VPOS="787" WIDTH="403" HEIGHT="50" WC="0.0" CONTENT="kronor!125,368,683.14"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
