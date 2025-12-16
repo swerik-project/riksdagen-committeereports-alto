@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_wt3irdvx_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1908" HEIGHT="2798" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1908" HEIGHT="2798">
+				<ComposedBlock ID="cblock_0" HPOS="579" VPOS="1116" WIDTH="903" HEIGHT="32">
+					<TextBlock ID="block_0" HPOS="579" VPOS="1116" WIDTH="903" HEIGHT="32">
+						<TextLine ID="line_0" HPOS="579" VPOS="1116" WIDTH="903" HEIGHT="32">
+							<String ID="string_0" HPOS="579" VPOS="1116" WIDTH="175" HEIGHT="29" WC="0.96" CONTENT="Stockholm,"/><SP WIDTH="26" VPOS="1116" HPOS="754"/>
+							<String ID="string_1" HPOS="780" VPOS="1116" WIDTH="74" HEIGHT="24" WC="0.96" CONTENT="Isaac"/><SP WIDTH="23" VPOS="1116" HPOS="854"/>
+							<String ID="string_2" HPOS="877" VPOS="1116" WIDTH="117" HEIGHT="24" WC="0.88" CONTENT="Marcus”"/><SP WIDTH="20" VPOS="1116" HPOS="994"/>
+							<String ID="string_3" HPOS="1014" VPOS="1116" WIDTH="372" HEIGHT="32" WC="0.91" CONTENT="Boktryckeri-Aktiebolag,"/><SP WIDTH="21" VPOS="1116" HPOS="1386"/>
+							<String ID="string_4" HPOS="1407" VPOS="1118" WIDTH="75" HEIGHT="23" WC="0.96" CONTENT="1926."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_r4fg3n2f_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1920" HEIGHT="2798" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1920" HEIGHT="2798">
+				<GraphicalElement ID="cblock_0" HPOS="1240" VPOS="1161" WIDTH="72" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="820" VPOS="1163" WIDTH="84" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="583" VPOS="1181" WIDTH="900" HEIGHT="32">
+					<TextBlock ID="block_0" HPOS="583" VPOS="1181" WIDTH="900" HEIGHT="32">
+						<TextLine ID="line_0" HPOS="583" VPOS="1181" WIDTH="900" HEIGHT="32">
+							<String ID="string_0" HPOS="583" VPOS="1183" WIDTH="175" HEIGHT="28" WC="0.96" CONTENT="Stockholm,"/><SP WIDTH="26" VPOS="1183" HPOS="758"/>
+							<String ID="string_1" HPOS="784" VPOS="1183" WIDTH="73" HEIGHT="23" WC="0.96" CONTENT="Isaac"/><SP WIDTH="25" VPOS="1183" HPOS="857"/>
+							<String ID="string_2" HPOS="882" VPOS="1183" WIDTH="115" HEIGHT="23" WC="0.71" CONTENT="Marcus"/><SP WIDTH="16" VPOS="1183" HPOS="997"/>
+							<String ID="string_3" HPOS="1013" VPOS="1181" WIDTH="374" HEIGHT="32" WC="0.91" CONTENT="Boktryckeri-Aktiebolag,"/><SP WIDTH="22" VPOS="1181" HPOS="1387"/>
+							<String ID="string_4" HPOS="1409" VPOS="1182" WIDTH="74" HEIGHT="22" WC="0.95" CONTENT="1926."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
