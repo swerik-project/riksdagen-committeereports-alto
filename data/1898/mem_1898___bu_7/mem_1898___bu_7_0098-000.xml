@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_abr90ena_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2220" HEIGHT="2640" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2220" HEIGHT="2640">
+				<ComposedBlock ID="cblock_0" HPOS="460" VPOS="107" WIDTH="42" HEIGHT="30">
+					<TextBlock ID="block_0" HPOS="460" VPOS="107" WIDTH="42" HEIGHT="30">
+						<TextLine ID="line_0" HPOS="460" VPOS="107" WIDTH="42" HEIGHT="30">
+							<String ID="string_0" HPOS="460" VPOS="107" WIDTH="42" HEIGHT="30" WC="0.96" CONTENT="43"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="917" VPOS="110" WIDTH="614" HEIGHT="37">
+					<TextBlock ID="block_1" HPOS="917" VPOS="110" WIDTH="614" HEIGHT="37">
+						<TextLine ID="line_1" HPOS="917" VPOS="110" WIDTH="614" HEIGHT="37">
+							<String ID="string_1" HPOS="917" VPOS="110" WIDTH="276" HEIGHT="35" WC="0.89" CONTENT="Bankoutskottets"/><SP WIDTH="23" VPOS="110" HPOS="1193"/>
+							<String ID="string_2" HPOS="1216" VPOS="113" WIDTH="174" HEIGHT="33" WC="0.95" CONTENT="Memorial"/><SP WIDTH="22" VPOS="113" HPOS="1390"/>
+							<String ID="string_3" HPOS="1412" VPOS="115" WIDTH="67" HEIGHT="32" WC="0.96" CONTENT="N:o"/><SP WIDTH="23" VPOS="115" HPOS="1479"/>
+							<String ID="string_4" HPOS="1502" VPOS="117" WIDTH="29" HEIGHT="29" WC="0.82" CONTENT="7."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
