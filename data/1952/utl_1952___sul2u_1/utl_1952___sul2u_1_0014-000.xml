@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_5q3u8y_e_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1882" HEIGHT="2778" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1882" HEIGHT="2778">
+				<ComposedBlock ID="cblock_0" HPOS="863" VPOS="1307" WIDTH="315" HEIGHT="60">
+					<TextBlock ID="block_0" HPOS="863" VPOS="1307" WIDTH="315" HEIGHT="60">
+						<TextLine ID="line_0" HPOS="863" VPOS="1307" WIDTH="315" HEIGHT="21">
+							<String ID="string_0" HPOS="863" VPOS="1308" WIDTH="65" HEIGHT="17" WC="0.92" CONTENT="Iduns"/><SP WIDTH="9" VPOS="1308" HPOS="928"/>
+							<String ID="string_1" HPOS="937" VPOS="1311" WIDTH="34" HEIGHT="17" WC="0.85" CONTENT="tr.,"/><SP WIDTH="10" VPOS="1311" HPOS="971"/>
+							<String ID="string_2" HPOS="981" VPOS="1307" WIDTH="85" HEIGHT="21" WC="0.96" CONTENT="Esselte,"/><SP WIDTH="9" VPOS="1307" HPOS="1066"/>
+							<String ID="string_3" HPOS="1075" VPOS="1308" WIDTH="68" HEIGHT="18" WC="0.96" CONTENT="Sthlm"/><SP WIDTH="9" VPOS="1308" HPOS="1143"/>
+							<String ID="string_4" HPOS="1152" VPOS="1308" WIDTH="26" HEIGHT="18" WC="0.95" CONTENT="52"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="967" VPOS="1346" WIDTH="103" HEIGHT="21">
+							<String ID="string_5" HPOS="967" VPOS="1346" WIDTH="103" HEIGHT="21" WC="0.95" CONTENT="216264"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
