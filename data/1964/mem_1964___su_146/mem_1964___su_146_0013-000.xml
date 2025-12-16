@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_u6iy16ky_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1862" HEIGHT="2766" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1862" HEIGHT="2766">
+				<ComposedBlock ID="cblock_0" HPOS="529" VPOS="791" WIDTH="709" HEIGHT="88">
+					<TextBlock ID="block_0" HPOS="529" VPOS="791" WIDTH="709" HEIGHT="88">
+						<TextLine ID="line_0" HPOS="529" VPOS="791" WIDTH="709" HEIGHT="88">
+							<String ID="string_0" HPOS="529" VPOS="791" WIDTH="709" HEIGHT="88" WC="0.91" CONTENT="RIKSSTAT"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="573" VPOS="1168" WIDTH="644" HEIGHT="60">
+					<TextBlock ID="block_1" HPOS="573" VPOS="1168" WIDTH="644" HEIGHT="60">
+						<TextLine ID="line_1" HPOS="573" VPOS="1168" WIDTH="644" HEIGHT="60">
+							<String ID="string_1" HPOS="573" VPOS="1168" WIDTH="422" HEIGHT="55" WC="0.91" CONTENT="BUDGETÅRET"/><SP WIDTH="28" VPOS="1168" HPOS="995"/>
+							<String ID="string_2" HPOS="1023" VPOS="1179" WIDTH="194" HEIGHT="49" WC="0.83" CONTENT="1964/65"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
