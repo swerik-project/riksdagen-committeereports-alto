@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess__qtcjrvq_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1926" HEIGHT="2850" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1926" HEIGHT="2850">
+				<ComposedBlock ID="cblock_0" HPOS="118" VPOS="231" WIDTH="1507" HEIGHT="38">
+					<TextBlock ID="block_0" HPOS="118" VPOS="231" WIDTH="1507" HEIGHT="38">
+						<TextLine ID="line_0" HPOS="118" VPOS="231" WIDTH="1507" HEIGHT="38">
+							<String ID="string_0" HPOS="118" VPOS="235" WIDTH="503" HEIGHT="31" WC="0.91" CONTENT="RIKSDAGENS"/><SP WIDTH="73" VPOS="235" HPOS="621"/>
+							<String ID="string_1" HPOS="694" VPOS="231" WIDTH="931" HEIGHT="38" WC="0.79" CONTENT="BESPARINGSKOMMITTÉ"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="623" VPOS="400" WIDTH="500" HEIGHT="10"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="125" VPOS="844" WIDTH="1500" HEIGHT="109">
+					<TextBlock ID="block_1" HPOS="125" VPOS="844" WIDTH="1500" HEIGHT="109">
+						<TextLine ID="line_1" HPOS="125" VPOS="844" WIDTH="1500" HEIGHT="109">
+							<String ID="string_2" HPOS="125" VPOS="844" WIDTH="1500" HEIGHT="109" WC="0.95" CONTENT="BETÄNKANDE"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="763" VPOS="1154" WIDTH="217" HEIGHT="28">
+					<TextBlock ID="block_2" HPOS="763" VPOS="1154" WIDTH="217" HEIGHT="28">
+						<TextLine ID="line_2" HPOS="763" VPOS="1154" WIDTH="217" HEIGHT="28">
+							<String ID="string_3" HPOS="763" VPOS="1154" WIDTH="217" HEIGHT="28" WC="0.89" CONTENT="AVGIVET"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="556" VPOS="1313" WIDTH="639" HEIGHT="32">
+					<TextBlock ID="block_3" HPOS="556" VPOS="1313" WIDTH="639" HEIGHT="32">
+						<TextLine ID="line_3" HPOS="556" VPOS="1313" WIDTH="639" HEIGHT="32">
+							<String ID="string_4" HPOS="556" VPOS="1313" WIDTH="103" HEIGHT="30" WC="0.96" CONTENT="DEN"/><SP WIDTH="38" VPOS="1313" HPOS="659"/>
+							<String ID="string_5" HPOS="697" VPOS="1314" WIDTH="43" HEIGHT="30" WC="0.96" CONTENT="20"/><SP WIDTH="28" VPOS="1314" HPOS="740"/>
+							<String ID="string_6" HPOS="768" VPOS="1313" WIDTH="298" HEIGHT="32" WC="0.96" CONTENT="DECEMBER"/><SP WIDTH="40" VPOS="1313" HPOS="1066"/>
+							<String ID="string_7" HPOS="1106" VPOS="1315" WIDTH="89" HEIGHT="30" WC="0.90" CONTENT="1932"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="505" VPOS="2405" WIDTH="739" HEIGHT="79">
+					<TextBlock ID="block_4" HPOS="505" VPOS="2405" WIDTH="739" HEIGHT="79">
+						<TextLine ID="line_4" HPOS="680" VPOS="2405" WIDTH="391" HEIGHT="25">
+							<String ID="string_8" HPOS="680" VPOS="2405" WIDTH="285" HEIGHT="25" WC="0.95" CONTENT="STOCKHOLM"/><SP WIDTH="27" VPOS="2405" HPOS="965"/>
+							<String ID="string_9" HPOS="992" VPOS="2405" WIDTH="79" HEIGHT="24" WC="0.95" CONTENT="1932"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="505" VPOS="2460" WIDTH="739" HEIGHT="24">
+							<String ID="string_10" HPOS="505" VPOS="2461" WIDTH="91" HEIGHT="23" WC="0.34" CONTENT="ISAACG"/><SP WIDTH="29" VPOS="2461" HPOS="596"/>
+							<String ID="string_11" HPOS="625" VPOS="2461" WIDTH="130" HEIGHT="22" WC="0.92" CONTENT="MARCUS"/><SP WIDTH="28" VPOS="2461" HPOS="755"/>
+							<String ID="string_12" HPOS="783" VPOS="2460" WIDTH="461" HEIGHT="22" WC="0.85" CONTENT="BOKTRYCKERIAKTIEBOLAG"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
