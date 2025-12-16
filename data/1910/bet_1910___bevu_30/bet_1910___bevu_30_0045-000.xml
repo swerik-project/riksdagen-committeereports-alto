@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_8bv1lvf4_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2175" HEIGHT="2671" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2175" HEIGHT="2671">
+				<ComposedBlock ID="cblock_0" HPOS="610" VPOS="201" WIDTH="756" HEIGHT="43">
+					<TextBlock ID="block_0" HPOS="610" VPOS="201" WIDTH="756" HEIGHT="43">
+						<TextLine ID="line_0" HPOS="610" VPOS="201" WIDTH="756" HEIGHT="43">
+							<String ID="string_0" HPOS="610" VPOS="203" WIDTH="365" HEIGHT="41" WC="0.75" CONTENT="Bevillningsutskottets"/><SP WIDTH="24" VPOS="203" HPOS="975"/>
+							<String ID="string_1" HPOS="999" VPOS="202" WIDTH="215" HEIGHT="33" WC="0.96" CONTENT="Betänkande"/><SP WIDTH="22" VPOS="202" HPOS="1214"/>
+							<String ID="string_2" HPOS="1236" VPOS="201" WIDTH="54" HEIGHT="32" WC="0.95" CONTENT="Nr"/><SP WIDTH="24" VPOS="201" HPOS="1290"/>
+							<String ID="string_3" HPOS="1314" VPOS="204" WIDTH="52" HEIGHT="30" WC="0.96" CONTENT="30."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="563" VPOS="1216" WIDTH="868" HEIGHT="73">
+					<TextBlock ID="block_1" HPOS="563" VPOS="1216" WIDTH="868" HEIGHT="73">
+						<TextLine ID="line_1" HPOS="563" VPOS="1216" WIDTH="868" HEIGHT="73">
+							<String ID="string_4" HPOS="563" VPOS="1216" WIDTH="868" HEIGHT="73" WC="0.95" CONTENT="RESERVATIONER."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="1742" VPOS="201" WIDTH="43" HEIGHT="31">
+					<TextBlock ID="block_2" HPOS="1742" VPOS="201" WIDTH="43" HEIGHT="31">
+						<TextLine ID="line_2" HPOS="1742" VPOS="201" WIDTH="43" HEIGHT="31">
+							<String ID="string_5" HPOS="1742" VPOS="201" WIDTH="43" HEIGHT="31" WC="0.96" CONTENT="45"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
