@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_hotuokoo_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2215" HEIGHT="2676" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2215" HEIGHT="2676">
+				<ComposedBlock ID="cblock_0" HPOS="744" VPOS="241" WIDTH="1063" HEIGHT="29">
+					<TextBlock ID="block_0" HPOS="744" VPOS="241" WIDTH="1063" HEIGHT="29">
+						<TextLine ID="line_0" HPOS="744" VPOS="241" WIDTH="1063" HEIGHT="29">
+							<String ID="string_0" HPOS="744" VPOS="242" WIDTH="228" HEIGHT="28" WC="0.88" CONTENT="Statsutskottets"/><SP WIDTH="24" VPOS="242" HPOS="972"/>
+							<String ID="string_1" HPOS="996" VPOS="241" WIDTH="155" HEIGHT="29" WC="0.96" CONTENT="Memorial"/><SP WIDTH="22" VPOS="241" HPOS="1151"/>
+							<String ID="string_2" HPOS="1173" VPOS="241" WIDTH="59" HEIGHT="29" WC="0.87" CONTENT="N:o"/><SP WIDTH="26" VPOS="241" HPOS="1232"/>
+							<String ID="string_3" HPOS="1258" VPOS="242" WIDTH="22" HEIGHT="27" WC="0.90" CONTENT="1."/><SP WIDTH="489" VPOS="242" HPOS="1280"/>
+							<String ID="string_4" HPOS="1769" VPOS="241" WIDTH="38" HEIGHT="29" WC="0.69" CONTENT="45"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="634" VPOS="806" WIDTH="760" HEIGHT="107">
+					<TextBlock ID="block_1" HPOS="634" VPOS="806" WIDTH="760" HEIGHT="107">
+						<TextLine ID="line_1" HPOS="634" VPOS="806" WIDTH="760" HEIGHT="107">
+							<String ID="string_5" HPOS="634" VPOS="806" WIDTH="760" HEIGHT="107" WC="0.68" CONTENT="Riksgäldskontorets"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="219" VPOS="1173" WIDTH="1592" HEIGHT="106">
+					<TextBlock ID="block_2" HPOS="219" VPOS="1173" WIDTH="1592" HEIGHT="106">
+						<TextLine ID="line_2" HPOS="219" VPOS="1173" WIDTH="1592" HEIGHT="106">
+							<String ID="string_6" HPOS="219" VPOS="1173" WIDTH="519" HEIGHT="81" WC="0.94" CONTENT="balanserade"/><SP WIDTH="65" VPOS="1173" HPOS="738"/>
+							<String ID="string_7" HPOS="803" VPOS="1175" WIDTH="411" HEIGHT="104" WC="0.94" CONTENT="tillgångar"/><SP WIDTH="61" VPOS="1175" HPOS="1214"/>
+							<String ID="string_8" HPOS="1275" VPOS="1174" WIDTH="154" HEIGHT="81" WC="0.96" CONTENT="och"/><SP WIDTH="60" VPOS="1174" HPOS="1429"/>
+							<String ID="string_9" HPOS="1489" VPOS="1174" WIDTH="322" HEIGHT="79" WC="0.96" CONTENT="skulder"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="670" VPOS="1496" WIDTH="694" HEIGHT="51">
+					<TextBlock ID="block_3" HPOS="670" VPOS="1496" WIDTH="694" HEIGHT="51">
+						<TextLine ID="line_3" HPOS="670" VPOS="1496" WIDTH="694" HEIGHT="51">
+							<String ID="string_10" HPOS="670" VPOS="1497" WIDTH="69" HEIGHT="39" WC="0.96" CONTENT="vid"/><SP WIDTH="30" VPOS="1497" HPOS="739"/>
+							<String ID="string_11" HPOS="769" VPOS="1497" WIDTH="103" HEIGHT="40" WC="0.96" CONTENT="1890"/><SP WIDTH="29" VPOS="1497" HPOS="872"/>
+							<String ID="string_12" HPOS="901" VPOS="1497" WIDTH="68" HEIGHT="39" WC="0.96" CONTENT="års"/><SP WIDTH="28" VPOS="1497" HPOS="969"/>
+							<String ID="string_13" HPOS="997" VPOS="1496" WIDTH="144" HEIGHT="51" WC="0.96" CONTENT="början"/><SP WIDTH="29" VPOS="1496" HPOS="1141"/>
+							<String ID="string_14" HPOS="1170" VPOS="1497" WIDTH="74" HEIGHT="40" WC="0.96" CONTENT="och"/><SP WIDTH="29" VPOS="1497" HPOS="1244"/>
+							<String ID="string_15" HPOS="1273" VPOS="1497" WIDTH="91" HEIGHT="40" WC="0.94" CONTENT="slut."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_4" HPOS="864" VPOS="1983" WIDTH="310" HEIGHT="3"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
