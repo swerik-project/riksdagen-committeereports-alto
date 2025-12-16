@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_v11inokk_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2169" HEIGHT="2643" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2169" HEIGHT="2643">
+				<GraphicalElement ID="cblock_0" HPOS="1253" VPOS="1207" WIDTH="717" HEIGHT="9"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="398" VPOS="1207" WIDTH="1572" HEIGHT="17"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="632" VPOS="1237" WIDTH="1086" HEIGHT="38">
+					<TextBlock ID="block_0" HPOS="632" VPOS="1237" WIDTH="1086" HEIGHT="38">
+						<TextLine ID="line_0" HPOS="632" VPOS="1237" WIDTH="1086" HEIGHT="38">
+							<String ID="string_0" HPOS="632" VPOS="1245" WIDTH="168" HEIGHT="30" WC="0.96" CONTENT="Stockholm,"/><SP WIDTH="18" VPOS="1245" HPOS="800"/>
+							<String ID="string_1" HPOS="818" VPOS="1243" WIDTH="96" HEIGHT="32" WC="0.96" CONTENT="tryckt"/><SP WIDTH="17" VPOS="1243" HPOS="914"/>
+							<String ID="string_2" HPOS="931" VPOS="1243" WIDTH="50" HEIGHT="23" WC="0.93" CONTENT="hos"/><SP WIDTH="18" VPOS="1243" HPOS="981"/>
+							<String ID="string_3" HPOS="999" VPOS="1243" WIDTH="30" HEIGHT="24" WC="0.87" CONTENT="A."/><SP WIDTH="19" VPOS="1243" HPOS="1029"/>
+							<String ID="string_4" HPOS="1048" VPOS="1242" WIDTH="30" HEIGHT="24" WC="0.91" CONTENT="L."/><SP WIDTH="18" VPOS="1242" HPOS="1078"/>
+							<String ID="string_5" HPOS="1096" VPOS="1242" WIDTH="135" HEIGHT="23" WC="0.93" CONTENT="Normans"/><SP WIDTH="19" VPOS="1242" HPOS="1231"/>
+							<String ID="string_6" HPOS="1250" VPOS="1238" WIDTH="374" HEIGHT="32" WC="0.91" CONTENT="Boktryckeri-Aktiebolag,"/><SP WIDTH="21" VPOS="1238" HPOS="1624"/>
+							<String ID="string_7" HPOS="1645" VPOS="1237" WIDTH="73" HEIGHT="23" WC="0.96" CONTENT="1881."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="374" VPOS="1284" WIDTH="1597" HEIGHT="17"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
