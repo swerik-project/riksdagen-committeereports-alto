@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_stbmqfl9_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2176" HEIGHT="2628" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2176" HEIGHT="2628">
+				<ComposedBlock ID="cblock_0" HPOS="1591" VPOS="254" WIDTH="120" HEIGHT="42">
+					<TextBlock ID="block_0" HPOS="1591" VPOS="254" WIDTH="120" HEIGHT="42">
+						<TextLine ID="line_0" HPOS="1591" VPOS="254" WIDTH="120" HEIGHT="42">
+							<String ID="string_0" HPOS="1591" VPOS="254" WIDTH="120" HEIGHT="42" WC="0.96" CONTENT="Bilaga."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="202" VPOS="651" WIDTH="1596" HEIGHT="492">
+					<TextBlock ID="block_1" HPOS="202" VPOS="651" WIDTH="1596" HEIGHT="492">
+						<TextLine ID="line_1" HPOS="757" VPOS="651" WIDTH="494" HEIGHT="46">
+							<String ID="string_1" HPOS="757" VPOS="651" WIDTH="494" HEIGHT="46" WC="0.95" CONTENT="FÖRTECKNING"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="949" VPOS="867" WIDTH="106" HEIGHT="36">
+							<String ID="string_2" HPOS="949" VPOS="867" WIDTH="106" HEIGHT="36" WC="0.65" CONTENT="öfver"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="202" VPOS="1063" WIDTH="1596" HEIGHT="80">
+							<String ID="string_3" HPOS="202" VPOS="1069" WIDTH="650" HEIGHT="74" WC="0.92" CONTENT="VETERINÄRDISTRIKT"/><SP WIDTH="55" VPOS="1069" HPOS="852"/>
+							<String ID="string_4" HPOS="907" VPOS="1076" WIDTH="120" HEIGHT="65" WC="0.92" CONTENT="MED"/><SP WIDTH="50" VPOS="1076" HPOS="1027"/>
+							<String ID="string_5" HPOS="1077" VPOS="1063" WIDTH="721" HEIGHT="79" WC="0.69" CONTENT="TJÄNSTÅRSBERÄKNING"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="943" VPOS="1303" WIDTH="107" HEIGHT="36">
+					<TextBlock ID="block_2" HPOS="943" VPOS="1303" WIDTH="107" HEIGHT="36">
+						<TextLine ID="line_4" HPOS="943" VPOS="1303" WIDTH="107" HEIGHT="36">
+							<String ID="string_6" HPOS="943" VPOS="1303" WIDTH="107" HEIGHT="36" WC="0.96" CONTENT="deras"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="573" VPOS="1498" WIDTH="850" HEIGHT="53">
+					<TextBlock ID="block_3" HPOS="573" VPOS="1498" WIDTH="850" HEIGHT="53">
+						<TextLine ID="line_5" HPOS="573" VPOS="1498" WIDTH="850" HEIGHT="53">
+							<String ID="string_7" HPOS="573" VPOS="1502" WIDTH="327" HEIGHT="49" WC="0.91" CONTENT="TILLSÄTTNING,"/><SP WIDTH="25" VPOS="1502" HPOS="900"/>
+							<String ID="string_8" HPOS="925" VPOS="1498" WIDTH="365" HEIGHT="44" WC="0.90" CONTENT="LÖNEFÖRMÅNER"/><SP WIDTH="23" VPOS="1498" HPOS="1290"/>
+							<String ID="string_9" HPOS="1313" VPOS="1507" WIDTH="42" HEIGHT="33" WC="0.89" CONTENT="M."/><SP WIDTH="25" VPOS="1507" HPOS="1355"/>
+							<String ID="string_10" HPOS="1380" VPOS="1509" WIDTH="43" HEIGHT="32" WC="0.89" CONTENT="M."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

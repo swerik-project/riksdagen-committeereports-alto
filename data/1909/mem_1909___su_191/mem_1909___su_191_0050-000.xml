@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_5gzg3hnw_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2242" HEIGHT="2618" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2242" HEIGHT="2618">
+				<Illustration ID="cblock_0" HPOS="0" VPOS="1290" WIDTH="0" HEIGHT="78"></Illustration>
+				<ComposedBlock ID="cblock_1" HPOS="928" VPOS="804" WIDTH="32" HEIGHT="12">
+					<TextBlock ID="block_0" HPOS="928" VPOS="804" WIDTH="32" HEIGHT="12">
+						<TextLine ID="line_0" HPOS="942" VPOS="804" WIDTH="18" HEIGHT="12">
+							<String ID="string_0" HPOS="942" VPOS="804" WIDTH="18" HEIGHT="12" WC="0.39" CONTENT="ä"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="928" VPOS="810" WIDTH="12" HEIGHT="6">
+							<String ID="string_1" HPOS="928" VPOS="810" WIDTH="12" HEIGHT="6" WC="0.35" CONTENT="."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="0" VPOS="1641" WIDTH="0" HEIGHT="21"></Illustration>
+				<Illustration ID="cblock_3" HPOS="0" VPOS="1686" WIDTH="0" HEIGHT="24"></Illustration>
+				<Illustration ID="cblock_4" HPOS="0" VPOS="1448" WIDTH="0" HEIGHT="20"></Illustration>
+				<ComposedBlock ID="cblock_5" HPOS="934" VPOS="1020" WIDTH="30" HEIGHT="8">
+					<TextBlock ID="block_1" HPOS="934" VPOS="1020" WIDTH="30" HEIGHT="8">
+						<TextLine ID="line_2" HPOS="956" VPOS="1020" WIDTH="8" HEIGHT="6">
+							<String ID="string_2" HPOS="956" VPOS="1020" WIDTH="8" HEIGHT="6" WC="0.52" CONTENT="i"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="934" VPOS="1020" WIDTH="8" HEIGHT="8">
+							<String ID="string_3" HPOS="934" VPOS="1020" WIDTH="8" HEIGHT="8" WC="0.83" CONTENT="."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_6" HPOS="0" VPOS="1062" WIDTH="0" HEIGHT="16"></Illustration>
+				<Illustration ID="cblock_7" HPOS="0" VPOS="1269" WIDTH="0" HEIGHT="22"></Illustration>
+				<Illustration ID="cblock_8" HPOS="0" VPOS="1292" WIDTH="0" HEIGHT="18"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
