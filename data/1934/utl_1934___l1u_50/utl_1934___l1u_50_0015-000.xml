@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_4iycl7ja_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1884" HEIGHT="2846" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1884" HEIGHT="2846">
+				<ComposedBlock ID="cblock_0" HPOS="511" VPOS="169" WIDTH="679" HEIGHT="36">
+					<TextBlock ID="block_0" HPOS="511" VPOS="169" WIDTH="679" HEIGHT="36">
+						<TextLine ID="line_0" HPOS="511" VPOS="169" WIDTH="679" HEIGHT="36">
+							<String ID="string_0" HPOS="511" VPOS="172" WIDTH="113" HEIGHT="28" WC="0.93" CONTENT="Första"/><SP WIDTH="24" VPOS="172" HPOS="624"/>
+							<String ID="string_1" HPOS="648" VPOS="171" WIDTH="223" HEIGHT="34" WC="0.90" CONTENT="lagutskottets"/><SP WIDTH="21" VPOS="171" HPOS="871"/>
+							<String ID="string_2" HPOS="892" VPOS="169" WIDTH="165" HEIGHT="29" WC="0.95" CONTENT="utlåtande"/><SP WIDTH="25" VPOS="169" HPOS="1057"/>
+							<String ID="string_3" HPOS="1082" VPOS="169" WIDTH="47" HEIGHT="28" WC="0.95" CONTENT="Nr"/><SP WIDTH="14" VPOS="169" HPOS="1129"/>
+							<String ID="string_4" HPOS="1143" VPOS="172" WIDTH="47" HEIGHT="26" WC="0.95" CONTENT="50."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="700" VPOS="314" WIDTH="297" HEIGHT="34">
+					<TextBlock ID="block_1" HPOS="700" VPOS="314" WIDTH="297" HEIGHT="34">
+						<TextLine ID="line_1" HPOS="700" VPOS="314" WIDTH="297" HEIGHT="34">
+							<String ID="string_5" HPOS="700" VPOS="314" WIDTH="297" HEIGHT="34" WC="0.95" CONTENT="Reservation"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="144" VPOS="402" WIDTH="590" HEIGHT="36">
+					<TextBlock ID="block_2" HPOS="144" VPOS="402" WIDTH="590" HEIGHT="36">
+						<TextLine ID="line_2" HPOS="144" VPOS="402" WIDTH="590" HEIGHT="36">
+							<String ID="string_6" HPOS="144" VPOS="417" WIDTH="42" HEIGHT="21" WC="0.96" CONTENT="av"/><SP WIDTH="17" VPOS="417" HPOS="186"/>
+							<String ID="string_7" HPOS="203" VPOS="405" WIDTH="76" HEIGHT="32" WC="0.96" CONTENT="herr"/><SP WIDTH="17" VPOS="405" HPOS="279"/>
+							<String ID="string_8" HPOS="296" VPOS="404" WIDTH="174" HEIGHT="33" WC="0.96" CONTENT="Johanson"/><SP WIDTH="17" VPOS="404" HPOS="470"/>
+							<String ID="string_9" HPOS="487" VPOS="403" WIDTH="12" HEIGHT="31" WC="0.95" CONTENT="i"/><SP WIDTH="19" VPOS="403" HPOS="499"/>
+							<String ID="string_10" HPOS="518" VPOS="402" WIDTH="216" HEIGHT="33" WC="0.96" CONTENT="Huskvarna."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="1564" VPOS="164" WIDTH="40" HEIGHT="31">
+					<TextBlock ID="block_3" HPOS="1564" VPOS="164" WIDTH="40" HEIGHT="31">
+						<TextLine ID="line_3" HPOS="1564" VPOS="164" WIDTH="40" HEIGHT="31">
+							<String ID="string_11" HPOS="1564" VPOS="164" WIDTH="40" HEIGHT="31" WC="0.95" CONTENT="15"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
