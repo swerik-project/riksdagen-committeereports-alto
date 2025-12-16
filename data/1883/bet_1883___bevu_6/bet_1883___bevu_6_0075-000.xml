@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_92elvpmg_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2147" HEIGHT="2650" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2147" HEIGHT="2650">
+				<ComposedBlock ID="cblock_0" HPOS="666" VPOS="221" WIDTH="1115" HEIGHT="42">
+					<TextBlock ID="block_0" HPOS="666" VPOS="221" WIDTH="1115" HEIGHT="42">
+						<TextLine ID="line_0" HPOS="666" VPOS="221" WIDTH="1115" HEIGHT="42">
+							<String ID="string_0" HPOS="666" VPOS="222" WIDTH="205" HEIGHT="41" WC="0.91" CONTENT="Bevillnings-"/><SP WIDTH="9" VPOS="222" HPOS="871"/>
+							<String ID="string_1" HPOS="880" VPOS="222" WIDTH="165" HEIGHT="33" WC="0.94" CONTENT="Utskottets"/><SP WIDTH="22" VPOS="222" HPOS="1045"/>
+							<String ID="string_2" HPOS="1067" VPOS="222" WIDTH="203" HEIGHT="33" WC="0.96" CONTENT="Betänkande"/><SP WIDTH="23" VPOS="222" HPOS="1270"/>
+							<String ID="string_3" HPOS="1293" VPOS="221" WIDTH="63" HEIGHT="34" WC="0.64" CONTENT="N:o"/><SP WIDTH="24" VPOS="221" HPOS="1356"/>
+							<String ID="string_4" HPOS="1380" VPOS="225" WIDTH="28" HEIGHT="29" WC="0.94" CONTENT="6."/><SP WIDTH="335" VPOS="225" HPOS="1408"/>
+							<String ID="string_5" HPOS="1743" VPOS="223" WIDTH="38" HEIGHT="31" WC="0.67" CONTENT="T5"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="265" VPOS="1343" WIDTH="1183" HEIGHT="45">
+					<TextBlock ID="block_1" HPOS="265" VPOS="1343" WIDTH="1183" HEIGHT="45">
+						<TextLine ID="line_1" HPOS="265" VPOS="1343" WIDTH="1183" HEIGHT="45">
+							<String ID="string_6" HPOS="265" VPOS="1344" WIDTH="61" HEIGHT="33" WC="0.93" CONTENT="Om"/><SP WIDTH="24" VPOS="1344" HPOS="326"/>
+							<String ID="string_7" HPOS="350" VPOS="1343" WIDTH="249" HEIGHT="44" WC="0.90" CONTENT="stämpelafgift"/><SP WIDTH="61" VPOS="1343" HPOS="599"/>
+							<String ID="string_8" HPOS="660" VPOS="1363" WIDTH="86" HEIGHT="5" WC="0.70" CONTENT="——"/><SP WIDTH="22" VPOS="1363" HPOS="746"/>
+							<String ID="string_9" HPOS="768" VPOS="1363" WIDTH="415" HEIGHT="5" WC="0.32" CONTENT="—————-—"/><SP WIDTH="-38" VPOS="1363" HPOS="1183"/>
+							<String ID="string_10" HPOS="1145" VPOS="1339" WIDTH="43" HEIGHT="52" WC="0.32" CONTENT="—"/><SP WIDTH="24" VPOS="1339" HPOS="1188"/>
+							<String ID="string_11" HPOS="1212" VPOS="1365" WIDTH="40" HEIGHT="4" WC="0.91" CONTENT="—"/><SP WIDTH="27" VPOS="1365" HPOS="1252"/>
+							<String ID="string_12" HPOS="1279" VPOS="1344" WIDTH="169" HEIGHT="44" WC="0.88" CONTENT="stadgadt."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

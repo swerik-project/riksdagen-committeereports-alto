@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_sn5lyfv2_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2134" HEIGHT="2647" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2134" HEIGHT="2647">
+				<ComposedBlock ID="cblock_0" HPOS="776" VPOS="1095" WIDTH="454" HEIGHT="89">
+					<TextBlock ID="block_0" HPOS="776" VPOS="1095" WIDTH="454" HEIGHT="89">
+						<TextLine ID="line_0" HPOS="776" VPOS="1095" WIDTH="454" HEIGHT="89">
+							<String ID="string_0" HPOS="776" VPOS="1095" WIDTH="454" HEIGHT="89" WC="0.96" CONTENT="Förslag"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="294" VPOS="1330" WIDTH="1401" HEIGHT="96">
+					<TextBlock ID="block_1" HPOS="294" VPOS="1330" WIDTH="1401" HEIGHT="96">
+						<TextLine ID="line_1" HPOS="294" VPOS="1330" WIDTH="1401" HEIGHT="96">
+							<String ID="string_1" HPOS="294" VPOS="1330" WIDTH="97" HEIGHT="70" WC="0.95" CONTENT="till"/><SP WIDTH="43" VPOS="1330" HPOS="391"/>
+							<String ID="string_2" HPOS="434" VPOS="1331" WIDTH="342" HEIGHT="90" WC="0.96" CONTENT="förordning"/><SP WIDTH="43" VPOS="1331" HPOS="776"/>
+							<String ID="string_3" HPOS="819" VPOS="1335" WIDTH="308" HEIGHT="86" WC="0.93" CONTENT="angående"/><SP WIDTH="45" VPOS="1335" HPOS="1127"/>
+							<String ID="string_4" HPOS="1172" VPOS="1336" WIDTH="523" HEIGHT="90" WC="0.92" CONTENT="stämpelafgiften."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
