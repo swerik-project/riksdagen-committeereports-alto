@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_s3s8qe40_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1904" HEIGHT="2828" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1904" HEIGHT="2828">
+				<ComposedBlock ID="cblock_0" HPOS="585" VPOS="159" WIDTH="1071" HEIGHT="40">
+					<TextBlock ID="block_0" HPOS="585" VPOS="159" WIDTH="1071" HEIGHT="40">
+						<TextLine ID="line_0" HPOS="585" VPOS="159" WIDTH="1071" HEIGHT="40">
+							<String ID="string_0" HPOS="585" VPOS="166" WIDTH="275" HEIGHT="33" WC="0.91" CONTENT="Statsutskottets"/><SP WIDTH="19" VPOS="166" HPOS="860"/>
+							<String ID="string_1" HPOS="879" VPOS="165" WIDTH="181" HEIGHT="33" WC="0.96" CONTENT="memorial"/><SP WIDTH="28" VPOS="165" HPOS="1060"/>
+							<String ID="string_2" HPOS="1088" VPOS="165" WIDTH="50" HEIGHT="32" WC="0.96" CONTENT="Nr"/><SP WIDTH="18" VPOS="165" HPOS="1138"/>
+							<String ID="string_3" HPOS="1156" VPOS="167" WIDTH="70" HEIGHT="30" WC="0.94" CONTENT="232."/><SP WIDTH="390" VPOS="167" HPOS="1226"/>
+							<String ID="string_4" HPOS="1616" VPOS="159" WIDTH="40" HEIGHT="31" WC="0.95" CONTENT="29"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="1424" VPOS="424" WIDTH="198" HEIGHT="32">
+					<TextBlock ID="block_1" HPOS="1424" VPOS="424" WIDTH="198" HEIGHT="32">
+						<TextLine ID="line_1" HPOS="1424" VPOS="424" WIDTH="198" HEIGHT="32">
+							<String ID="string_5" HPOS="1424" VPOS="424" WIDTH="83" HEIGHT="32" WC="0.27" CONTENT="Bu."/><SP WIDTH="24" VPOS="424" HPOS="1507"/>
+							<String ID="string_6" HPOS="1531" VPOS="424" WIDTH="91" HEIGHT="31" WC="0.81" CONTENT="IIT."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="503" VPOS="648" WIDTH="794" HEIGHT="53">
+					<TextBlock ID="block_2" HPOS="503" VPOS="648" WIDTH="794" HEIGHT="53">
+						<TextLine ID="line_2" HPOS="503" VPOS="648" WIDTH="794" HEIGHT="53">
+							<String ID="string_7" HPOS="503" VPOS="650" WIDTH="307" HEIGHT="41" WC="0.93" CONTENT="Inkomsterna"/><SP WIDTH="28" VPOS="650" HPOS="810"/>
+							<String ID="string_8" HPOS="838" VPOS="648" WIDTH="27" HEIGHT="41" WC="0.92" CONTENT="å"/><SP WIDTH="27" VPOS="648" HPOS="865"/>
+							<String ID="string_9" HPOS="892" VPOS="648" WIDTH="405" HEIGHT="53" WC="0.90" CONTENT="kapitalbudgeten."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_3" HPOS="90" VPOS="747" WIDTH="1618" HEIGHT="198"></Illustration>
+				<ComposedBlock ID="cblock_4" HPOS="1317" VPOS="795" WIDTH="109" HEIGHT="24">
+					<TextBlock ID="block_3" HPOS="1317" VPOS="795" WIDTH="109" HEIGHT="24">
+						<TextLine ID="line_3" HPOS="1317" VPOS="795" WIDTH="109" HEIGHT="24">
+							<String ID="string_10" HPOS="1317" VPOS="795" WIDTH="109" HEIGHT="24" WC="0.95" CONTENT="Kronor"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_5" HPOS="1486" VPOS="818" WIDTH="211" HEIGHT="127"></Illustration>
+				<ComposedBlock ID="cblock_6" HPOS="1700" VPOS="788" WIDTH="3" HEIGHT="96">
+					<TextBlock ID="block_4" HPOS="1700" VPOS="788" WIDTH="3" HEIGHT="96">
+						<TextLine ID="line_4" HPOS="1700" VPOS="788" WIDTH="3" HEIGHT="96">
+							<String ID="string_11" HPOS="1700" VPOS="788" WIDTH="3" HEIGHT="96" WC="0.93" CONTENT="|"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_7" HPOS="1491" VPOS="886" WIDTH="212" HEIGHT="57">
+					<TextBlock ID="block_5" HPOS="1491" VPOS="886" WIDTH="212" HEIGHT="57">
+						<TextLine ID="line_5" HPOS="1491" VPOS="886" WIDTH="212" HEIGHT="57">
+							<String ID="string_12" HPOS="1491" VPOS="886" WIDTH="212" HEIGHT="57" WC="0.77" CONTENT="410,070,700|"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_8" HPOS="223" VPOS="832" WIDTH="3" HEIGHT="115"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
