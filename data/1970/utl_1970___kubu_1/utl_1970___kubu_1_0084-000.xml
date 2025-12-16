@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_z9sla4bm_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1917" HEIGHT="2829" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1917" HEIGHT="2829">
+				<ComposedBlock ID="cblock_0" HPOS="245" VPOS="180" WIDTH="40" HEIGHT="30">
+					<TextBlock ID="block_0" HPOS="245" VPOS="180" WIDTH="40" HEIGHT="30">
+						<TextLine ID="line_0" HPOS="245" VPOS="180" WIDTH="40" HEIGHT="30">
+							<String ID="string_0" HPOS="245" VPOS="180" WIDTH="40" HEIGHT="30" WC="0.96" CONTENT="70"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="245" VPOS="258" WIDTH="1489" HEIGHT="8"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="264" VPOS="287" WIDTH="1413" HEIGHT="108">
+					<TextBlock ID="block_1" HPOS="264" VPOS="287" WIDTH="1413" HEIGHT="97">
+						<TextLine ID="line_1" HPOS="872" VPOS="287" WIDTH="394" HEIGHT="31">
+							<String ID="string_1" HPOS="872" VPOS="287" WIDTH="291" HEIGHT="31" WC="0.91" CONTENT="Lönegradsplacerad"/><SP WIDTH="13" VPOS="287" HPOS="1163"/>
+							<String ID="string_2" HPOS="1176" VPOS="287" WIDTH="90" HEIGHT="30" WC="0.96" CONTENT="tjänst"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="264" VPOS="322" WIDTH="1413" HEIGHT="34">
+							<String ID="string_3" HPOS="264" VPOS="325" WIDTH="206" HEIGHT="31" WC="0.92" CONTENT="Tjänsteställe,"/><SP WIDTH="13" VPOS="325" HPOS="470"/>
+							<String ID="string_4" HPOS="483" VPOS="325" WIDTH="238" HEIGHT="30" WC="0.90" CONTENT="tjänstebenämn."/><SP WIDTH="740" VPOS="325" HPOS="721"/>
+							<String ID="string_5" HPOS="1461" VPOS="322" WIDTH="216" HEIGHT="30" WC="0.92" CONTENT="Arvodestjänst"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="843" VPOS="355" WIDTH="501" HEIGHT="40">
+							<String ID="string_6" HPOS="843" VPOS="355" WIDTH="136" HEIGHT="40" WC="0.95" CONTENT="ordinarie"/><SP WIDTH="154" VPOS="355" HPOS="979"/>
+							<String ID="string_7" HPOS="1133" VPOS="358" WIDTH="211" HEIGHT="25" WC="0.92" CONTENT="icke-ordinarie"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_3" HPOS="253" VPOS="404" WIDTH="1468" HEIGHT="7"></GraphicalElement >
+				<ComposedBlock ID="cblock_4" HPOS="253" VPOS="451" WIDTH="477" HEIGHT="61">
+					<TextBlock ID="block_2" HPOS="253" VPOS="451" WIDTH="477" HEIGHT="61">
+						<TextLine ID="line_4" HPOS="253" VPOS="451" WIDTH="298" HEIGHT="25">
+							<String ID="string_8" HPOS="253" VPOS="451" WIDTH="298" HEIGHT="25" WC="0.92" CONTENT="Jordbruksutskottet"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="288" VPOS="486" WIDTH="442" HEIGHT="26">
+							<String ID="string_9" HPOS="288" VPOS="487" WIDTH="312" HEIGHT="25" WC="0.92" CONTENT="Jordbruksutskottets"/><SP WIDTH="12" VPOS="487" HPOS="600"/>
+							<String ID="string_10" HPOS="612" VPOS="486" WIDTH="118" HEIGHT="25" WC="0.90" CONTENT="sekrete-"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_5" HPOS="252" VPOS="649" WIDTH="663" HEIGHT="97">
+					<TextBlock ID="block_3" HPOS="252" VPOS="649" WIDTH="663" HEIGHT="97">
+						<TextLine ID="line_6" HPOS="252" VPOS="649" WIDTH="469" HEIGHT="31">
+							<String ID="string_11" HPOS="252" VPOS="650" WIDTH="149" HEIGHT="24" WC="0.83" CONTENT="Allmänna"/><SP WIDTH="13" VPOS="650" HPOS="401"/>
+							<String ID="string_12" HPOS="414" VPOS="649" WIDTH="307" HEIGHT="31" WC="0.90" CONTENT="beredningsutskottet"/>
+						</TextLine>
+						<TextLine ID="line_7" HPOS="288" VPOS="685" WIDTH="442" HEIGHT="30">
+							<String ID="string_13" HPOS="288" VPOS="687" WIDTH="149" HEIGHT="23" WC="0.93" CONTENT="Allmänna"/><SP WIDTH="19" VPOS="687" HPOS="437"/>
+							<String ID="string_14" HPOS="456" VPOS="685" WIDTH="274" HEIGHT="30" WC="0.92" CONTENT="beredningsutskot-"/>
+						</TextLine>
+						<TextLine ID="line_8" HPOS="323" VPOS="721" WIDTH="592" HEIGHT="25">
+							<String ID="string_15" HPOS="323" VPOS="723" WIDTH="56" HEIGHT="23" WC="0.92" CONTENT="tets"/><SP WIDTH="15" VPOS="723" HPOS="379"/>
+							<String ID="string_16" HPOS="394" VPOS="722" WIDTH="331" HEIGHT="24" WC="0.90" CONTENT="sekreterare.........."/><SP WIDTH="177" VPOS="722" HPOS="725"/>
+							<String ID="string_17" HPOS="902" VPOS="721" WIDTH="13" HEIGHT="23" WC="0.96" CONTENT="1"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
