@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_6qabkilz_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1886" HEIGHT="2794" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1886" HEIGHT="2794">
+				<ComposedBlock ID="cblock_0" HPOS="425" VPOS="861" WIDTH="860" HEIGHT="106">
+					<TextBlock ID="block_0" HPOS="425" VPOS="861" WIDTH="860" HEIGHT="106">
+						<TextLine ID="line_0" HPOS="425" VPOS="861" WIDTH="860" HEIGHT="106">
+							<String ID="string_0" HPOS="425" VPOS="861" WIDTH="860" HEIGHT="106" WC="0.91" CONTENT="RIKSSTAT"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="504" VPOS="1106" WIDTH="699" HEIGHT="209">
+					<TextBlock ID="block_1" HPOS="504" VPOS="1106" WIDTH="699" HEIGHT="209">
+						<TextLine ID="line_1" HPOS="808" VPOS="1106" WIDTH="95" HEIGHT="40">
+							<String ID="string_1" HPOS="808" VPOS="1106" WIDTH="95" HEIGHT="40" WC="0.96" CONTENT="FÖR"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="504" VPOS="1249" WIDTH="699" HEIGHT="66">
+							<String ID="string_2" HPOS="504" VPOS="1249" WIDTH="441" HEIGHT="58" WC="0.91" CONTENT="BUDGETÅRET"/><SP WIDTH="36" VPOS="1249" HPOS="945"/>
+							<String ID="string_3" HPOS="981" VPOS="1257" WIDTH="222" HEIGHT="58" WC="0.92" CONTENT="1949/50"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
