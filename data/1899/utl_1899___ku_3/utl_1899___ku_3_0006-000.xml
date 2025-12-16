@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_7eudgaa5_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2208" HEIGHT="2638" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2208" HEIGHT="2638">
+				<GraphicalElement ID="cblock_0" HPOS="390" VPOS="1261" WIDTH="308" HEIGHT="4"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="389" VPOS="1331" WIDTH="313" HEIGHT="3"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="1534" VPOS="1256" WIDTH="346" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="726" VPOS="1278" WIDTH="934" HEIGHT="38">
+					<TextBlock ID="block_0" HPOS="726" VPOS="1278" WIDTH="934" HEIGHT="38">
+						<TextLine ID="line_0" HPOS="726" VPOS="1278" WIDTH="934" HEIGHT="38">
+							<String ID="string_0" HPOS="726" VPOS="1283" WIDTH="229" HEIGHT="33" WC="0.96" CONTENT="STOCKHOLM,"/><SP WIDTH="19" VPOS="1283" HPOS="955"/>
+							<String ID="string_1" HPOS="974" VPOS="1282" WIDTH="76" HEIGHT="27" WC="0.92" CONTENT="NYA"/><SP WIDTH="19" VPOS="1282" HPOS="1050"/>
+							<String ID="string_2" HPOS="1069" VPOS="1278" WIDTH="492" HEIGHT="30" WC="0.92" CONTENT="TRYCKERI-AKTIEBOLAGET"/><SP WIDTH="22" VPOS="1278" HPOS="1561"/>
+							<String ID="string_3" HPOS="1583" VPOS="1279" WIDTH="77" HEIGHT="26" WC="0.96" CONTENT="1899."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
