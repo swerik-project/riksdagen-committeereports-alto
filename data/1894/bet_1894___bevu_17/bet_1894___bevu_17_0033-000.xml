@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_r42l_ren_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2240" HEIGHT="2638" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2240" HEIGHT="2638">
+				<ComposedBlock ID="cblock_0" HPOS="619" VPOS="184" WIDTH="758" HEIGHT="42">
+					<TextBlock ID="block_0" HPOS="619" VPOS="184" WIDTH="758" HEIGHT="42">
+						<TextLine ID="line_0" HPOS="619" VPOS="184" WIDTH="758" HEIGHT="42">
+							<String ID="string_0" HPOS="619" VPOS="184" WIDTH="364" HEIGHT="42" WC="0.90" CONTENT="Bevillningsutskottets"/><SP WIDTH="28" VPOS="184" HPOS="983"/>
+							<String ID="string_1" HPOS="1011" VPOS="185" WIDTH="205" HEIGHT="31" WC="0.96" CONTENT="Betänkande"/><SP WIDTH="24" VPOS="185" HPOS="1216"/>
+							<String ID="string_2" HPOS="1240" VPOS="185" WIDTH="63" HEIGHT="32" WC="0.80" CONTENT="N:o"/><SP WIDTH="27" VPOS="185" HPOS="1303"/>
+							<String ID="string_3" HPOS="1330" VPOS="187" WIDTH="47" HEIGHT="29" WC="0.80" CONTENT="17."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="192" VPOS="279" WIDTH="1391" HEIGHT="3"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="216" VPOS="531" WIDTH="202" HEIGHT="36">
+					<TextBlock ID="block_1" HPOS="216" VPOS="531" WIDTH="202" HEIGHT="36">
+						<TextLine ID="line_1" HPOS="216" VPOS="531" WIDTH="202" HEIGHT="36">
+							<String ID="string_4" HPOS="216" VPOS="531" WIDTH="109" HEIGHT="36" WC="0.95" CONTENT="Bevis"/><SP WIDTH="26" VPOS="531" HPOS="325"/>
+							<String ID="string_5" HPOS="351" VPOS="536" WIDTH="67" HEIGHT="31" WC="0.95" CONTENT="etc."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="473" VPOS="531" WIDTH="681" HEIGHT="49">
+					<TextBlock ID="block_2" HPOS="473" VPOS="531" WIDTH="681" HEIGHT="49">
+						<TextLine ID="line_2" HPOS="473" VPOS="531" WIDTH="681" HEIGHT="49">
+							<String ID="string_6" HPOS="473" VPOS="531" WIDTH="88" HEIGHT="35" WC="0.96" CONTENT="Lika"/><SP WIDTH="27" VPOS="531" HPOS="561"/>
+							<String ID="string_7" HPOS="588" VPOS="531" WIDTH="82" HEIGHT="36" WC="0.96" CONTENT="med"/><SP WIDTH="28" VPOS="531" HPOS="670"/>
+							<String ID="string_8" HPOS="698" VPOS="531" WIDTH="131" HEIGHT="47" WC="0.94" CONTENT="Kongl."/><SP WIDTH="29" VPOS="531" HPOS="829"/>
+							<String ID="string_9" HPOS="858" VPOS="531" WIDTH="122" HEIGHT="48" WC="0.96" CONTENT="Maj:ts"/><SP WIDTH="26" VPOS="531" HPOS="980"/>
+							<String ID="string_10" HPOS="1006" VPOS="531" WIDTH="148" HEIGHT="49" WC="0.95" CONTENT="förslag."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="274" VPOS="2301" WIDTH="1067" HEIGHT="44">
+					<TextBlock ID="block_3" HPOS="274" VPOS="2301" WIDTH="1067" HEIGHT="44">
+						<TextLine ID="line_3" HPOS="274" VPOS="2301" WIDTH="1067" HEIGHT="44">
+							<String ID="string_11" HPOS="274" VPOS="2302" WIDTH="73" HEIGHT="30" WC="0.81" CONTENT="Bih."/><SP WIDTH="26" VPOS="2302" HPOS="347"/>
+							<String ID="string_12" HPOS="373" VPOS="2301" WIDTH="47" HEIGHT="31" WC="0.93" CONTENT="ull"/><SP WIDTH="28" VPOS="2301" HPOS="420"/>
+							<String ID="string_13" HPOS="448" VPOS="2302" WIDTH="107" HEIGHT="30" WC="0.71" CONTENT="Riksd."/><SP WIDTH="28" VPOS="2302" HPOS="555"/>
+							<String ID="string_14" HPOS="583" VPOS="2302" WIDTH="84" HEIGHT="30" WC="0.93" CONTENT="Prot."/><SP WIDTH="28" VPOS="2302" HPOS="667"/>
+							<String ID="string_15" HPOS="695" VPOS="2302" WIDTH="90" HEIGHT="31" WC="0.76" CONTENT="1894."/><SP WIDTH="47" VPOS="2302" HPOS="785"/>
+							<String ID="string_16" HPOS="832" VPOS="2304" WIDTH="20" HEIGHT="29" WC="0.92" CONTENT="5"/><SP WIDTH="25" VPOS="2304" HPOS="852"/>
+							<String ID="string_17" HPOS="877" VPOS="2301" WIDTH="97" HEIGHT="32" WC="0.82" CONTENT="Saml."/><SP WIDTH="51" VPOS="2301" HPOS="974"/>
+							<String ID="string_18" HPOS="1025" VPOS="2304" WIDTH="13" HEIGHT="28" WC="0.87" CONTENT="I"/><SP WIDTH="27" VPOS="2304" HPOS="1038"/>
+							<String ID="string_19" HPOS="1065" VPOS="2303" WIDTH="76" HEIGHT="41" WC="0.30" CONTENT="Afd."/><SP WIDTH="48" VPOS="2303" HPOS="1141"/>
+							<String ID="string_20" HPOS="1189" VPOS="2305" WIDTH="33" HEIGHT="28" WC="0.77" CONTENT="17"/><SP WIDTH="29" VPOS="2305" HPOS="1222"/>
+							<String ID="string_21" HPOS="1251" VPOS="2303" WIDTH="90" HEIGHT="42" WC="0.87" CONTENT="Häft."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_5" HPOS="192" VPOS="268" WIDTH="1607" HEIGHT="15"></GraphicalElement >
+				<GraphicalElement ID="cblock_6" HPOS="1733" VPOS="824" WIDTH="3" HEIGHT="561"></GraphicalElement >
+				<GraphicalElement ID="cblock_7" HPOS="1733" VPOS="1558" WIDTH="2" HEIGHT="728"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

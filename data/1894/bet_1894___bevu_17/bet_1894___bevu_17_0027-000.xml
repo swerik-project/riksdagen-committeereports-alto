@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess__d0tavr2_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2242" HEIGHT="2636" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2242" HEIGHT="2636">
+				<ComposedBlock ID="cblock_0" HPOS="615" VPOS="200" WIDTH="755" HEIGHT="45">
+					<TextBlock ID="block_0" HPOS="615" VPOS="200" WIDTH="755" HEIGHT="45">
+						<TextLine ID="line_0" HPOS="615" VPOS="200" WIDTH="755" HEIGHT="45">
+							<String ID="string_0" HPOS="615" VPOS="203" WIDTH="362" HEIGHT="42" WC="0.79" CONTENT="Bevillningsutekottets"/><SP WIDTH="23" VPOS="203" HPOS="977"/>
+							<String ID="string_1" HPOS="1000" VPOS="202" WIDTH="207" HEIGHT="31" WC="0.96" CONTENT="Betänkande"/><SP WIDTH="25" VPOS="202" HPOS="1207"/>
+							<String ID="string_2" HPOS="1232" VPOS="200" WIDTH="63" HEIGHT="32" WC="0.94" CONTENT="N:o"/><SP WIDTH="24" VPOS="200" HPOS="1295"/>
+							<String ID="string_3" HPOS="1319" VPOS="201" WIDTH="51" HEIGHT="31" WC="0.90" CONTENT="17."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="318" VPOS="2059" WIDTH="712" HEIGHT="156">
+					<TextBlock ID="block_1" HPOS="318" VPOS="2059" WIDTH="712" HEIGHT="152">
+						<TextLine ID="line_1" HPOS="947" VPOS="2059" WIDTH="83" HEIGHT="45">
+							<String ID="string_4" HPOS="947" VPOS="2063" WIDTH="20" HEIGHT="33" WC="0.63" CONTENT="2"/><SP WIDTH="29" VPOS="2063" HPOS="967"/>
+							<String ID="string_5" HPOS="996" VPOS="2059" WIDTH="34" HEIGHT="45" WC="0.63" CONTENT="8."/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="318" VPOS="2144" WIDTH="682" HEIGHT="71">
+							<String ID="string_6" HPOS="318" VPOS="2163" WIDTH="89" HEIGHT="35" WC="0.96" CONTENT="Lika"/><SP WIDTH="27" VPOS="2163" HPOS="407"/>
+							<String ID="string_7" HPOS="434" VPOS="2162" WIDTH="81" HEIGHT="36" WC="0.96" CONTENT="med"/><SP WIDTH="30" VPOS="2162" HPOS="515"/>
+							<String ID="string_8" HPOS="545" VPOS="2144" WIDTH="130" HEIGHT="71" WC="0.96" CONTENT="Kongl."/><SP WIDTH="30" VPOS="2144" HPOS="675"/>
+							<String ID="string_9" HPOS="705" VPOS="2161" WIDTH="119" HEIGHT="47" WC="0.96" CONTENT="Maj:ts"/><SP WIDTH="27" VPOS="2161" HPOS="824"/>
+							<String ID="string_10" HPOS="851" VPOS="2160" WIDTH="149" HEIGHT="48" WC="0.95" CONTENT="förslag."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_pwh_8yxb_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2232" HEIGHT="2630" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2232" HEIGHT="2630">
+				<ComposedBlock ID="cblock_0" HPOS="480" VPOS="177" WIDTH="1139" HEIGHT="53">
+					<TextBlock ID="block_0" HPOS="480" VPOS="177" WIDTH="1139" HEIGHT="53">
+						<TextLine ID="line_0" HPOS="480" VPOS="177" WIDTH="1139" HEIGHT="53">
+							<String ID="string_0" HPOS="480" VPOS="189" WIDTH="61" HEIGHT="30" WC="0.95" CONTENT="114"/><SP WIDTH="339" VPOS="189" HPOS="541"/>
+							<String ID="string_1" HPOS="880" VPOS="177" WIDTH="351" HEIGHT="53" WC="0.20" CONTENT="Bevillningeutskottets"/><SP WIDTH="22" VPOS="177" HPOS="1231"/>
+							<String ID="string_2" HPOS="1253" VPOS="186" WIDTH="206" HEIGHT="33" WC="0.96" CONTENT="Betänkande"/><SP WIDTH="23" VPOS="186" HPOS="1459"/>
+							<String ID="string_3" HPOS="1482" VPOS="186" WIDTH="63" HEIGHT="33" WC="0.96" CONTENT="N:o"/><SP WIDTH="25" VPOS="186" HPOS="1545"/>
+							<String ID="string_4" HPOS="1570" VPOS="189" WIDTH="49" HEIGHT="30" WC="0.95" CONTENT="17."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

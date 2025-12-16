@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_zebea6mv_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2238" HEIGHT="2640" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2238" HEIGHT="2640">
+				<ComposedBlock ID="cblock_0" HPOS="607" VPOS="206" WIDTH="1143" HEIGHT="43">
+					<TextBlock ID="block_0" HPOS="607" VPOS="206" WIDTH="1143" HEIGHT="43">
+						<TextLine ID="line_0" HPOS="607" VPOS="206" WIDTH="1143" HEIGHT="43">
+							<String ID="string_0" HPOS="607" VPOS="206" WIDTH="361" HEIGHT="43" WC="0.90" CONTENT="Bevillningsutskottets"/><SP WIDTH="24" VPOS="206" HPOS="968"/>
+							<String ID="string_1" HPOS="992" VPOS="208" WIDTH="208" HEIGHT="32" WC="0.95" CONTENT="Betänkande"/><SP WIDTH="27" VPOS="208" HPOS="1200"/>
+							<String ID="string_2" HPOS="1227" VPOS="209" WIDTH="64" HEIGHT="31" WC="0.95" CONTENT="N:o"/><SP WIDTH="25" VPOS="209" HPOS="1291"/>
+							<String ID="string_3" HPOS="1316" VPOS="211" WIDTH="48" HEIGHT="30" WC="0.96" CONTENT="17."/><SP WIDTH="348" VPOS="211" HPOS="1364"/>
+							<String ID="string_4" HPOS="1712" VPOS="212" WIDTH="38" HEIGHT="31" WC="0.91" CONTENT="37"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="185" VPOS="287" WIDTH="1609" HEIGHT="14"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="187" VPOS="298" WIDTH="1606" HEIGHT="9"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="214" VPOS="553" WIDTH="1015" HEIGHT="50">
+					<TextBlock ID="block_1" HPOS="214" VPOS="553" WIDTH="1015" HEIGHT="50">
+						<TextLine ID="line_1" HPOS="214" VPOS="553" WIDTH="1015" HEIGHT="50">
+							<String ID="string_5" HPOS="214" VPOS="553" WIDTH="183" HEIGHT="37" WC="0.55" CONTENT="Pullmakt"/><SP WIDTH="27" VPOS="553" HPOS="397"/>
+							<String ID="string_6" HPOS="424" VPOS="559" WIDTH="67" HEIGHT="30" WC="0.83" CONTENT="ete."/><SP WIDTH="53" VPOS="559" HPOS="491"/>
+							<String ID="string_7" HPOS="544" VPOS="554" WIDTH="89" HEIGHT="35" WC="0.82" CONTENT="Tika"/><SP WIDTH="28" VPOS="554" HPOS="633"/>
+							<String ID="string_8" HPOS="661" VPOS="555" WIDTH="81" HEIGHT="35" WC="0.96" CONTENT="med"/><SP WIDTH="32" VPOS="555" HPOS="742"/>
+							<String ID="string_9" HPOS="774" VPOS="555" WIDTH="130" HEIGHT="47" WC="0.95" CONTENT="Kongl."/><SP WIDTH="30" VPOS="555" HPOS="904"/>
+							<String ID="string_10" HPOS="934" VPOS="554" WIDTH="120" HEIGHT="48" WC="0.96" CONTENT="Maj:ts"/><SP WIDTH="26" VPOS="554" HPOS="1054"/>
+							<String ID="string_11" HPOS="1080" VPOS="555" WIDTH="149" HEIGHT="48" WC="0.96" CONTENT="förslag."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_4" HPOS="186" VPOS="608" WIDTH="1437" HEIGHT="100">
+					<TextBlock ID="block_2" HPOS="186" VPOS="608" WIDTH="1437" HEIGHT="119">
+						<TextLine ID="line_2" HPOS="186" VPOS="608" WIDTH="1437" HEIGHT="100">
+							<String ID="string_12" HPOS="186" VPOS="616" WIDTH="3" HEIGHT="92" WC="0.91" CONTENT="|"/><SP WIDTH="1429" VPOS="616" HPOS="189"/>
+							<String ID="string_13" HPOS="1618" VPOS="608" WIDTH="5" HEIGHT="96" WC="0.93" CONTENT="|"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_5" HPOS="1617" VPOS="1240" WIDTH="2" HEIGHT="387"></GraphicalElement >
+				<GraphicalElement ID="cblock_6" HPOS="1616" VPOS="1240" WIDTH="4" HEIGHT="568"></GraphicalElement >
+				<GraphicalElement ID="cblock_7" HPOS="1784" VPOS="1490" WIDTH="3" HEIGHT="622"></GraphicalElement >
+				<GraphicalElement ID="cblock_8" HPOS="1616" VPOS="1240" WIDTH="3" HEIGHT="969"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
