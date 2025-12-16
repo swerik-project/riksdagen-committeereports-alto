@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_xmpje787_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2144" HEIGHT="2618" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2144" HEIGHT="2618">
+				<ComposedBlock ID="cblock_0" HPOS="728" VPOS="999" WIDTH="870" HEIGHT="40">
+					<TextBlock ID="block_0" HPOS="728" VPOS="999" WIDTH="870" HEIGHT="40">
+						<TextLine ID="line_0" HPOS="728" VPOS="999" WIDTH="870" HEIGHT="40">
+							<String ID="string_0" HPOS="728" VPOS="1010" WIDTH="214" HEIGHT="29" WC="0.93" CONTENT="STOCKHOLM,"/><SP WIDTH="18" VPOS="1010" HPOS="942"/>
+							<String ID="string_1" HPOS="960" VPOS="1009" WIDTH="30" HEIGHT="23" WC="0.89" CONTENT="K."/><SP WIDTH="19" VPOS="1009" HPOS="990"/>
+							<String ID="string_2" HPOS="1009" VPOS="1008" WIDTH="28" HEIGHT="23" WC="0.91" CONTENT="L."/><SP WIDTH="20" VPOS="1008" HPOS="1037"/>
+							<String ID="string_3" HPOS="1057" VPOS="1004" WIDTH="181" HEIGHT="26" WC="0.96" CONTENT="BECKMANS"/><SP WIDTH="19" VPOS="1004" HPOS="1238"/>
+							<String ID="string_4" HPOS="1257" VPOS="1000" WIDTH="249" HEIGHT="29" WC="0.90" CONTENT="BOKTRYCKERI,"/><SP WIDTH="21" VPOS="1000" HPOS="1506"/>
+							<String ID="string_5" HPOS="1527" VPOS="999" WIDTH="71" HEIGHT="23" WC="0.95" CONTENT="1920."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="744" VPOS="971" WIDTH="820" HEIGHT="18"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="729" VPOS="1039" WIDTH="859" HEIGHT="18"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
