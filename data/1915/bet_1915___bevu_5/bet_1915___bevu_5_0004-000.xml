@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0ch9b4wm_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="2180" HEIGHT="2624" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="2180" HEIGHT="2624">
+				<ComposedBlock ID="cblock_0" HPOS="452" VPOS="141" WIDTH="1108" HEIGHT="46">
+					<TextBlock ID="block_0" HPOS="452" VPOS="141" WIDTH="1108" HEIGHT="46">
+						<TextLine ID="line_0" HPOS="452" VPOS="141" WIDTH="1108" HEIGHT="46">
+							<String ID="string_0" HPOS="452" VPOS="141" WIDTH="20" HEIGHT="30" WC="0.97" CONTENT="4"/><SP WIDTH="384" VPOS="141" HPOS="472"/>
+							<String ID="string_1" HPOS="856" VPOS="144" WIDTH="358" HEIGHT="43" WC="0.90" CONTENT="Bevillningsutskottets"/><SP WIDTH="23" VPOS="144" HPOS="1214"/>
+							<String ID="string_2" HPOS="1237" VPOS="147" WIDTH="195" HEIGHT="32" WC="0.96" CONTENT="betänkande"/><SP WIDTH="24" VPOS="147" HPOS="1432"/>
+							<String ID="string_3" HPOS="1456" VPOS="148" WIDTH="53" HEIGHT="31" WC="0.80" CONTENT="Nr"/><SP WIDTH="23" VPOS="148" HPOS="1509"/>
+							<String ID="string_4" HPOS="1532" VPOS="149" WIDTH="28" HEIGHT="29" WC="0.93" CONTENT="5."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="1042" VPOS="429" WIDTH="335" HEIGHT="41">
+					<TextBlock ID="block_1" HPOS="1042" VPOS="429" WIDTH="335" HEIGHT="41">
+						<TextLine ID="line_1" HPOS="1042" VPOS="429" WIDTH="335" HEIGHT="41">
+							<String ID="string_5" HPOS="1042" VPOS="429" WIDTH="335" HEIGHT="41" WC="0.92" CONTENT="Reservation:"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="409" VPOS="582" WIDTH="1595" HEIGHT="89">
+					<TextBlock ID="block_2" HPOS="409" VPOS="582" WIDTH="1595" HEIGHT="89">
+						<TextLine ID="line_2" HPOS="538" VPOS="582" WIDTH="1466" HEIGHT="55">
+							<String ID="string_6" HPOS="538" VPOS="595" WIDTH="47" HEIGHT="23" WC="0.96" CONTENT="av"/><SP WIDTH="40" VPOS="595" HPOS="585"/>
+							<String ID="string_7" HPOS="625" VPOS="582" WIDTH="86" HEIGHT="36" WC="0.91" CONTENT="herr"/><SP WIDTH="41" VPOS="582" HPOS="711"/>
+							<String ID="string_8" HPOS="752" VPOS="584" WIDTH="129" HEIGHT="46" WC="0.90" CONTENT="Röing,"/><SP WIDTH="43" VPOS="584" HPOS="881"/>
+							<String ID="string_9" HPOS="924" VPOS="597" WIDTH="80" HEIGHT="23" WC="0.94" CONTENT="som"/><SP WIDTH="33" VPOS="597" HPOS="1004"/>
+							<String ID="string_10" HPOS="1037" VPOS="590" WIDTH="123" HEIGHT="31" WC="0.94" CONTENT="ansett"/><SP WIDTH="28" VPOS="590" HPOS="1160"/>
+							<String ID="string_11" HPOS="1188" VPOS="589" WIDTH="56" HEIGHT="32" WC="0.96" CONTENT="att"/><SP WIDTH="27" VPOS="589" HPOS="1244"/>
+							<String ID="string_12" HPOS="1271" VPOS="585" WIDTH="183" HEIGHT="37" WC="0.96" CONTENT="utskottet"/><SP WIDTH="28" VPOS="585" HPOS="1454"/>
+							<String ID="string_13" HPOS="1482" VPOS="586" WIDTH="87" HEIGHT="37" WC="0.96" CONTENT="bort"/><SP WIDTH="27" VPOS="586" HPOS="1569"/>
+							<String ID="string_14" HPOS="1596" VPOS="587" WIDTH="189" HEIGHT="50" WC="0.96" CONTENT="tillstyrka"/><SP WIDTH="30" VPOS="587" HPOS="1785"/>
+							<String ID="string_15" HPOS="1815" VPOS="589" WIDTH="105" HEIGHT="37" WC="0.96" CONTENT="bifall"/><SP WIDTH="28" VPOS="589" HPOS="1920"/>
+							<String ID="string_16" HPOS="1948" VPOS="590" WIDTH="56" HEIGHT="37" WC="0.95" CONTENT="till"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="409" VPOS="634" WIDTH="203" HEIGHT="37">
+							<String ID="string_17" HPOS="409" VPOS="634" WIDTH="203" HEIGHT="37" WC="0.96" CONTENT="motionen."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
