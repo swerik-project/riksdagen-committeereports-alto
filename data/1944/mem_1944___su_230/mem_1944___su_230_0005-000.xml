@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_3ewyjvy0_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1890" HEIGHT="2818" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1890" HEIGHT="2818">
+				<ComposedBlock ID="cblock_0" HPOS="1386" VPOS="375" WIDTH="186" HEIGHT="39">
+					<TextBlock ID="block_0" HPOS="1386" VPOS="375" WIDTH="186" HEIGHT="39">
+						<TextLine ID="line_0" HPOS="1386" VPOS="375" WIDTH="186" HEIGHT="39">
+							<String ID="string_0" HPOS="1386" VPOS="375" WIDTH="186" HEIGHT="39" WC="0.89" CONTENT="Bihang."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="214" VPOS="960" WIDTH="1295" HEIGHT="327">
+					<TextBlock ID="block_1" HPOS="214" VPOS="960" WIDTH="1295" HEIGHT="327">
+						<TextLine ID="line_1" HPOS="214" VPOS="960" WIDTH="1295" HEIGHT="69">
+							<String ID="string_1" HPOS="214" VPOS="960" WIDTH="377" HEIGHT="69" WC="0.91" CONTENT="ALLMÄN"/><SP WIDTH="57" VPOS="960" HPOS="591"/>
+							<String ID="string_2" HPOS="648" VPOS="963" WIDTH="861" HEIGHT="64" WC="0.91" CONTENT="BEREDSKAPSSTAT"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="433" VPOS="1083" WIDTH="873" HEIGHT="76">
+							<String ID="string_3" HPOS="433" VPOS="1091" WIDTH="183" HEIGHT="68" WC="0.93" CONTENT="FÖR"/><SP WIDTH="52" VPOS="1091" HPOS="616"/>
+							<String ID="string_4" HPOS="668" VPOS="1083" WIDTH="638" HEIGHT="74" WC="0.92" CONTENT="BUDGETÅRET"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="687" VPOS="1222" WIDTH="327" HEIGHT="65">
+							<String ID="string_5" HPOS="687" VPOS="1222" WIDTH="327" HEIGHT="65" WC="0.70" CONTENT="1944/45"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
