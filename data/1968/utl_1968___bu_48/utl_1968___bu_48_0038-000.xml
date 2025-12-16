@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_64utz4nm_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1910" HEIGHT="2829" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1910" HEIGHT="2829">
+				<Illustration ID="cblock_0" HPOS="0" VPOS="924" WIDTH="0" HEIGHT="17"></Illustration>
+				<Illustration ID="cblock_1" HPOS="0" VPOS="2425" WIDTH="0" HEIGHT="22"></Illustration>
+				<Illustration ID="cblock_2" HPOS="0" VPOS="2717" WIDTH="0" HEIGHT="14"></Illustration>
+				<Illustration ID="cblock_3" HPOS="0" VPOS="2771" WIDTH="0" HEIGHT="58"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
