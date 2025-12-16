@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ufupaayh_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1900" HEIGHT="2846" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1900" HEIGHT="2846">
+				<ComposedBlock ID="cblock_0" HPOS="451" VPOS="1201" WIDTH="1162" HEIGHT="76">
+					<TextBlock ID="block_0" HPOS="451" VPOS="1201" WIDTH="1162" HEIGHT="76">
+						<TextLine ID="line_0" HPOS="451" VPOS="1201" WIDTH="1162" HEIGHT="36">
+							<String ID="string_0" HPOS="451" VPOS="1201" WIDTH="181" HEIGHT="29" WC="0.96" CONTENT="Stockholm"/><SP WIDTH="19" VPOS="1201" HPOS="632"/>
+							<String ID="string_1" HPOS="651" VPOS="1201" WIDTH="85" HEIGHT="29" WC="0.95" CONTENT="1931."/><SP WIDTH="31" VPOS="1201" HPOS="736"/>
+							<String ID="string_2" HPOS="767" VPOS="1201" WIDTH="120" HEIGHT="36" WC="0.93" CONTENT="Kungl."/><SP WIDTH="18" VPOS="1201" HPOS="887"/>
+							<String ID="string_3" HPOS="905" VPOS="1201" WIDTH="251" HEIGHT="35" WC="0.91" CONTENT="Boktryckeriet,"/><SP WIDTH="20" VPOS="1201" HPOS="1156"/>
+							<String ID="string_4" HPOS="1176" VPOS="1202" WIDTH="34" HEIGHT="29" WC="0.91" CONTENT="P."/><SP WIDTH="20" VPOS="1202" HPOS="1210"/>
+							<String ID="string_5" HPOS="1230" VPOS="1202" WIDTH="37" HEIGHT="28" WC="0.90" CONTENT="A."/><SP WIDTH="22" VPOS="1202" HPOS="1267"/>
+							<String ID="string_6" HPOS="1289" VPOS="1201" WIDTH="153" HEIGHT="31" WC="0.93" CONTENT="Norstedt"/><SP WIDTH="19" VPOS="1201" HPOS="1442"/>
+							<String ID="string_7" HPOS="1461" VPOS="1202" WIDTH="22" HEIGHT="29" WC="0.92" CONTENT="&amp;"/><SP WIDTH="21" VPOS="1202" HPOS="1483"/>
+							<String ID="string_8" HPOS="1504" VPOS="1201" WIDTH="109" HEIGHT="32" WC="0.96" CONTENT="Söner."/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="972" VPOS="1256" WIDTH="100" HEIGHT="21">
+							<String ID="string_9" HPOS="972" VPOS="1256" WIDTH="100" HEIGHT="21" WC="0.95" CONTENT="310364"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
