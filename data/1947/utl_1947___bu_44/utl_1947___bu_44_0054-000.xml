@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_9wv0ajmt_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1920" HEIGHT="2788" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1920" HEIGHT="2788">
+				<Illustration ID="cblock_0" HPOS="0" VPOS="1776" WIDTH="0" HEIGHT="33"></Illustration>
+				<ComposedBlock ID="cblock_1" HPOS="1113" VPOS="362" WIDTH="7" HEIGHT="9">
+					<TextBlock ID="block_0" HPOS="1113" VPOS="362" WIDTH="7" HEIGHT="9">
+						<TextLine ID="line_0" HPOS="1113" VPOS="362" WIDTH="7" HEIGHT="9">
+							<String ID="string_0" HPOS="1113" VPOS="362" WIDTH="7" HEIGHT="9" WC="0.0" CONTENT="[d"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="0" VPOS="1103" WIDTH="0" HEIGHT="36"></Illustration>
+				<Illustration ID="cblock_3" HPOS="0" VPOS="1188" WIDTH="0" HEIGHT="154"></Illustration>
+				<Illustration ID="cblock_4" HPOS="0" VPOS="2187" WIDTH="0" HEIGHT="13"></Illustration>
+				<Illustration ID="cblock_5" HPOS="0" VPOS="1692" WIDTH="0" HEIGHT="27"></Illustration>
+				<Illustration ID="cblock_6" HPOS="0" VPOS="1862" WIDTH="0" HEIGHT="32"></Illustration>
+				<Illustration ID="cblock_7" HPOS="0" VPOS="2119" WIDTH="0" HEIGHT="17"></Illustration>
+				<Illustration ID="cblock_8" HPOS="0" VPOS="2770" WIDTH="0" HEIGHT="18"></Illustration>
+				<Illustration ID="cblock_9" HPOS="0" VPOS="1690" WIDTH="0" HEIGHT="61"></Illustration>
+				<Illustration ID="cblock_10" HPOS="0" VPOS="2719" WIDTH="0" HEIGHT="57"></Illustration>
+				<Illustration ID="cblock_11" HPOS="0" VPOS="1569" WIDTH="0" HEIGHT="11"></Illustration>
+				<Illustration ID="cblock_12" HPOS="0" VPOS="1634" WIDTH="0" HEIGHT="30"></Illustration>
+				<Illustration ID="cblock_13" HPOS="0" VPOS="1924" WIDTH="0" HEIGHT="25"></Illustration>
+				<Illustration ID="cblock_14" HPOS="0" VPOS="869" WIDTH="0" HEIGHT="29"></Illustration>
+				<Illustration ID="cblock_15" HPOS="0" VPOS="2745" WIDTH="0" HEIGHT="43"></Illustration>
+				<Illustration ID="cblock_16" HPOS="0" VPOS="888" WIDTH="0" HEIGHT="90"></Illustration>
+				<Illustration ID="cblock_17" HPOS="0" VPOS="1026" WIDTH="0" HEIGHT="41"></Illustration>
+				<Illustration ID="cblock_18" HPOS="0" VPOS="1827" WIDTH="0" HEIGHT="15"></Illustration>
+				<Illustration ID="cblock_19" HPOS="0" VPOS="1845" WIDTH="0" HEIGHT="75"></Illustration>
+				<Illustration ID="cblock_20" HPOS="0" VPOS="2246" WIDTH="0" HEIGHT="12"></Illustration>
+				<Illustration ID="cblock_21" HPOS="0" VPOS="2408" WIDTH="0" HEIGHT="96"></Illustration>
+				<ComposedBlock ID="cblock_22" HPOS="574" VPOS="2604" WIDTH="782" HEIGHT="164">
+					<TextBlock ID="block_1" HPOS="574" VPOS="2604" WIDTH="782" HEIGHT="164">
+						<TextLine ID="line_1" HPOS="1323" VPOS="2604" WIDTH="33" HEIGHT="119">
+							<String ID="string_1" HPOS="1323" VPOS="2604" WIDTH="33" HEIGHT="16" WC="0.0" CONTENT="ee"/><SP WIDTH="-19" VPOS="2604" HPOS="1356"/>
+							<String ID="string_2" HPOS="1337" VPOS="2715" WIDTH="5" HEIGHT="8" WC="0.22" CONTENT="Kr"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="968" VPOS="2752" WIDTH="12" HEIGHT="16">
+							<String ID="string_3" HPOS="968" VPOS="2752" WIDTH="12" HEIGHT="16" WC="0.27" CONTENT="vå"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="574" VPOS="2636" WIDTH="8" HEIGHT="4">
+							<String ID="string_4" HPOS="574" VPOS="2636" WIDTH="8" HEIGHT="4" WC="0.0" CONTENT=","/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_23" HPOS="0" VPOS="2668" WIDTH="0" HEIGHT="106"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

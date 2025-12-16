@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ipgn_zsu_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1892" HEIGHT="2790" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1892" HEIGHT="2790">
+				<ComposedBlock ID="cblock_0" HPOS="741" VPOS="1314" WIDTH="593" HEIGHT="61">
+					<TextBlock ID="block_0" HPOS="741" VPOS="1314" WIDTH="593" HEIGHT="61">
+						<TextLine ID="line_0" HPOS="741" VPOS="1314" WIDTH="593" HEIGHT="26">
+							<String ID="string_0" HPOS="741" VPOS="1315" WIDTH="73" HEIGHT="22" WC="0.96" CONTENT="Iduns"/><SP WIDTH="18" VPOS="1315" HPOS="814"/>
+							<String ID="string_1" HPOS="832" VPOS="1315" WIDTH="113" HEIGHT="25" WC="0.96" CONTENT="tryckeri,"/><SP WIDTH="19" VPOS="1315" HPOS="945"/>
+							<String ID="string_2" HPOS="964" VPOS="1315" WIDTH="89" HEIGHT="22" WC="0.96" CONTENT="Esselte"/><SP WIDTH="19" VPOS="1315" HPOS="1053"/>
+							<String ID="string_3" HPOS="1072" VPOS="1315" WIDTH="35" HEIGHT="22" WC="0.90" CONTENT="ab."/><SP WIDTH="19" VPOS="1315" HPOS="1107"/>
+							<String ID="string_4" HPOS="1126" VPOS="1314" WIDTH="138" HEIGHT="22" WC="0.91" CONTENT="Steckholm"/><SP WIDTH="20" VPOS="1314" HPOS="1264"/>
+							<String ID="string_5" HPOS="1284" VPOS="1315" WIDTH="50" HEIGHT="20" WC="0.96" CONTENT="1947"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="987" VPOS="1353" WIDTH="103" HEIGHT="22">
+							<String ID="string_6" HPOS="987" VPOS="1353" WIDTH="103" HEIGHT="22" WC="0.96" CONTENT="717066"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

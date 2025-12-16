@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_5qeht_u2_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1914" HEIGHT="2790" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1914" HEIGHT="2790">
+				<GraphicalElement ID="cblock_0" HPOS="518" VPOS="1153" WIDTH="1044" HEIGHT="10"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="666" VPOS="1172" WIDTH="896" HEIGHT="34">
+					<TextBlock ID="block_0" HPOS="666" VPOS="1172" WIDTH="896" HEIGHT="34">
+						<TextLine ID="line_0" HPOS="666" VPOS="1172" WIDTH="896" HEIGHT="34">
+							<String ID="string_0" HPOS="666" VPOS="1178" WIDTH="175" HEIGHT="28" WC="0.96" CONTENT="Stockholm,"/><SP WIDTH="19" VPOS="1178" HPOS="841"/>
+							<String ID="string_1" HPOS="860" VPOS="1177" WIDTH="80" HEIGHT="24" WC="0.96" CONTENT="Isaac"/><SP WIDTH="19" VPOS="1177" HPOS="940"/>
+							<String ID="string_2" HPOS="959" VPOS="1176" WIDTH="113" HEIGHT="24" WC="0.93" CONTENT="Marcus"/><SP WIDTH="18" VPOS="1176" HPOS="1072"/>
+							<String ID="string_3" HPOS="1090" VPOS="1173" WIDTH="376" HEIGHT="33" WC="0.91" CONTENT="Boktryckeri-Aktiebolag,"/><SP WIDTH="22" VPOS="1173" HPOS="1466"/>
+							<String ID="string_4" HPOS="1488" VPOS="1172" WIDTH="74" HEIGHT="24" WC="0.96" CONTENT="1947."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="565" VPOS="1213" WIDTH="1000" HEIGHT="10"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
