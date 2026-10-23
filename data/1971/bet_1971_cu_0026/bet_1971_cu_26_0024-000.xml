@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_i_gu7id5_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="3696" HEIGHT="2847" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="3696" HEIGHT="2847">
+				<GraphicalElement ID="cblock_0" HPOS="157" VPOS="0" WIDTH="716" HEIGHT="1"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="2559" VPOS="0" WIDTH="624" HEIGHT="1"></GraphicalElement >
+				<ComposedBlock ID="cblock_2" HPOS="2612" VPOS="2457" WIDTH="510" HEIGHT="24">
+					<TextBlock ID="block_0" HPOS="2612" VPOS="2457" WIDTH="510" HEIGHT="24">
+						<TextLine ID="line_0" HPOS="2612" VPOS="2457" WIDTH="510" HEIGHT="24">
+							<String ID="string_0" HPOS="2612" VPOS="2457" WIDTH="16" HEIGHT="18" WC="0.77" CONTENT="K"/><SP WIDTH="17" VPOS="2457" HPOS="2628"/>
+							<String ID="string_1" HPOS="2645" VPOS="2457" WIDTH="15" HEIGHT="18" WC="0.77" CONTENT="L"/><SP WIDTH="15" VPOS="2457" HPOS="2660"/>
+							<String ID="string_2" HPOS="2675" VPOS="2457" WIDTH="141" HEIGHT="19" WC="0.93" CONTENT="Beckmans"/><SP WIDTH="12" VPOS="2457" HPOS="2816"/>
+							<String ID="string_3" HPOS="2828" VPOS="2457" WIDTH="148" HEIGHT="24" WC="0.92" CONTENT="Tryckerier"/><SP WIDTH="14" VPOS="2457" HPOS="2976"/>
+							<String ID="string_4" HPOS="2990" VPOS="2457" WIDTH="51" HEIGHT="19" WC="0.96" CONTENT="AB."/><SP WIDTH="18" VPOS="2457" HPOS="3041"/>
+							<String ID="string_5" HPOS="3059" VPOS="2457" WIDTH="63" HEIGHT="21" WC="0.95" CONTENT="1971"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

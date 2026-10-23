@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0yyd5qi3_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1828" HEIGHT="2846" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1828" HEIGHT="2846">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="0" WIDTH="1" HEIGHT="756"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="0" VPOS="1641" WIDTH="1" HEIGHT="1159"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="436" VPOS="0" WIDTH="1371" HEIGHT="1"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="715" VPOS="1127" WIDTH="339" HEIGHT="22">
+					<TextBlock ID="block_0" HPOS="715" VPOS="1127" WIDTH="339" HEIGHT="22">
+						<TextLine ID="line_0" HPOS="715" VPOS="1127" WIDTH="339" HEIGHT="22">
+							<String ID="string_0" HPOS="715" VPOS="1127" WIDTH="26" HEIGHT="16" WC="0.95" CONTENT="KL"/><SP WIDTH="6" VPOS="1127" HPOS="741"/>
+							<String ID="string_1" HPOS="747" VPOS="1127" WIDTH="85" HEIGHT="18" WC="0.93" CONTENT="Beckmans"/><SP WIDTH="5" VPOS="1127" HPOS="832"/>
+							<String ID="string_2" HPOS="837" VPOS="1127" WIDTH="112" HEIGHT="22" WC="0.83" CONTENT="Tryckerler"/><SP WIDTH="-19" VPOS="1127" HPOS="949"/>
+							<String ID="string_3" HPOS="930" VPOS="1123" WIDTH="18" HEIGHT="30" WC="0.89" CONTENT="AB"/><SP WIDTH="6" VPOS="1123" HPOS="948"/>
+							<String ID="string_4" HPOS="954" VPOS="1136" WIDTH="6" HEIGHT="6" WC="0.89" CONTENT="»"/><SP WIDTH="6" VPOS="1136" HPOS="960"/>
+							<String ID="string_5" HPOS="966" VPOS="1128" WIDTH="88" HEIGHT="17" WC="0.95" CONTENT="Stockholm"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

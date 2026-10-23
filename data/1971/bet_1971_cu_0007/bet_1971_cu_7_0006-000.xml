@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_u4m_beaq_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1861" HEIGHT="2844" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1861" HEIGHT="2844">
+				<ComposedBlock ID="cblock_0" HPOS="1181" VPOS="1143" WIDTH="77" HEIGHT="71">
+					<TextBlock ID="block_0" HPOS="1181" VPOS="1143" WIDTH="77" HEIGHT="71">
+						<TextLine ID="line_0" HPOS="1181" VPOS="1143" WIDTH="77" HEIGHT="71">
+							<String ID="string_0" HPOS="1181" VPOS="1155" WIDTH="2" HEIGHT="3" WC="0.59" CONTENT="n"/><SP WIDTH="33" VPOS="1155" HPOS="1183"/>
+							<String ID="string_1" HPOS="1216" VPOS="1143" WIDTH="42" HEIGHT="71" WC="0.9" CONTENT="a"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="1337" VPOS="1788" WIDTH="65" HEIGHT="54">
+					<TextBlock ID="block_1" HPOS="1337" VPOS="1788" WIDTH="65" HEIGHT="54">
+						<TextLine ID="line_1" HPOS="1337" VPOS="1788" WIDTH="65" HEIGHT="54">
+							<String ID="string_2" HPOS="1337" VPOS="1788" WIDTH="65" HEIGHT="54" WC="0.16" CONTENT="SS"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="1382" VPOS="1836" WIDTH="47" HEIGHT="29">
+					<TextBlock ID="block_2" HPOS="1382" VPOS="1836" WIDTH="47" HEIGHT="29">
+						<TextLine ID="line_2" HPOS="1382" VPOS="1836" WIDTH="38" HEIGHT="15">
+							<String ID="string_3" HPOS="1382" VPOS="1836" WIDTH="38" HEIGHT="15" WC="0.51" CONTENT="Tigre"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="1384" VPOS="1851" WIDTH="45" HEIGHT="14">
+							<String ID="string_4" HPOS="1384" VPOS="1851" WIDTH="45" HEIGHT="14" WC="0.51" CONTENT="sär"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_3" HPOS="0" VPOS="0" WIDTH="1861" HEIGHT="2844"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

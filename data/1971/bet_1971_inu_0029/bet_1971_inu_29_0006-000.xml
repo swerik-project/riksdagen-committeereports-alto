@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_quhkv48o_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1888" HEIGHT="2847" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1888" HEIGHT="2847">
+				<ComposedBlock ID="cblock_0" HPOS="1444" VPOS="141" WIDTH="307" HEIGHT="69">
+					<TextBlock ID="block_0" HPOS="1444" VPOS="141" WIDTH="307" HEIGHT="69">
+						<TextLine ID="line_0" HPOS="1528" VPOS="141" WIDTH="223" HEIGHT="30">
+							<String ID="string_0" HPOS="1528" VPOS="141" WIDTH="60" HEIGHT="24" WC="0.45" CONTENT="SA"/><SP WIDTH="48" VPOS="141" HPOS="1588"/>
+							<String ID="string_1" HPOS="1636" VPOS="162" WIDTH="22" HEIGHT="9" WC="0.25" CONTENT="Fe"/><SP WIDTH="47" VPOS="162" HPOS="1658"/>
+							<String ID="string_2" HPOS="1705" VPOS="156" WIDTH="46" HEIGHT="12" WC="0.0" CONTENT="EA"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="1448" VPOS="164" WIDTH="254" HEIGHT="12">
+							<String ID="string_3" HPOS="1448" VPOS="164" WIDTH="5" HEIGHT="4" WC="0.0" CONTENT="å"/><SP WIDTH="51" VPOS="164" HPOS="1453"/>
+							<String ID="string_4" HPOS="1504" VPOS="165" WIDTH="73" HEIGHT="11" WC="0.19" CONTENT="KT"/><SP WIDTH="35" VPOS="165" HPOS="1577"/>
+							<String ID="string_5" HPOS="1612" VPOS="168" WIDTH="7" HEIGHT="3" WC="0.5" CONTENT="Fe"/><SP WIDTH="74" VPOS="168" HPOS="1619"/>
+							<String ID="string_6" HPOS="1693" VPOS="167" WIDTH="9" HEIGHT="6" WC="0.31" CONTENT="å"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="1444" VPOS="168" WIDTH="261" HEIGHT="42">
+							<String ID="string_7" HPOS="1444" VPOS="171" WIDTH="40" HEIGHT="26" WC="0.40" CONTENT="AN"/><SP WIDTH="35" VPOS="171" HPOS="1484"/>
+							<String ID="string_8" HPOS="1519" VPOS="176" WIDTH="31" HEIGHT="34" WC="0.0" CONTENT="äd"/><SP WIDTH="12" VPOS="176" HPOS="1550"/>
+							<String ID="string_9" HPOS="1562" VPOS="189" WIDTH="3" HEIGHT="3" WC="0.32" CONTENT="É"/><SP WIDTH="18" VPOS="189" HPOS="1565"/>
+							<String ID="string_10" HPOS="1583" VPOS="168" WIDTH="36" HEIGHT="41" WC="0.37" CONTENT="u"/><SP WIDTH="17" VPOS="168" HPOS="1619"/>
+							<String ID="string_11" HPOS="1636" VPOS="177" WIDTH="25" HEIGHT="24" WC="0.47" CONTENT="Hö"/><SP WIDTH="6" VPOS="177" HPOS="1661"/>
+							<String ID="string_12" HPOS="1667" VPOS="170" WIDTH="38" HEIGHT="37" WC="0.41" CONTENT="TAR"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="0" VPOS="0" WIDTH="1888" HEIGHT="2847"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
