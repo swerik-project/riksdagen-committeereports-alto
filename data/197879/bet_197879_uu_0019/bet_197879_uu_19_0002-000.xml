@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_gsllufbk_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1819" HEIGHT="2829" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1819" HEIGHT="2829">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="1652" WIDTH="1" HEIGHT="712"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="132" VPOS="2517" WIDTH="358" HEIGHT="18">
+					<TextBlock ID="block_0" HPOS="132" VPOS="2517" WIDTH="358" HEIGHT="18">
+						<TextLine ID="line_0" HPOS="132" VPOS="2517" WIDTH="358" HEIGHT="18">
+							<String ID="string_0" HPOS="132" VPOS="2517" WIDTH="90" HEIGHT="18" WC="0.91" CONTENT="GOTAB"/><SP WIDTH="15" VPOS="2517" HPOS="222"/>
+							<String ID="string_1" HPOS="237" VPOS="2517" WIDTH="58" HEIGHT="18" WC="0.94" CONTENT="58916"/><SP WIDTH="27" VPOS="2517" HPOS="295"/>
+							<String ID="string_2" HPOS="322" VPOS="2517" WIDTH="113" HEIGHT="18" WC="0.93" CONTENT="Stockholm"/><SP WIDTH="12" VPOS="2517" HPOS="435"/>
+							<String ID="string_3" HPOS="447" VPOS="2517" WIDTH="43" HEIGHT="18" WC="0.96" CONTENT="1978"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="1501" VPOS="0" WIDTH="318" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="1817" VPOS="24" WIDTH="2" HEIGHT="489"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="171" VPOS="2828" WIDTH="343" HEIGHT="1"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

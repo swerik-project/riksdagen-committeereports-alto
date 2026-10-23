@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_d1w97rpy_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1829" HEIGHT="2862" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1829" HEIGHT="2862">
+				<ComposedBlock ID="cblock_0" HPOS="137" VPOS="127" WIDTH="1212" HEIGHT="33">
+					<TextBlock ID="block_0" HPOS="137" VPOS="127" WIDTH="1212" HEIGHT="33">
+						<TextLine ID="line_0" HPOS="137" VPOS="127" WIDTH="1212" HEIGHT="33">
+							<String ID="string_0" HPOS="137" VPOS="128" WIDTH="74" HEIGHT="32" WC="0.88" CONTENT="SoU"/><SP WIDTH="27" VPOS="128" HPOS="211"/>
+							<String ID="string_1" HPOS="238" VPOS="127" WIDTH="199" HEIGHT="33" WC="0.88" CONTENT="1978/79:40"/><SP WIDTH="895" VPOS="127" HPOS="437"/>
+							<String ID="string_2" HPOS="1332" VPOS="127" WIDTH="17" HEIGHT="28" WC="0.95" CONTENT="6"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="337" VPOS="234" WIDTH="1006" HEIGHT="88">
+					<TextBlock ID="block_1" HPOS="337" VPOS="234" WIDTH="1006" HEIGHT="88">
+						<TextLine ID="line_1" HPOS="341" VPOS="234" WIDTH="1002" HEIGHT="36">
+							<String ID="string_3" HPOS="341" VPOS="235" WIDTH="209" HEIGHT="30" WC="0.91" CONTENT="1978/79:2460"/><SP WIDTH="18" VPOS="235" HPOS="550"/>
+							<String ID="string_4" HPOS="568" VPOS="236" WIDTH="139" HEIGHT="34" WC="0.96" CONTENT="yrkandet"/><SP WIDTH="25" VPOS="236" HPOS="707"/>
+							<String ID="string_5" HPOS="732" VPOS="236" WIDTH="7" HEIGHT="28" WC="0.76" CONTENT="1"/><SP WIDTH="23" VPOS="236" HPOS="739"/>
+							<String ID="string_6" HPOS="762" VPOS="243" WIDTH="65" HEIGHT="22" WC="0.96" CONTENT="som"/><SP WIDTH="19" VPOS="243" HPOS="827"/>
+							<String ID="string_7" HPOS="846" VPOS="235" WIDTH="45" HEIGHT="29" WC="0.96" CONTENT="sin"/><SP WIDTH="22" VPOS="235" HPOS="891"/>
+							<String ID="string_8" HPOS="913" VPOS="235" WIDTH="120" HEIGHT="35" WC="0.96" CONTENT="mening"/><SP WIDTH="17" VPOS="235" HPOS="1033"/>
+							<String ID="string_9" HPOS="1050" VPOS="242" WIDTH="50" HEIGHT="28" WC="0.96" CONTENT="ger"/><SP WIDTH="19" VPOS="242" HPOS="1100"/>
+							<String ID="string_10" HPOS="1119" VPOS="235" WIDTH="165" HEIGHT="34" WC="0.95" CONTENT="regeringen"/><SP WIDTH="20" VPOS="235" HPOS="1284"/>
+							<String ID="string_11" HPOS="1304" VPOS="234" WIDTH="39" HEIGHT="29" WC="0.96" CONTENT="till"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="337" VPOS="289" WIDTH="444" HEIGHT="33">
+							<String ID="string_12" HPOS="337" VPOS="291" WIDTH="96" HEIGHT="26" WC="0.96" CONTENT="känna"/><SP WIDTH="16" VPOS="291" HPOS="433"/>
+							<String ID="string_13" HPOS="449" VPOS="290" WIDTH="54" HEIGHT="27" WC="0.95" CONTENT="vad"/><SP WIDTH="17" VPOS="290" HPOS="503"/>
+							<String ID="string_14" HPOS="520" VPOS="290" WIDTH="141" HEIGHT="28" WC="0.95" CONTENT="utskottet"/><SP WIDTH="15" VPOS="290" HPOS="661"/>
+							<String ID="string_15" HPOS="676" VPOS="289" WIDTH="105" HEIGHT="33" WC="0.94" CONTENT="anfört,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

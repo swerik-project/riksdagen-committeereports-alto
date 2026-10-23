@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_t12hrcg8_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1884" HEIGHT="2863" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1884" HEIGHT="2863">
+				<ComposedBlock ID="cblock_0" HPOS="141" VPOS="131" WIDTH="1222" HEIGHT="39">
+					<TextBlock ID="block_0" HPOS="141" VPOS="131" WIDTH="1222" HEIGHT="39">
+						<TextLine ID="line_0" HPOS="141" VPOS="131" WIDTH="1222" HEIGHT="39">
+							<String ID="string_0" HPOS="141" VPOS="131" WIDTH="73" HEIGHT="31" WC="0.88" CONTENT="FöU"/><SP WIDTH="29" VPOS="131" HPOS="214"/>
+							<String ID="string_1" HPOS="243" VPOS="131" WIDTH="178" HEIGHT="31" WC="0.89" CONTENT="1978/79:9"/><SP WIDTH="912" VPOS="131" HPOS="421"/>
+							<String ID="string_2" HPOS="1333" VPOS="142" WIDTH="30" HEIGHT="28" WC="0.96" CONTENT="16"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="451" VPOS="216" WIDTH="1352" HEIGHT="606"></Illustration>
+				<ComposedBlock ID="cblock_2" HPOS="138" VPOS="733" WIDTH="313" HEIGHT="229">
+					<TextBlock ID="block_1" HPOS="143" VPOS="733" WIDTH="234" HEIGHT="33">
+						<TextLine ID="line_1" HPOS="143" VPOS="733" WIDTH="234" HEIGHT="33">
+							<String ID="string_3" HPOS="143" VPOS="734" WIDTH="6" HEIGHT="25" WC="0.78" CONTENT="1"/><SP WIDTH="23" VPOS="734" HPOS="149"/>
+							<String ID="string_4" HPOS="172" VPOS="734" WIDTH="75" HEIGHT="26" WC="0.96" CONTENT="Tofta"/><SP WIDTH="14" VPOS="734" HPOS="247"/>
+							<String ID="string_5" HPOS="261" VPOS="733" WIDTH="116" HEIGHT="33" WC="0.96" CONTENT="skjutfält"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_2" HPOS="139" VPOS="774" WIDTH="312" HEIGHT="67">
+						<TextLine ID="line_2" HPOS="139" VPOS="774" WIDTH="312" HEIGHT="32">
+							<String ID="string_6" HPOS="139" VPOS="775" WIDTH="14" HEIGHT="25" WC="0.91" CONTENT="2"/><SP WIDTH="20" VPOS="775" HPOS="153"/>
+							<String ID="string_7" HPOS="173" VPOS="775" WIDTH="17" HEIGHT="25" WC="0.91" CONTENT="P"/><SP WIDTH="15" VPOS="775" HPOS="190"/>
+							<String ID="string_8" HPOS="205" VPOS="775" WIDTH="25" HEIGHT="25" WC="0.89" CONTENT="18"/><SP WIDTH="16" VPOS="775" HPOS="230"/>
+							<String ID="string_9" HPOS="246" VPOS="774" WIDTH="205" HEIGHT="32" WC="0.91" CONTENT="närövningsfält"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="139" VPOS="814" WIDTH="144" HEIGHT="27">
+							<String ID="string_10" HPOS="139" VPOS="814" WIDTH="14" HEIGHT="27" WC="0.93" CONTENT="3"/><SP WIDTH="20" VPOS="814" HPOS="153"/>
+							<String ID="string_11" HPOS="173" VPOS="815" WIDTH="110" HEIGHT="26" WC="0.88" CONTENT="Martille"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_3" HPOS="138" VPOS="856" WIDTH="120" HEIGHT="25">
+						<TextLine ID="line_4" HPOS="138" VPOS="856" WIDTH="120" HEIGHT="25">
+							<String ID="string_12" HPOS="138" VPOS="856" WIDTH="15" HEIGHT="24" WC="0.92" CONTENT="4"/><SP WIDTH="20" VPOS="856" HPOS="153"/>
+							<String ID="string_13" HPOS="173" VPOS="856" WIDTH="85" HEIGHT="25" WC="0.91" CONTENT="Homa"/>
+						</TextLine>
+					</TextBlock>
+					<TextBlock ID="block_4" HPOS="139" VPOS="895" WIDTH="300" HEIGHT="67">
+						<TextLine ID="line_5" HPOS="140" VPOS="895" WIDTH="299" HEIGHT="32">
+							<String ID="string_14" HPOS="140" VPOS="896" WIDTH="13" HEIGHT="26" WC="0.95" CONTENT="5"/><SP WIDTH="20" VPOS="896" HPOS="153"/>
+							<String ID="string_15" HPOS="173" VPOS="897" WIDTH="93" HEIGHT="25" WC="0.93" CONTENT="Väster"/><SP WIDTH="10" VPOS="897" HPOS="266"/>
+							<String ID="string_16" HPOS="276" VPOS="895" WIDTH="163" HEIGHT="32" WC="0.92" CONTENT="Toftavägen"/>
+						</TextLine>
+						<TextLine ID="line_6" HPOS="139" VPOS="936" WIDTH="139" HEIGHT="26">
+							<String ID="string_17" HPOS="139" VPOS="937" WIDTH="14" HEIGHT="25" WC="0.90" CONTENT="6"/><SP WIDTH="19" VPOS="937" HPOS="153"/>
+							<String ID="string_18" HPOS="172" VPOS="936" WIDTH="106" HEIGHT="26" WC="0.90" CONTENT="Slättflis"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
