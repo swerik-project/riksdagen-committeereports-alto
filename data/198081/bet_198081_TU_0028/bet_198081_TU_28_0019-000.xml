@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_pylgwvdn_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1830" HEIGHT="2857" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1830" HEIGHT="2857">
+				<ComposedBlock ID="cblock_0" HPOS="158" VPOS="150" WIDTH="1214" HEIGHT="32">
+					<TextBlock ID="block_0" HPOS="158" VPOS="150" WIDTH="1214" HEIGHT="32">
+						<TextLine ID="line_0" HPOS="158" VPOS="150" WIDTH="1214" HEIGHT="32">
+							<String ID="string_0" HPOS="158" VPOS="152" WIDTH="55" HEIGHT="30" WC="0.92" CONTENT="TU"/><SP WIDTH="26" VPOS="152" HPOS="213"/>
+							<String ID="string_1" HPOS="239" VPOS="150" WIDTH="190" HEIGHT="32" WC="0.92" CONTENT="1980/81:28"/><SP WIDTH="915" VPOS="150" HPOS="429"/>
+							<String ID="string_2" HPOS="1344" VPOS="154" WIDTH="28" HEIGHT="28" WC="0.96" CONTENT="19"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="363" VPOS="259" WIDTH="1009" HEIGHT="139">
+					<TextBlock ID="block_1" HPOS="363" VPOS="259" WIDTH="1009" HEIGHT="139">
+						<TextLine ID="line_1" HPOS="363" VPOS="259" WIDTH="1009" HEIGHT="38">
+							<String ID="string_3" HPOS="363" VPOS="262" WIDTH="28" HEIGHT="27" WC="0.88" CONTENT="b."/><SP WIDTH="24" VPOS="262" HPOS="391"/>
+							<String ID="string_4" HPOS="415" VPOS="262" WIDTH="27" HEIGHT="35" WC="0.96" CONTENT="ej"/><SP WIDTH="21" VPOS="262" HPOS="442"/>
+							<String ID="string_5" HPOS="463" VPOS="270" WIDTH="38" HEIGHT="19" WC="0.96" CONTENT="nu"/><SP WIDTH="19" VPOS="270" HPOS="501"/>
+							<String ID="string_6" HPOS="520" VPOS="261" WIDTH="114" HEIGHT="28" WC="0.94" CONTENT="anvisar"/><SP WIDTH="19" VPOS="261" HPOS="634"/>
+							<String ID="string_7" HPOS="653" VPOS="260" WIDTH="88" HEIGHT="35" WC="0.96" CONTENT="några"/><SP WIDTH="18" VPOS="260" HPOS="741"/>
+							<String ID="string_8" HPOS="759" VPOS="260" WIDTH="140" HEIGHT="28" WC="0.96" CONTENT="särskilda"/><SP WIDTH="19" VPOS="260" HPOS="899"/>
+							<String ID="string_9" HPOS="918" VPOS="260" WIDTH="95" HEIGHT="28" WC="0.74" CONTENT="medel!"/><SP WIDTH="19" VPOS="260" HPOS="1013"/>
+							<String ID="string_10" HPOS="1032" VPOS="260" WIDTH="46" HEIGHT="27" WC="0.96" CONTENT="för"/><SP WIDTH="18" VPOS="260" HPOS="1078"/>
+							<String ID="string_11" HPOS="1096" VPOS="259" WIDTH="165" HEIGHT="29" WC="0.96" CONTENT="ändamålet"/><SP WIDTH="19" VPOS="259" HPOS="1261"/>
+							<String ID="string_12" HPOS="1280" VPOS="260" WIDTH="92" HEIGHT="28" WC="0.96" CONTENT="under"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="363" VPOS="313" WIDTH="1005" HEIGHT="36">
+							<String ID="string_13" HPOS="363" VPOS="314" WIDTH="328" HEIGHT="35" WC="0.90" CONTENT="reservationsanslaget"/><SP WIDTH="13" VPOS="314" HPOS="691"/>
+							<String ID="string_14" HPOS="704" VPOS="313" WIDTH="177" HEIGHT="36" WC="0.93" CONTENT="Flygplatser"/><SP WIDTH="14" VPOS="313" HPOS="881"/>
+							<String ID="string_15" HPOS="895" VPOS="322" WIDTH="37" HEIGHT="18" WC="0.88" CONTENT="m."/><SP WIDTH="16" VPOS="322" HPOS="932"/>
+							<String ID="string_16" HPOS="948" VPOS="321" WIDTH="37" HEIGHT="19" WC="0.88" CONTENT="m."/><SP WIDTH="16" VPOS="321" HPOS="985"/>
+							<String ID="string_17" HPOS="1001" VPOS="313" WIDTH="46" HEIGHT="27" WC="0.93" CONTENT="för"/><SP WIDTH="12" VPOS="313" HPOS="1047"/>
+							<String ID="string_18" HPOS="1059" VPOS="313" WIDTH="180" HEIGHT="35" WC="0.91" CONTENT="budgetåren"/><SP WIDTH="15" VPOS="313" HPOS="1239"/>
+							<String ID="string_19" HPOS="1254" VPOS="313" WIDTH="114" HEIGHT="28" WC="0.92" CONTENT="1980/81"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="364" VPOS="367" WIDTH="202" HEIGHT="31">
+							<String ID="string_20" HPOS="364" VPOS="368" WIDTH="54" HEIGHT="27" WC="0.93" CONTENT="och"/><SP WIDTH="21" VPOS="368" HPOS="418"/>
+							<String ID="string_21" HPOS="439" VPOS="367" WIDTH="127" HEIGHT="31" WC="0.91" CONTENT="1981/82,"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_rr6li5f__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1831" HEIGHT="2868" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1831" HEIGHT="2868">
+				<ComposedBlock ID="cblock_0" HPOS="137" VPOS="152" WIDTH="1208" HEIGHT="33">
+					<TextBlock ID="block_0" HPOS="137" VPOS="152" WIDTH="1208" HEIGHT="33">
+						<TextLine ID="line_0" HPOS="137" VPOS="152" WIDTH="1208" HEIGHT="33">
+							<String ID="string_0" HPOS="137" VPOS="153" WIDTH="59" HEIGHT="30" WC="0.92" CONTENT="KU"/><SP WIDTH="25" VPOS="153" HPOS="196"/>
+							<String ID="string_1" HPOS="221" VPOS="152" WIDTH="193" HEIGHT="32" WC="0.92" CONTENT="1980/81:25"/><SP WIDTH="883" VPOS="152" HPOS="414"/>
+							<String ID="string_2" HPOS="1297" VPOS="158" WIDTH="48" HEIGHT="27" WC="0.96" CONTENT="101"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="135" VPOS="260" WIDTH="1220" HEIGHT="143">
+					<TextBlock ID="block_1" HPOS="135" VPOS="260" WIDTH="1220" HEIGHT="143">
+						<TextLine ID="line_1" HPOS="135" VPOS="260" WIDTH="1219" HEIGHT="39">
+							<String ID="string_3" HPOS="135" VPOS="262" WIDTH="85" HEIGHT="37" WC="0.93" CONTENT="Prop."/><SP WIDTH="21" VPOS="262" HPOS="220"/>
+							<String ID="string_4" HPOS="241" VPOS="261" WIDTH="168" HEIGHT="29" WC="0.91" CONTENT="1980/81:76"/><SP WIDTH="153" VPOS="261" HPOS="409"/>
+							<String ID="string_5" HPOS="562" VPOS="270" WIDTH="48" HEIGHT="19" WC="0.92" CONTENT="om"/><SP WIDTH="16" VPOS="270" HPOS="610"/>
+							<String ID="string_6" HPOS="626" VPOS="260" WIDTH="360" HEIGHT="38" WC="0.91" CONTENT="interneringspåföljdens"/><SP WIDTH="14" VPOS="260" HPOS="986"/>
+							<String ID="string_7" HPOS="1000" VPOS="262" WIDTH="190" HEIGHT="28" WC="0.96" CONTENT="avskaffande"/><SP WIDTH="14" VPOS="262" HPOS="1190"/>
+							<String ID="string_8" HPOS="1204" VPOS="262" WIDTH="54" HEIGHT="28" WC="0.93" CONTENT="och"/><SP WIDTH="15" VPOS="262" HPOS="1258"/>
+							<String ID="string_9" HPOS="1273" VPOS="263" WIDTH="81" HEIGHT="27" WC="0.92" CONTENT="straf-"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="562" VPOS="315" WIDTH="793" HEIGHT="37">
+							<String ID="string_10" HPOS="562" VPOS="316" WIDTH="41" HEIGHT="27" WC="0.96" CONTENT="fet"/><SP WIDTH="13" VPOS="316" HPOS="603"/>
+							<String ID="string_11" HPOS="616" VPOS="315" WIDTH="46" HEIGHT="29" WC="0.96" CONTENT="för"/><SP WIDTH="13" VPOS="315" HPOS="662"/>
+							<String ID="string_12" HPOS="675" VPOS="321" WIDTH="83" HEIGHT="31" WC="0.96" CONTENT="grovt"/><SP WIDTH="14" VPOS="321" HPOS="758"/>
+							<String ID="string_13" HPOS="772" VPOS="315" WIDTH="234" HEIGHT="29" WC="0.93" CONTENT="narkotikabrott"/><SP WIDTH="15" VPOS="315" HPOS="1006"/>
+							<String ID="string_14" HPOS="1021" VPOS="324" WIDTH="37" HEIGHT="19" WC="0.90" CONTENT="m."/><SP WIDTH="16" VPOS="324" HPOS="1058"/>
+							<String ID="string_15" HPOS="1074" VPOS="324" WIDTH="37" HEIGHT="20" WC="0.90" CONTENT="m."/><SP WIDTH="17" VPOS="324" HPOS="1111"/>
+							<String ID="string_16" HPOS="1128" VPOS="315" WIDTH="227" HEIGHT="37" WC="0.91" CONTENT="(justitiedepar-"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="563" VPOS="371" WIDTH="155" HEIGHT="32">
+							<String ID="string_17" HPOS="563" VPOS="371" WIDTH="155" HEIGHT="32" WC="0.92" CONTENT="tementet)"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
