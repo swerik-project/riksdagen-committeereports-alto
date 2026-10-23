@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_ky865b6u_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1875" HEIGHT="2832" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1875" HEIGHT="2832">
+				<ComposedBlock ID="cblock_0" HPOS="153" VPOS="92" WIDTH="1216" HEIGHT="83">
+					<TextBlock ID="block_0" HPOS="153" VPOS="92" WIDTH="1216" HEIGHT="83">
+						<TextLine ID="line_0" HPOS="153" VPOS="92" WIDTH="1216" HEIGHT="32">
+							<String ID="string_0" HPOS="153" VPOS="93" WIDTH="57" HEIGHT="31" WC="0.93" CONTENT="AU"/><SP WIDTH="22" VPOS="93" HPOS="210"/>
+							<String ID="string_1" HPOS="232" VPOS="92" WIDTH="172" HEIGHT="31" WC="0.86" CONTENT="1976/77:7"/><SP WIDTH="933" VPOS="92" HPOS="404"/>
+							<String ID="string_2" HPOS="1337" VPOS="93" WIDTH="32" HEIGHT="28" WC="0.78" CONTENT="76"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="155" VPOS="143" WIDTH="93" HEIGHT="32">
+							<String ID="string_3" HPOS="155" VPOS="143" WIDTH="93" HEIGHT="32" WC="0.83" CONTENT="Bilaza"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="148" VPOS="173" WIDTH="798" HEIGHT="837"></Illustration>
+				<ComposedBlock ID="cblock_2" HPOS="1061" VPOS="185" WIDTH="306" HEIGHT="83">
+					<TextBlock ID="block_1" HPOS="1061" VPOS="185" WIDTH="306" HEIGHT="83">
+						<TextLine ID="line_2" HPOS="1061" VPOS="185" WIDTH="180" HEIGHT="35">
+							<String ID="string_4" HPOS="1061" VPOS="185" WIDTH="180" HEIGHT="35" WC="0.89" CONTENT="Ortsplanen"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="1061" VPOS="238" WIDTH="306" HEIGHT="30">
+							<String ID="string_5" HPOS="1061" VPOS="238" WIDTH="306" HEIGHT="30" WC="0.91" CONTENT="Storstadsområdena"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="984" VPOS="971" WIDTH="331" HEIGHT="32">
+					<TextBlock ID="block_2" HPOS="984" VPOS="971" WIDTH="331" HEIGHT="32">
+						<TextLine ID="line_4" HPOS="984" VPOS="971" WIDTH="331" HEIGHT="32">
+							<String ID="string_6" HPOS="984" VPOS="971" WIDTH="331" HEIGHT="32" WC="0.89" CONTENT="Stockholmsregionen"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_4" HPOS="151" VPOS="1048" WIDTH="632" HEIGHT="851"></Illustration>
+				<ComposedBlock ID="cblock_5" HPOS="831" VPOS="1870" WIDTH="307" HEIGHT="32">
+					<TextBlock ID="block_3" HPOS="831" VPOS="1870" WIDTH="307" HEIGHT="32">
+						<TextLine ID="line_5" HPOS="831" VPOS="1870" WIDTH="307" HEIGHT="32">
+							<String ID="string_7" HPOS="831" VPOS="1870" WIDTH="307" HEIGHT="32" WC="0.90" CONTENT="Göteborgsregionen"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_6" HPOS="151" VPOS="1940" WIDTH="554" HEIGHT="674"></Illustration>
+				<ComposedBlock ID="cblock_7" HPOS="754" VPOS="2580" WIDTH="248" HEIGHT="32">
+					<TextBlock ID="block_4" HPOS="754" VPOS="2580" WIDTH="248" HEIGHT="32">
+						<TextLine ID="line_6" HPOS="754" VPOS="2580" WIDTH="248" HEIGHT="32">
+							<String ID="string_8" HPOS="754" VPOS="2580" WIDTH="248" HEIGHT="32" WC="0.89" CONTENT="Malmöregionen"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
