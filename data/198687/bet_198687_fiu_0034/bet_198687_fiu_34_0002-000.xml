@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess__h0bq0su_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1843" HEIGHT="2799" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1843" HEIGHT="2799">
+				<ComposedBlock ID="cblock_0" HPOS="141" VPOS="2553" WIDTH="376" HEIGHT="29">
+					<TextBlock ID="block_0" HPOS="141" VPOS="2553" WIDTH="376" HEIGHT="29">
+						<TextLine ID="line_0" HPOS="141" VPOS="2553" WIDTH="376" HEIGHT="29">
+							<String ID="string_0" HPOS="141" VPOS="2553" WIDTH="87" HEIGHT="29" WC="0.82" CONTENT="gotab"/><SP WIDTH="25" VPOS="2553" HPOS="228"/>
+							<String ID="string_1" HPOS="253" VPOS="2556" WIDTH="120" HEIGHT="20" WC="0.95" CONTENT="Stockholm"/><SP WIDTH="12" VPOS="2556" HPOS="373"/>
+							<String ID="string_2" HPOS="385" VPOS="2556" WIDTH="50" HEIGHT="20" WC="0.96" CONTENT="1987"/><SP WIDTH="18" VPOS="2556" HPOS="435"/>
+							<String ID="string_3" HPOS="453" VPOS="2556" WIDTH="64" HEIGHT="18" WC="0.96" CONTENT="13125"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="1099" VPOS="0" WIDTH="372" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="1841" VPOS="39" WIDTH="2" HEIGHT="426"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="1841" VPOS="993" WIDTH="2" HEIGHT="1770"></GraphicalElement >
+				<GraphicalElement ID="cblock_4" HPOS="1291" VPOS="2798" WIDTH="450" HEIGHT="1"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

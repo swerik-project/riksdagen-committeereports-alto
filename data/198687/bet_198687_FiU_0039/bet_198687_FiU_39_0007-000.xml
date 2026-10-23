@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_4pf9ijpo_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1858" HEIGHT="2838" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1858" HEIGHT="2838">
+				<ComposedBlock ID="cblock_0" HPOS="137" VPOS="157" WIDTH="903" HEIGHT="103">
+					<TextBlock ID="block_0" HPOS="137" VPOS="157" WIDTH="903" HEIGHT="103">
+						<TextLine ID="line_0" HPOS="137" VPOS="157" WIDTH="903" HEIGHT="51">
+							<String ID="string_0" HPOS="137" VPOS="159" WIDTH="144" HEIGHT="49" WC="0.96" CONTENT="Bilaga"/><SP WIDTH="17" VPOS="159" HPOS="281"/>
+							<String ID="string_1" HPOS="298" VPOS="158" WIDTH="57" HEIGHT="40" WC="0.93" CONTENT="till"/><SP WIDTH="20" VPOS="158" HPOS="355"/>
+							<String ID="string_2" HPOS="375" VPOS="158" WIDTH="376" HEIGHT="40" WC="0.92" CONTENT="finansutskottets"/><SP WIDTH="20" VPOS="158" HPOS="751"/>
+							<String ID="string_3" HPOS="771" VPOS="157" WIDTH="269" HEIGHT="40" WC="0.96" CONTENT="betänkande"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="137" VPOS="218" WIDTH="361" HEIGHT="42">
+							<String ID="string_4" HPOS="137" VPOS="220" WIDTH="89" HEIGHT="40" WC="0.89" CONTENT="FiU"/><SP WIDTH="23" VPOS="220" HPOS="226"/>
+							<String ID="string_5" HPOS="249" VPOS="218" WIDTH="182" HEIGHT="42" WC="0.91" CONTENT="1986/87:"/><SP WIDTH="17" VPOS="218" HPOS="431"/>
+							<String ID="string_6" HPOS="448" VPOS="220" WIDTH="50" HEIGHT="39" WC="0.96" CONTENT="39"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="378" VPOS="423" WIDTH="731" HEIGHT="215">
+					<TextBlock ID="block_1" HPOS="378" VPOS="423" WIDTH="731" HEIGHT="215">
+						<TextLine ID="line_2" HPOS="378" VPOS="423" WIDTH="731" HEIGHT="74">
+							<String ID="string_7" HPOS="378" VPOS="423" WIDTH="731" HEIGHT="74" WC="0.91" CONTENT="STATSBUDGET"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="693" VPOS="592" WIDTH="100" HEIGHT="46">
+							<String ID="string_8" HPOS="693" VPOS="592" WIDTH="100" HEIGHT="46" WC="0.96" CONTENT="FÖR"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="489" VPOS="749" WIDTH="507" HEIGHT="49">
+					<TextBlock ID="block_2" HPOS="489" VPOS="749" WIDTH="507" HEIGHT="49">
+						<TextLine ID="line_4" HPOS="489" VPOS="749" WIDTH="507" HEIGHT="49">
+							<String ID="string_9" HPOS="489" VPOS="749" WIDTH="345" HEIGHT="49" WC="0.91" CONTENT="BUDGETÅRET"/><SP WIDTH="19" VPOS="749" HPOS="834"/>
+							<String ID="string_10" HPOS="853" VPOS="759" WIDTH="143" HEIGHT="38" WC="0.90" CONTENT="1987/88"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="125" VPOS="2666" WIDTH="649" HEIGHT="34">
+					<TextBlock ID="block_3" HPOS="125" VPOS="2666" WIDTH="649" HEIGHT="34">
+						<TextLine ID="line_5" HPOS="125" VPOS="2666" WIDTH="649" HEIGHT="34">
+							<String ID="string_11" HPOS="125" VPOS="2667" WIDTH="6" HEIGHT="23" WC="0.75" CONTENT="I"/><SP WIDTH="38" VPOS="2667" HPOS="131"/>
+							<String ID="string_12" HPOS="169" VPOS="2666" WIDTH="151" HEIGHT="31" WC="0.60" CONTENT="Riksdagen"/><SP WIDTH="15" VPOS="2666" HPOS="320"/>
+							<String ID="string_13" HPOS="335" VPOS="2666" WIDTH="140" HEIGHT="26" WC="0.67" CONTENT="1986/87.5"/><SP WIDTH="12" VPOS="2666" HPOS="475"/>
+							<String ID="string_14" HPOS="487" VPOS="2667" WIDTH="77" HEIGHT="25" WC="0.95" CONTENT="saml."/><SP WIDTH="14" VPOS="2667" HPOS="564"/>
+							<String ID="string_15" HPOS="578" VPOS="2669" WIDTH="39" HEIGHT="23" WC="0.96" CONTENT="Nr"/><SP WIDTH="9" VPOS="2669" HPOS="617"/>
+							<String ID="string_16" HPOS="626" VPOS="2669" WIDTH="41" HEIGHT="24" WC="0.96" CONTENT="39."/><SP WIDTH="13" VPOS="2669" HPOS="667"/>
+							<String ID="string_17" HPOS="680" VPOS="2669" WIDTH="94" HEIGHT="31" WC="0.95" CONTENT="Bilaga"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
