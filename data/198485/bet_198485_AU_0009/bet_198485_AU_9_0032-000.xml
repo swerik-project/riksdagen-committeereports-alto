@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_8ppoa1e7_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1847" HEIGHT="2840" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1847" HEIGHT="2840">
+				<ComposedBlock ID="cblock_0" HPOS="155" VPOS="157" WIDTH="1215" HEIGHT="31">
+					<TextBlock ID="block_0" HPOS="155" VPOS="157" WIDTH="1215" HEIGHT="31">
+						<TextLine ID="line_0" HPOS="155" VPOS="157" WIDTH="1215" HEIGHT="31">
+							<String ID="string_0" HPOS="155" VPOS="159" WIDTH="57" HEIGHT="29" WC="0.93" CONTENT="AU"/><SP WIDTH="13" VPOS="159" HPOS="212"/>
+							<String ID="string_1" HPOS="225" VPOS="157" WIDTH="164" HEIGHT="31" WC="0.92" CONTENT="1984/85:9"/><SP WIDTH="946" VPOS="157" HPOS="389"/>
+							<String ID="string_2" HPOS="1335" VPOS="157" WIDTH="35" HEIGHT="28" WC="0.96" CONTENT="32"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="156" VPOS="263" WIDTH="1211" HEIGHT="89">
+					<TextBlock ID="block_1" HPOS="156" VPOS="263" WIDTH="1211" HEIGHT="89">
+						<TextLine ID="line_1" HPOS="157" VPOS="263" WIDTH="1210" HEIGHT="37">
+							<String ID="string_3" HPOS="157" VPOS="265" WIDTH="97" HEIGHT="27" WC="0.93" CONTENT="vidare"/><SP WIDTH="13" VPOS="265" HPOS="254"/>
+							<String ID="string_4" HPOS="267" VPOS="264" WIDTH="211" HEIGHT="36" WC="0.90" CONTENT="uppföljnings-"/><SP WIDTH="11" VPOS="264" HPOS="478"/>
+							<String ID="string_5" HPOS="489" VPOS="265" WIDTH="55" HEIGHT="27" WC="0.96" CONTENT="och"/><SP WIDTH="12" VPOS="265" HPOS="544"/>
+							<String ID="string_6" HPOS="556" VPOS="265" WIDTH="210" HEIGHT="27" WC="0.96" CONTENT="reformarbete"/><SP WIDTH="12" VPOS="265" HPOS="766"/>
+							<String ID="string_7" HPOS="778" VPOS="272" WIDTH="62" HEIGHT="19" WC="0.96" CONTENT="som"/><SP WIDTH="12" VPOS="272" HPOS="840"/>
+							<String ID="string_8" HPOS="852" VPOS="264" WIDTH="146" HEIGHT="27" WC="0.96" CONTENT="framöver"/><SP WIDTH="11" VPOS="264" HPOS="998"/>
+							<String ID="string_9" HPOS="1009" VPOS="263" WIDTH="90" HEIGHT="28" WC="0.96" CONTENT="måste"/><SP WIDTH="13" VPOS="263" HPOS="1099"/>
+							<String ID="string_10" HPOS="1112" VPOS="264" WIDTH="38" HEIGHT="27" WC="0.95" CONTENT="till"/><SP WIDTH="13" VPOS="264" HPOS="1150"/>
+							<String ID="string_11" HPOS="1163" VPOS="264" WIDTH="45" HEIGHT="27" WC="0.96" CONTENT="för"/><SP WIDTH="11" VPOS="264" HPOS="1208"/>
+							<String ID="string_12" HPOS="1219" VPOS="268" WIDTH="39" HEIGHT="23" WC="0.96" CONTENT="att"/><SP WIDTH="12" VPOS="268" HPOS="1258"/>
+							<String ID="string_13" HPOS="1270" VPOS="263" WIDTH="97" HEIGHT="35" WC="0.95" CONTENT="uppnå"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="156" VPOS="316" WIDTH="1142" HEIGHT="36">
+							<String ID="string_14" HPOS="156" VPOS="325" WIDTH="35" HEIGHT="18" WC="0.93" CONTENT="en"/><SP WIDTH="17" VPOS="325" HPOS="191"/>
+							<String ID="string_15" HPOS="208" VPOS="316" WIDTH="261" HEIGHT="28" WC="0.92" CONTENT="kvalitetsinriktad"/><SP WIDTH="15" VPOS="316" HPOS="469"/>
+							<String ID="string_16" HPOS="484" VPOS="317" WIDTH="54" HEIGHT="27" WC="0.92" CONTENT="och"/><SP WIDTH="17" VPOS="317" HPOS="538"/>
+							<String ID="string_17" HPOS="555" VPOS="316" WIDTH="300" HEIGHT="36" WC="0.89" CONTENT="marknadsanpassad"/><SP WIDTH="17" VPOS="316" HPOS="855"/>
+							<String ID="string_18" HPOS="872" VPOS="316" WIDTH="426" HEIGHT="35" WC="0.90" CONTENT="arbetsmarknadsutbildning."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

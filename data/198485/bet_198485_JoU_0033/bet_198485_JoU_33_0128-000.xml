@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_2dv3jct2_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1844" HEIGHT="2851" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1844" HEIGHT="2851">
+				<ComposedBlock ID="cblock_0" HPOS="174" VPOS="139" WIDTH="266" HEIGHT="35">
+					<TextBlock ID="block_0" HPOS="174" VPOS="139" WIDTH="266" HEIGHT="35">
+						<TextLine ID="line_0" HPOS="174" VPOS="139" WIDTH="266" HEIGHT="35">
+							<String ID="string_0" HPOS="174" VPOS="141" WIDTH="70" HEIGHT="33" WC="0.87" CONTENT="JoU"/><SP WIDTH="11" VPOS="141" HPOS="244"/>
+							<String ID="string_1" HPOS="255" VPOS="139" WIDTH="185" HEIGHT="33" WC="0.90" CONTENT="1984/85:33"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="175" VPOS="302" WIDTH="100" HEIGHT="35">
+					<TextBlock ID="block_1" HPOS="175" VPOS="302" WIDTH="100" HEIGHT="35">
+						<TextLine ID="line_1" HPOS="175" VPOS="302" WIDTH="100" HEIGHT="35">
+							<String ID="string_2" HPOS="175" VPOS="302" WIDTH="100" HEIGHT="35" WC="0.96" CONTENT="Bilaga"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="177" VPOS="2533" WIDTH="452" HEIGHT="24">
+					<TextBlock ID="block_2" HPOS="177" VPOS="2533" WIDTH="452" HEIGHT="24">
+						<TextLine ID="line_2" HPOS="177" VPOS="2533" WIDTH="452" HEIGHT="24">
+							<String ID="string_3" HPOS="177" VPOS="2533" WIDTH="162" HEIGHT="24" WC="0.92" CONTENT="minab/gotab"/><SP WIDTH="26" VPOS="2533" HPOS="339"/>
+							<String ID="string_4" HPOS="365" VPOS="2534" WIDTH="121" HEIGHT="20" WC="0.94" CONTENT="Stockholm"/><SP WIDTH="12" VPOS="2534" HPOS="486"/>
+							<String ID="string_5" HPOS="498" VPOS="2536" WIDTH="50" HEIGHT="19" WC="0.96" CONTENT="1985"/><SP WIDTH="15" VPOS="2536" HPOS="548"/>
+							<String ID="string_6" HPOS="563" VPOS="2537" WIDTH="66" HEIGHT="20" WC="0.83" CONTENT="82965"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

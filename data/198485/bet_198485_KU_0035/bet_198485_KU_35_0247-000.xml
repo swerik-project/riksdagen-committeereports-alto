@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_cp2m4t95_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1832" HEIGHT="2833" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1832" HEIGHT="2833">
+				<ComposedBlock ID="cblock_0" HPOS="157" VPOS="254" WIDTH="710" HEIGHT="153">
+					<TextBlock ID="block_0" HPOS="129" VPOS="186" WIDTH="738" HEIGHT="221">
+						<TextLine ID="line_0" HPOS="157" VPOS="254" WIDTH="710" HEIGHT="153">
+							<String ID="string_0" HPOS="157" VPOS="254" WIDTH="568" HEIGHT="137" WC="0.91" CONTENT="Bilagedel"/><SP WIDTH="59" VPOS="254" HPOS="725"/>
+							<String ID="string_1" HPOS="784" VPOS="255" WIDTH="83" HEIGHT="152" WC="0.93" CONTENT="B"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="156" VPOS="918" WIDTH="1660" HEIGHT="141">
+					<TextBlock ID="block_1" HPOS="156" VPOS="906" WIDTH="1660" HEIGHT="164">
+						<TextLine ID="line_1" HPOS="156" VPOS="918" WIDTH="1660" HEIGHT="141">
+							<String ID="string_2" HPOS="156" VPOS="918" WIDTH="1660" HEIGHT="141" WC="0.82" CONTENT="Granskningspromemorior"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_uwc87znk_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1858" HEIGHT="2844" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1858" HEIGHT="2844">
+				<ComposedBlock ID="cblock_0" HPOS="167" VPOS="160" WIDTH="1227" HEIGHT="32">
+					<TextBlock ID="block_0" HPOS="167" VPOS="160" WIDTH="1227" HEIGHT="32">
+						<TextLine ID="line_0" HPOS="167" VPOS="160" WIDTH="1227" HEIGHT="32">
+							<String ID="string_0" HPOS="167" VPOS="161" WIDTH="55" HEIGHT="31" WC="0.93" CONTENT="TU"/><SP WIDTH="11" VPOS="161" HPOS="222"/>
+							<String ID="string_1" HPOS="233" VPOS="161" WIDTH="167" HEIGHT="31" WC="0.92" CONTENT="1984/85:2"/><SP WIDTH="437" VPOS="161" HPOS="400"/>
+							<String ID="string_2" HPOS="837" VPOS="180" WIDTH="2" HEIGHT="3" WC="0.64" CONTENT=":"/><SP WIDTH="522" VPOS="180" HPOS="839"/>
+							<String ID="string_3" HPOS="1361" VPOS="160" WIDTH="33" HEIGHT="28" WC="0.96" CONTENT="10"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="165" VPOS="266" WIDTH="1221" HEIGHT="93">
+					<TextBlock ID="block_1" HPOS="165" VPOS="266" WIDTH="1221" HEIGHT="93">
+						<TextLine ID="line_1" HPOS="165" VPOS="266" WIDTH="1221" HEIGHT="40">
+							<String ID="string_4" HPOS="165" VPOS="269" WIDTH="261" HEIGHT="29" WC="0.94" CONTENT="konsumenterna."/><SP WIDTH="13" VPOS="269" HPOS="426"/>
+							<String ID="string_5" HPOS="439" VPOS="271" WIDTH="36" HEIGHT="27" WC="0.50" CONTENT="Vi"/><SP WIDTH="10" VPOS="271" HPOS="475"/>
+							<String ID="string_6" HPOS="485" VPOS="279" WIDTH="86" HEIGHT="19" WC="0.50" CONTENT="anser"/><SP WIDTH="8" VPOS="279" HPOS="571"/>
+							<String ID="string_7" HPOS="579" VPOS="270" WIDTH="102" HEIGHT="28" WC="0.96" CONTENT="därför"/><SP WIDTH="10" VPOS="270" HPOS="681"/>
+							<String ID="string_8" HPOS="691" VPOS="276" WIDTH="40" HEIGHT="22" WC="0.96" CONTENT="att"/><SP WIDTH="11" VPOS="276" HPOS="731"/>
+							<String ID="string_9" HPOS="742" VPOS="271" WIDTH="146" HEIGHT="35" WC="0.96" CONTENT="förslagen"/><SP WIDTH="12" VPOS="271" HPOS="888"/>
+							<String ID="string_10" HPOS="900" VPOS="271" WIDTH="5" HEIGHT="26" WC="0.93" CONTENT="i"/><SP WIDTH="11" VPOS="271" HPOS="905"/>
+							<String ID="string_11" HPOS="916" VPOS="267" WIDTH="433" HEIGHT="38" WC="0.90" CONTENT="departementspromemorian"/><SP WIDTH="11" VPOS="267" HPOS="1349"/>
+							<String ID="string_12" HPOS="1360" VPOS="266" WIDTH="26" HEIGHT="35" WC="0.95" CONTENT="ej"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="165" VPOS="322" WIDTH="658" HEIGHT="37">
+							<String ID="string_13" HPOS="165" VPOS="322" WIDTH="54" HEIGHT="28" WC="0.96" CONTENT="bör"/><SP WIDTH="14" VPOS="322" HPOS="219"/>
+							<String ID="string_14" HPOS="233" VPOS="324" WIDTH="98" HEIGHT="35" WC="0.96" CONTENT="läggas"/><SP WIDTH="16" VPOS="324" HPOS="331"/>
+							<String ID="string_15" HPOS="347" VPOS="323" WIDTH="40" HEIGHT="27" WC="0.96" CONTENT="till"/><SP WIDTH="16" VPOS="323" HPOS="387"/>
+							<String ID="string_16" HPOS="403" VPOS="324" WIDTH="93" HEIGHT="35" WC="0.96" CONTENT="grund"/><SP WIDTH="16" VPOS="324" HPOS="496"/>
+							<String ID="string_17" HPOS="512" VPOS="324" WIDTH="46" HEIGHT="27" WC="0.96" CONTENT="för"/><SP WIDTH="15" VPOS="324" HPOS="558"/>
+							<String ID="string_18" HPOS="573" VPOS="332" WIDTH="36" HEIGHT="19" WC="0.96" CONTENT="en"/><SP WIDTH="17" VPOS="332" HPOS="609"/>
+							<String ID="string_19" HPOS="626" VPOS="323" WIDTH="197" HEIGHT="36" WC="0.95" CONTENT="proposition."/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
