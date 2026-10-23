@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0k8tghu4_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1865" HEIGHT="2881" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1865" HEIGHT="2881">
+				<ComposedBlock ID="cblock_0" HPOS="192" VPOS="2542" WIDTH="598" HEIGHT="27">
+					<TextBlock ID="block_0" HPOS="192" VPOS="2542" WIDTH="598" HEIGHT="27">
+						<TextLine ID="line_0" HPOS="192" VPOS="2542" WIDTH="598" HEIGHT="27">
+							<String ID="string_0" HPOS="192" VPOS="2542" WIDTH="115" HEIGHT="24" WC="0.82" CONTENT="GOTAB"/><SP WIDTH="23" VPOS="2542" HPOS="307"/>
+							<String ID="string_1" HPOS="330" VPOS="2543" WIDTH="31" HEIGHT="24" WC="0.95" CONTENT="75"/><SP WIDTH="25" VPOS="2543" HPOS="361"/>
+							<String ID="string_2" HPOS="386" VPOS="2542" WIDTH="65" HEIGHT="25" WC="0.88" CONTENT="8681"/><SP WIDTH="28" VPOS="2542" HPOS="451"/>
+							<String ID="string_3" HPOS="479" VPOS="2543" WIDTH="15" HEIGHT="24" WC="0.82" CONTENT="S"/><SP WIDTH="27" VPOS="2543" HPOS="494"/>
+							<String ID="string_4" HPOS="521" VPOS="2538" WIDTH="16" HEIGHT="41" WC="0.50" CONTENT="—"/><SP WIDTH="16" VPOS="2538" HPOS="537"/>
+							<String ID="string_5" HPOS="553" VPOS="2544" WIDTH="155" HEIGHT="24" WC="0.95" CONTENT="Stockholm"/><SP WIDTH="19" VPOS="2544" HPOS="708"/>
+							<String ID="string_6" HPOS="727" VPOS="2545" WIDTH="63" HEIGHT="24" WC="0.95" CONTENT="1975"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
