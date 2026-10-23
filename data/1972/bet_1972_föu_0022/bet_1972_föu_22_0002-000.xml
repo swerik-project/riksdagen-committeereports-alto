@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_p8cd1u46_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1763" HEIGHT="2835" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1763" HEIGHT="2835">
+				<ComposedBlock ID="cblock_0" HPOS="120" VPOS="2518" WIDTH="873" HEIGHT="32">
+					<TextBlock ID="block_0" HPOS="120" VPOS="2518" WIDTH="873" HEIGHT="32">
+						<TextLine ID="line_0" HPOS="120" VPOS="2518" WIDTH="873" HEIGHT="32">
+							<String ID="string_0" HPOS="120" VPOS="2518" WIDTH="149" HEIGHT="32" WC="0.93" CONTENT="Göteborgs"/><SP WIDTH="10" VPOS="2518" HPOS="269"/>
+							<String ID="string_1" HPOS="279" VPOS="2518" WIDTH="204" HEIGHT="32" WC="0.90" CONTENT="Offsettryckeri"/><SP WIDTH="11" VPOS="2518" HPOS="483"/>
+							<String ID="string_2" HPOS="494" VPOS="2520" WIDTH="43" HEIGHT="25" WC="0.95" CONTENT="AB"/><SP WIDTH="21" VPOS="2520" HPOS="537"/>
+							<String ID="string_3" HPOS="558" VPOS="2518" WIDTH="35" HEIGHT="27" WC="0.95" CONTENT="72"/><SP WIDTH="15" VPOS="2518" HPOS="593"/>
+							<String ID="string_4" HPOS="608" VPOS="2520" WIDTH="67" HEIGHT="25" WC="0.81" CONTENT="1945"/><SP WIDTH="14" VPOS="2520" HPOS="675"/>
+							<String ID="string_5" HPOS="689" VPOS="2520" WIDTH="16" HEIGHT="25" WC="0.81" CONTENT="S"/><SP WIDTH="48" VPOS="2520" HPOS="705"/>
+							<String ID="string_6" HPOS="753" VPOS="2520" WIDTH="155" HEIGHT="25" WC="0.58" CONTENT="Stockholm"/><SP WIDTH="18" VPOS="2520" HPOS="908"/>
+							<String ID="string_7" HPOS="926" VPOS="2520" WIDTH="67" HEIGHT="25" WC="0.96" CONTENT="1972"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

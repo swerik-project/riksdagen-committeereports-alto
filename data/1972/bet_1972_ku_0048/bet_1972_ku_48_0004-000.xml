@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_v9yxvgw__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1831" HEIGHT="2846" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1831" HEIGHT="2846">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="1332" WIDTH="1" HEIGHT="831"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="114" VPOS="2523" WIDTH="871" HEIGHT="36">
+					<TextBlock ID="block_0" HPOS="114" VPOS="2523" WIDTH="871" HEIGHT="36">
+						<TextLine ID="line_0" HPOS="114" VPOS="2523" WIDTH="871" HEIGHT="36">
+							<String ID="string_0" HPOS="114" VPOS="2529" WIDTH="148" HEIGHT="30" WC="0.93" CONTENT="Göteborgs"/><SP WIDTH="11" VPOS="2529" HPOS="262"/>
+							<String ID="string_1" HPOS="273" VPOS="2528" WIDTH="201" HEIGHT="28" WC="0.90" CONTENT="Offsettryckeri"/><SP WIDTH="13" VPOS="2528" HPOS="474"/>
+							<String ID="string_2" HPOS="487" VPOS="2528" WIDTH="42" HEIGHT="22" WC="0.96" CONTENT="AB"/><SP WIDTH="24" VPOS="2528" HPOS="529"/>
+							<String ID="string_3" HPOS="553" VPOS="2526" WIDTH="32" HEIGHT="24" WC="0.96" CONTENT="72"/><SP WIDTH="19" VPOS="2526" HPOS="585"/>
+							<String ID="string_4" HPOS="604" VPOS="2526" WIDTH="65" HEIGHT="24" WC="0.92" CONTENT="1867"/><SP WIDTH="15" VPOS="2526" HPOS="669"/>
+							<String ID="string_5" HPOS="684" VPOS="2526" WIDTH="13" HEIGHT="23" WC="0.91" CONTENT="S"/><SP WIDTH="51" VPOS="2526" HPOS="697"/>
+							<String ID="string_6" HPOS="748" VPOS="2525" WIDTH="153" HEIGHT="24" WC="0.85" CONTENT="Stockholm"/><SP WIDTH="20" VPOS="2525" HPOS="901"/>
+							<String ID="string_7" HPOS="921" VPOS="2523" WIDTH="64" HEIGHT="24" WC="0.96" CONTENT="1972"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="1830" VPOS="54" WIDTH="1" HEIGHT="364"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="1830" VPOS="1308" WIDTH="1" HEIGHT="756"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

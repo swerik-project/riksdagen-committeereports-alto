@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_utn36sd3_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1792" HEIGHT="2831" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1792" HEIGHT="2831">
+				<ComposedBlock ID="cblock_0" HPOS="136" VPOS="2540" WIDTH="873" HEIGHT="37">
+					<TextBlock ID="block_0" HPOS="136" VPOS="2540" WIDTH="873" HEIGHT="37">
+						<TextLine ID="line_0" HPOS="136" VPOS="2540" WIDTH="873" HEIGHT="37">
+							<String ID="string_0" HPOS="136" VPOS="2546" WIDTH="147" HEIGHT="31" WC="0.93" CONTENT="Göteborgs"/><SP WIDTH="11" VPOS="2546" HPOS="283"/>
+							<String ID="string_1" HPOS="294" VPOS="2546" WIDTH="202" HEIGHT="30" WC="0.90" CONTENT="Offsettryckeri"/><SP WIDTH="15" VPOS="2546" HPOS="496"/>
+							<String ID="string_2" HPOS="511" VPOS="2546" WIDTH="42" HEIGHT="24" WC="0.96" CONTENT="AB"/><SP WIDTH="23" VPOS="2546" HPOS="553"/>
+							<String ID="string_3" HPOS="576" VPOS="2544" WIDTH="33" HEIGHT="24" WC="0.92" CONTENT="72"/><SP WIDTH="16" VPOS="2544" HPOS="609"/>
+							<String ID="string_4" HPOS="625" VPOS="2543" WIDTH="95" HEIGHT="25" WC="0.79" CONTENT="1992S"/><SP WIDTH="22" VPOS="2543" HPOS="720"/>
+							<String ID="string_5" HPOS="742" VPOS="2536" WIDTH="12" HEIGHT="45" WC="0.17" CONTENT="="/><SP WIDTH="15" VPOS="2536" HPOS="754"/>
+							<String ID="string_6" HPOS="769" VPOS="2543" WIDTH="155" HEIGHT="24" WC="0.87" CONTENT="Stockholm"/><SP WIDTH="18" VPOS="2543" HPOS="924"/>
+							<String ID="string_7" HPOS="942" VPOS="2540" WIDTH="67" HEIGHT="25" WC="0.96" CONTENT="1972"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

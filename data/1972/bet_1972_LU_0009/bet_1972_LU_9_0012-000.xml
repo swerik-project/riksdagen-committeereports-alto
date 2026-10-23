@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_mj286_yu_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1897" HEIGHT="2885" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1897" HEIGHT="2885">
+				<ComposedBlock ID="cblock_0" HPOS="372" VPOS="2651" WIDTH="727" HEIGHT="20">
+					<TextBlock ID="block_0" HPOS="372" VPOS="2651" WIDTH="727" HEIGHT="20">
+						<TextLine ID="line_0" HPOS="372" VPOS="2651" WIDTH="727" HEIGHT="20">
+							<String ID="string_0" HPOS="372" VPOS="2655" WIDTH="220" HEIGHT="15" WC="0.83" CONTENT="TRYCKERIBOLASET"/><SP WIDTH="16" VPOS="2655" HPOS="592"/>
+							<String ID="string_1" HPOS="608" VPOS="2657" WIDTH="49" HEIGHT="14" WC="0.88" CONTENT="IVAR"/><SP WIDTH="17" VPOS="2657" HPOS="657"/>
+							<String ID="string_2" HPOS="674" VPOS="2651" WIDTH="150" HEIGHT="20" WC="0.10" CONTENT="HAEGGSTRÖM"/><SP WIDTH="16" VPOS="2651" HPOS="824"/>
+							<String ID="string_3" HPOS="840" VPOS="2656" WIDTH="36" HEIGHT="13" WC="0.95" CONTENT="AB."/><SP WIDTH="15" VPOS="2656" HPOS="876"/>
+							<String ID="string_4" HPOS="891" VPOS="2655" WIDTH="141" HEIGHT="15" WC="0.95" CONTENT="STOCKHOLM"/><SP WIDTH="19" VPOS="2655" HPOS="1032"/>
+							<String ID="string_5" HPOS="1051" VPOS="2654" WIDTH="48" HEIGHT="14" WC="0.96" CONTENT="1972"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_vc8lpagy_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1880" HEIGHT="2884" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1880" HEIGHT="2884">
+				<ComposedBlock ID="cblock_0" HPOS="882" VPOS="2606" WIDTH="447" HEIGHT="25">
+					<TextBlock ID="block_0" HPOS="882" VPOS="2606" WIDTH="447" HEIGHT="25">
+						<TextLine ID="line_0" HPOS="882" VPOS="2606" WIDTH="447" HEIGHT="25">
+							<String ID="string_0" HPOS="882" VPOS="2606" WIDTH="40" HEIGHT="21" WC="0.94" CONTENT="VP"/><SP WIDTH="14" VPOS="2606" HPOS="922"/>
+							<String ID="string_1" HPOS="936" VPOS="2606" WIDTH="111" HEIGHT="22" WC="0.95" CONTENT="Grafiska"/><SP WIDTH="14" VPOS="2606" HPOS="1047"/>
+							<String ID="string_2" HPOS="1061" VPOS="2607" WIDTH="49" HEIGHT="24" WC="0.96" CONTENT="AB,"/><SP WIDTH="15" VPOS="2607" HPOS="1110"/>
+							<String ID="string_3" HPOS="1125" VPOS="2607" WIDTH="133" HEIGHT="22" WC="0.96" CONTENT="Stockholm"/><SP WIDTH="17" VPOS="2607" HPOS="1258"/>
+							<String ID="string_4" HPOS="1275" VPOS="2608" WIDTH="54" HEIGHT="21" WC="0.96" CONTENT="1972"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_t8l9_43__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1780" HEIGHT="2842" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1780" HEIGHT="2842">
+				<GraphicalElement ID="cblock_0" HPOS="184" VPOS="0" WIDTH="441" HEIGHT="1"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="867" VPOS="184" WIDTH="687" HEIGHT="59">
+					<TextBlock ID="block_0" HPOS="867" VPOS="184" WIDTH="687" HEIGHT="59">
+						<TextLine ID="line_0" HPOS="867" VPOS="184" WIDTH="687" HEIGHT="59">
+							<String ID="string_0" HPOS="867" VPOS="192" WIDTH="58" HEIGHT="40" WC="0.24" CONTENT="säjer"/><SP WIDTH="55" VPOS="192" HPOS="925"/>
+							<String ID="string_1" HPOS="980" VPOS="180" WIDTH="26" HEIGHT="67" WC="0.4" CONTENT="1)"/><SP WIDTH="5" VPOS="180" HPOS="1006"/>
+							<String ID="string_2" HPOS="1011" VPOS="189" WIDTH="45" HEIGHT="48" WC="0.0" CONTENT="ae"/><SP WIDTH="58" VPOS="189" HPOS="1056"/>
+							<String ID="string_3" HPOS="1114" VPOS="189" WIDTH="51" HEIGHT="54" WC="0.16" CONTENT="RR"/><SP WIDTH="6" VPOS="189" HPOS="1165"/>
+							<String ID="string_4" HPOS="1171" VPOS="184" WIDTH="146" HEIGHT="59" WC="0.5" CONTENT="TG"/><SP WIDTH="2" VPOS="184" HPOS="1317"/>
+							<String ID="string_5" HPOS="1319" VPOS="180" WIDTH="13" HEIGHT="67" WC="0.0" CONTENT="-"/><SP WIDTH="16" VPOS="180" HPOS="1332"/>
+							<String ID="string_6" HPOS="1348" VPOS="180" WIDTH="35" HEIGHT="67" WC="0.0" CONTENT="ty"/><SP WIDTH="11" VPOS="180" HPOS="1383"/>
+							<String ID="string_7" HPOS="1394" VPOS="189" WIDTH="47" HEIGHT="48" WC="0.15" CONTENT="Teg"/><SP WIDTH="2" VPOS="189" HPOS="1441"/>
+							<String ID="string_8" HPOS="1443" VPOS="186" WIDTH="111" HEIGHT="42" WC="0.22" CONTENT="ÄR"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_2" HPOS="0" VPOS="0" WIDTH="1780" HEIGHT="2842"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
