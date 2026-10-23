@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_xz0x5ycr_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1852" HEIGHT="2833" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1852" HEIGHT="2833">
+				<ComposedBlock ID="cblock_0" HPOS="153" VPOS="2563" WIDTH="415" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="153" VPOS="2563" WIDTH="415" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="153" VPOS="2563" WIDTH="415" HEIGHT="21">
+							<String ID="string_0" HPOS="153" VPOS="2563" WIDTH="91" HEIGHT="21" WC="0.89" CONTENT="GOTAB"/><SP WIDTH="27" VPOS="2563" HPOS="244"/>
+							<String ID="string_1" HPOS="271" VPOS="2563" WIDTH="23" HEIGHT="20" WC="0.32" CONTENT="74"/><SP WIDTH="7" VPOS="2563" HPOS="294"/>
+							<String ID="string_2" HPOS="301" VPOS="2563" WIDTH="69" HEIGHT="21" WC="0.0" CONTENT="84095"/><SP WIDTH="19" VPOS="2563" HPOS="370"/>
+							<String ID="string_3" HPOS="389" VPOS="2559" WIDTH="117" HEIGHT="35" WC="0.94" CONTENT="Stockholm"/><SP WIDTH="16" VPOS="2559" HPOS="506"/>
+							<String ID="string_4" HPOS="522" VPOS="2563" WIDTH="46" HEIGHT="20" WC="0.96" CONTENT="1974"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="843" VPOS="0" WIDTH="1009" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="295" VPOS="2832" WIDTH="735" HEIGHT="1"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

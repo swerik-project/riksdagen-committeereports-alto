@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_0hnsqd3__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1821" HEIGHT="2842" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1821" HEIGHT="2842">
+				<ComposedBlock ID="cblock_0" HPOS="126" VPOS="2483" WIDTH="567" HEIGHT="26">
+					<TextBlock ID="block_0" HPOS="126" VPOS="2483" WIDTH="567" HEIGHT="26">
+						<TextLine ID="line_0" HPOS="126" VPOS="2483" WIDTH="567" HEIGHT="26">
+							<String ID="string_0" HPOS="126" VPOS="2486" WIDTH="113" HEIGHT="23" WC="0.90" CONTENT="GOTAB"/><SP WIDTH="24" VPOS="2486" HPOS="239"/>
+							<String ID="string_1" HPOS="263" VPOS="2485" WIDTH="31" HEIGHT="22" WC="0.95" CONTENT="74"/><SP WIDTH="15" VPOS="2485" HPOS="294"/>
+							<String ID="string_2" HPOS="309" VPOS="2485" WIDTH="68" HEIGHT="24" WC="0.0" CONTENT="7165"/><SP WIDTH="15" VPOS="2485" HPOS="377"/>
+							<String ID="string_3" HPOS="392" VPOS="2485" WIDTH="15" HEIGHT="22" WC="0.0" CONTENT="S"/><SP WIDTH="49" VPOS="2485" HPOS="407"/>
+							<String ID="string_4" HPOS="456" VPOS="2483" WIDTH="155" HEIGHT="24" WC="0.41" CONTENT="Stockholm"/><SP WIDTH="18" VPOS="2483" HPOS="611"/>
+							<String ID="string_5" HPOS="629" VPOS="2483" WIDTH="64" HEIGHT="24" WC="0.96" CONTENT="1974"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_1" HPOS="1760" VPOS="284" WIDTH="60" HEIGHT="2558"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
