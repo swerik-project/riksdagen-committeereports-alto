@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_238miw0j_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1848" HEIGHT="2860" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1848" HEIGHT="2860">
+				<ComposedBlock ID="cblock_0" HPOS="157" VPOS="131" WIDTH="266" HEIGHT="35">
+					<TextBlock ID="block_0" HPOS="157" VPOS="131" WIDTH="266" HEIGHT="35">
+						<TextLine ID="line_0" HPOS="157" VPOS="131" WIDTH="266" HEIGHT="35">
+							<String ID="string_0" HPOS="157" VPOS="131" WIDTH="55" HEIGHT="30" WC="0.92" CONTENT="LU"/><SP WIDTH="16" VPOS="131" HPOS="212"/>
+							<String ID="string_1" HPOS="228" VPOS="131" WIDTH="195" HEIGHT="35" WC="0.89" CONTENT="1979/80:13"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="173" VPOS="2216" WIDTH="411" HEIGHT="63">
+					<TextBlock ID="block_1" HPOS="173" VPOS="2216" WIDTH="411" HEIGHT="63">
+						<TextLine ID="line_1" HPOS="173" VPOS="2216" WIDTH="384" HEIGHT="31">
+							<String ID="string_2" HPOS="173" VPOS="2218" WIDTH="23" HEIGHT="24" WC="0.40" CONTENT="CQ"/><SP WIDTH="18" VPOS="2218" HPOS="196"/>
+							<String ID="string_3" HPOS="214" VPOS="2216" WIDTH="95" HEIGHT="26" WC="0.94" CONTENT="Finska"/><SP WIDTH="11" VPOS="2216" HPOS="309"/>
+							<String ID="string_4" HPOS="320" VPOS="2217" WIDTH="100" HEIGHT="25" WC="0.96" CONTENT="holmar"/><SP WIDTH="12" VPOS="2217" HPOS="420"/>
+							<String ID="string_5" HPOS="432" VPOS="2217" WIDTH="4" HEIGHT="24" WC="0.96" CONTENT="i"/><SP WIDTH="13" VPOS="2217" HPOS="436"/>
+							<String ID="string_6" HPOS="449" VPOS="2216" WIDTH="108" HEIGHT="31" WC="0.96" CONTENT="Sverige"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="175" VPOS="2252" WIDTH="409" HEIGHT="27">
+							<String ID="string_7" HPOS="175" VPOS="2255" WIDTH="23" HEIGHT="23" WC="0.89" CONTENT="O"/><SP WIDTH="17" VPOS="2255" HPOS="198"/>
+							<String ID="string_8" HPOS="215" VPOS="2253" WIDTH="120" HEIGHT="26" WC="0.95" CONTENT="Svenska"/><SP WIDTH="11" VPOS="2253" HPOS="335"/>
+							<String ID="string_9" HPOS="346" VPOS="2252" WIDTH="116" HEIGHT="26" WC="0.95" CONTENT="holmar"/><SP WIDTH="-9" VPOS="2252" HPOS="462"/>
+							<String ID="string_10" HPOS="453" VPOS="2248" WIDTH="13" HEIGHT="40" WC="0.91" CONTENT="i"/><SP WIDTH="12" VPOS="2248" HPOS="466"/>
+							<String ID="string_11" HPOS="478" VPOS="2252" WIDTH="106" HEIGHT="25" WC="0.96" CONTENT="Finland"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="1239" VPOS="232" WIDTH="131" HEIGHT="34">
+					<TextBlock ID="block_2" HPOS="1239" VPOS="232" WIDTH="131" HEIGHT="34">
+						<TextLine ID="line_3" HPOS="1239" VPOS="232" WIDTH="131" HEIGHT="34">
+							<String ID="string_12" HPOS="1239" VPOS="232" WIDTH="104" HEIGHT="34" WC="0.96" CONTENT="Bilaga"/><SP WIDTH="16" VPOS="232" HPOS="1343"/>
+							<String ID="string_13" HPOS="1359" VPOS="233" WIDTH="11" HEIGHT="26" WC="0.94" CONTENT="I"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_3" HPOS="178" VPOS="1773" WIDTH="1275" HEIGHT="349"></Illustration>
+				<ComposedBlock ID="cblock_4" HPOS="1008" VPOS="1792" WIDTH="258" HEIGHT="69">
+					<TextBlock ID="block_3" HPOS="1008" VPOS="1792" WIDTH="276" HEIGHT="69">
+						<TextLine ID="line_4" HPOS="1045" VPOS="1792" WIDTH="221" HEIGHT="38">
+							<String ID="string_14" HPOS="1045" VPOS="1792" WIDTH="179" HEIGHT="26" WC="0.90" CONTENT="Hådenäset"/><SP WIDTH="13" VPOS="1792" HPOS="1224"/>
+							<String ID="string_15" HPOS="1237" VPOS="1797" WIDTH="29" HEIGHT="33" WC="0.20" CONTENT="."/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="1008" VPOS="1829" WIDTH="224" HEIGHT="32">
+							<String ID="string_16" HPOS="1008" VPOS="1829" WIDTH="224" HEIGHT="32" WC="0.90" CONTENT="(Hietaniemi)"/><SP WIDTH="29" VPOS="1829" HPOS="1232"/>
+							<String ID="string_17" HPOS="1261" VPOS="1826" WIDTH="23" HEIGHT="22" WC="0.4" CONTENT="&amp;V"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

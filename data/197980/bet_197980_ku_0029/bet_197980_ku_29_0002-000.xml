@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_hkr98qz6_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1826" HEIGHT="2824" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1826" HEIGHT="2824">
+				<GraphicalElement ID="cblock_0" HPOS="6" VPOS="1257" WIDTH="1" HEIGHT="309"></GraphicalElement >
+				<GraphicalElement ID="cblock_1" HPOS="1260" VPOS="6" WIDTH="302" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_2" HPOS="1820" VPOS="693" WIDTH="5" HEIGHT="564"></GraphicalElement >
+				<ComposedBlock ID="cblock_3" HPOS="180" VPOS="2542" WIDTH="378" HEIGHT="21">
+					<TextBlock ID="block_0" HPOS="180" VPOS="2542" WIDTH="378" HEIGHT="21">
+						<TextLine ID="line_0" HPOS="180" VPOS="2542" WIDTH="378" HEIGHT="21">
+							<String ID="string_0" HPOS="180" VPOS="2545" WIDTH="93" HEIGHT="18" WC="0.88" CONTENT="GOTAB"/><SP WIDTH="27" VPOS="2545" HPOS="273"/>
+							<String ID="string_1" HPOS="300" VPOS="2545" WIDTH="62" HEIGHT="17" WC="0.93" CONTENT="64090"/><SP WIDTH="27" VPOS="2545" HPOS="362"/>
+							<String ID="string_2" HPOS="389" VPOS="2544" WIDTH="112" HEIGHT="18" WC="0.95" CONTENT="Stockholm"/><SP WIDTH="14" VPOS="2544" HPOS="501"/>
+							<String ID="string_3" HPOS="515" VPOS="2542" WIDTH="43" HEIGHT="18" WC="0.96" CONTENT="1979"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<Illustration ID="cblock_4" HPOS="626" VPOS="2811" WIDTH="1194" HEIGHT="13"></Illustration>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
