@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_j17sprqo_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1823" HEIGHT="2843" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1823" HEIGHT="2843">
+				<ComposedBlock ID="cblock_0" HPOS="147" VPOS="148" WIDTH="1220" HEIGHT="189">
+					<TextBlock ID="block_0" HPOS="147" VPOS="148" WIDTH="1220" HEIGHT="189">
+						<TextLine ID="line_0" HPOS="147" VPOS="148" WIDTH="1220" HEIGHT="37">
+							<String ID="string_0" HPOS="147" VPOS="155" WIDTH="73" HEIGHT="30" WC="0.49" CONTENT="SkU"/><SP WIDTH="14" VPOS="155" HPOS="220"/>
+							<String ID="string_1" HPOS="234" VPOS="149" WIDTH="186" HEIGHT="34" WC="0.86" CONTENT="1983/84:30"/><SP WIDTH="186" VPOS="149" HPOS="420"/>
+							<String ID="string_2" HPOS="606" VPOS="159" WIDTH="5" HEIGHT="4" WC="0.13" CONTENT=":"/><SP WIDTH="722" VPOS="159" HPOS="611"/>
+							<String ID="string_3" HPOS="1333" VPOS="148" WIDTH="34" HEIGHT="28" WC="0.96" CONTENT="38"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="225" VPOS="250" WIDTH="1141" HEIGHT="41">
+							<String ID="string_4" HPOS="225" VPOS="250" WIDTH="354" HEIGHT="41" WC="0.86" CONTENT="Arbetstagarbegreppet"/><SP WIDTH="27" VPOS="250" HPOS="579"/>
+							<String ID="string_5" HPOS="606" VPOS="278" WIDTH="641" HEIGHT="5" WC="0.0" CONTENT="-..ssosossseesrrrrerrrrerrr"/><SP WIDTH="-136" VPOS="278" HPOS="1247"/>
+							<String ID="string_6" HPOS="1111" VPOS="246" WIDTH="48" HEIGHT="50" WC="0.22" CONTENT="ses"/><SP WIDTH="8" VPOS="246" HPOS="1159"/>
+							<String ID="string_7" HPOS="1167" VPOS="246" WIDTH="83" HEIGHT="50" WC="0.7" CONTENT="sera"/><SP WIDTH="81" VPOS="246" HPOS="1250"/>
+							<String ID="string_8" HPOS="1331" VPOS="257" WIDTH="35" HEIGHT="27" WC="0.96" CONTENT="34"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="224" VPOS="308" WIDTH="1140" HEIGHT="29">
+							<String ID="string_9" HPOS="224" VPOS="308" WIDTH="101" HEIGHT="27" WC="0.70" CONTENT="Gävor"/><SP WIDTH="8" VPOS="308" HPOS="325"/>
+							<String ID="string_10" HPOS="333" VPOS="308" WIDTH="40" HEIGHT="27" WC="0.92" CONTENT="till"/><SP WIDTH="11" VPOS="308" HPOS="373"/>
+							<String ID="string_11" HPOS="384" VPOS="308" WIDTH="227" HEIGHT="27" WC="0.92" CONTENT="internationellt"/><SP WIDTH="11" VPOS="308" HPOS="611"/>
+							<String ID="string_12" HPOS="622" VPOS="308" WIDTH="232" HEIGHT="28" WC="0.81" CONTENT="biständsarbete"/><SP WIDTH="32" VPOS="308" HPOS="854"/>
+							<String ID="string_13" HPOS="886" VPOS="330" WIDTH="360" HEIGHT="6" WC="0.0" CONTENT=".sososssssss"/><SP WIDTH="-117" VPOS="330" HPOS="1246"/>
+							<String ID="string_14" HPOS="1129" VPOS="304" WIDTH="47" HEIGHT="41" WC="0.3" CONTENT="sov"/><SP WIDTH="10" VPOS="304" HPOS="1176"/>
+							<String ID="string_15" HPOS="1186" VPOS="304" WIDTH="26" HEIGHT="41" WC="0.0" CONTENT="so"/><SP WIDTH="9" VPOS="304" HPOS="1212"/>
+							<String ID="string_16" HPOS="1221" VPOS="304" WIDTH="30" HEIGHT="41" WC="0.0" CONTENT="ra"/><SP WIDTH="23" VPOS="304" HPOS="1251"/>
+							<String ID="string_17" HPOS="1274" VPOS="309" WIDTH="90" HEIGHT="28" WC="0.90" CONTENT="34-35"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="144" VPOS="360" WIDTH="314" HEIGHT="36">
+					<TextBlock ID="block_1" HPOS="144" VPOS="360" WIDTH="314" HEIGHT="36">
+						<TextLine ID="line_3" HPOS="144" VPOS="360" WIDTH="314" HEIGHT="36">
+							<String ID="string_18" HPOS="144" VPOS="360" WIDTH="145" HEIGHT="28" WC="0.96" CONTENT="Särskilda"/><SP WIDTH="16" VPOS="360" HPOS="289"/>
+							<String ID="string_19" HPOS="305" VPOS="361" WIDTH="153" HEIGHT="35" WC="0.96" CONTENT="yttranden"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
