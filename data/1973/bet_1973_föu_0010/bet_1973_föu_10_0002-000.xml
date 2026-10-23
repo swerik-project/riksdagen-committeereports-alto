@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_i1r5x7tg_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1840" HEIGHT="2838" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1840" HEIGHT="2838">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="2436" WIDTH="1" HEIGHT="402"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="135" VPOS="2454" WIDTH="571" HEIGHT="27">
+					<TextBlock ID="block_0" HPOS="135" VPOS="2454" WIDTH="571" HEIGHT="27">
+						<TextLine ID="line_0" HPOS="135" VPOS="2454" WIDTH="571" HEIGHT="27">
+							<String ID="string_0" HPOS="135" VPOS="2454" WIDTH="115" HEIGHT="26" WC="0.90" CONTENT="GOTAB"/><SP WIDTH="20" VPOS="2454" HPOS="250"/>
+							<String ID="string_1" HPOS="270" VPOS="2454" WIDTH="34" HEIGHT="26" WC="0.95" CONTENT="73"/><SP WIDTH="14" VPOS="2454" HPOS="304"/>
+							<String ID="string_2" HPOS="318" VPOS="2454" WIDTH="99" HEIGHT="27" WC="0.73" CONTENT="34405"/><SP WIDTH="49" VPOS="2454" HPOS="417"/>
+							<String ID="string_3" HPOS="466" VPOS="2456" WIDTH="156" HEIGHT="25" WC="0.68" CONTENT="Stockholm"/><SP WIDTH="15" VPOS="2456" HPOS="622"/>
+							<String ID="string_4" HPOS="637" VPOS="2456" WIDTH="69" HEIGHT="25" WC="0.96" CONTENT="1973"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="354" VPOS="2837" WIDTH="351" HEIGHT="1"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

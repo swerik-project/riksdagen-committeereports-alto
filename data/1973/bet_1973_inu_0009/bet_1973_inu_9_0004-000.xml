@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_bzosemc1_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1753" HEIGHT="2847" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1753" HEIGHT="2847">
+				<ComposedBlock ID="cblock_0" HPOS="133" VPOS="2508" WIDTH="572" HEIGHT="25">
+					<TextBlock ID="block_0" HPOS="133" VPOS="2508" WIDTH="572" HEIGHT="25">
+						<TextLine ID="line_0" HPOS="133" VPOS="2508" WIDTH="572" HEIGHT="25">
+							<String ID="string_0" HPOS="133" VPOS="2509" WIDTH="116" HEIGHT="24" WC="0.92" CONTENT="GOTAB"/><SP WIDTH="21" VPOS="2509" HPOS="249"/>
+							<String ID="string_1" HPOS="270" VPOS="2509" WIDTH="34" HEIGHT="24" WC="0.94" CONTENT="73"/><SP WIDTH="14" VPOS="2509" HPOS="304"/>
+							<String ID="string_2" HPOS="318" VPOS="2508" WIDTH="67" HEIGHT="25" WC="0.91" CONTENT="3217"/><SP WIDTH="17" VPOS="2508" HPOS="385"/>
+							<String ID="string_3" HPOS="402" VPOS="2508" WIDTH="15" HEIGHT="25" WC="0.52" CONTENT="5"/><SP WIDTH="49" VPOS="2508" HPOS="417"/>
+							<String ID="string_4" HPOS="466" VPOS="2508" WIDTH="155" HEIGHT="25" WC="0.49" CONTENT="Stockholm"/><SP WIDTH="16" VPOS="2508" HPOS="621"/>
+							<String ID="string_5" HPOS="637" VPOS="2508" WIDTH="68" HEIGHT="24" WC="0.96" CONTENT="1973"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="1751" VPOS="2049" WIDTH="2" HEIGHT="610"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

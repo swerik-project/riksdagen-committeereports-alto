@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_yox3fxd__input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1833" HEIGHT="2839" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1833" HEIGHT="2839">
+				<GraphicalElement ID="cblock_0" HPOS="0" VPOS="0" WIDTH="499" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_1" HPOS="139" VPOS="2439" WIDTH="561" HEIGHT="34">
+					<TextBlock ID="block_0" HPOS="139" VPOS="2439" WIDTH="561" HEIGHT="34">
+						<TextLine ID="line_0" HPOS="139" VPOS="2439" WIDTH="561" HEIGHT="34">
+							<String ID="string_0" HPOS="139" VPOS="2439" WIDTH="116" HEIGHT="25" WC="0.92" CONTENT="GOTAB"/><SP WIDTH="21" VPOS="2439" HPOS="255"/>
+							<String ID="string_1" HPOS="276" VPOS="2442" WIDTH="34" HEIGHT="24" WC="0.94" CONTENT="73"/><SP WIDTH="14" VPOS="2442" HPOS="310"/>
+							<String ID="string_2" HPOS="324" VPOS="2442" WIDTH="70" HEIGHT="25" WC="0.82" CONTENT="3439"/><SP WIDTH="12" VPOS="2442" HPOS="394"/>
+							<String ID="string_3" HPOS="406" VPOS="2443" WIDTH="17" HEIGHT="26" WC="0.52" CONTENT="S"/><SP WIDTH="39" VPOS="2443" HPOS="423"/>
+							<String ID="string_4" HPOS="462" VPOS="2445" WIDTH="154" HEIGHT="27" WC="0.90" CONTENT="Stockholm"/><SP WIDTH="17" VPOS="2445" HPOS="616"/>
+							<String ID="string_5" HPOS="633" VPOS="2448" WIDTH="67" HEIGHT="25" WC="0.96" CONTENT="1973"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

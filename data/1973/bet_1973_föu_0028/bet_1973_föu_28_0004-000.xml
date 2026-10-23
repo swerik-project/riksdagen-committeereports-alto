@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_23v3zpna_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1828" HEIGHT="2836" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1828" HEIGHT="2836">
+				<ComposedBlock ID="cblock_0" HPOS="135" VPOS="2500" WIDTH="555" HEIGHT="29">
+					<TextBlock ID="block_0" HPOS="135" VPOS="2500" WIDTH="555" HEIGHT="29">
+						<TextLine ID="line_0" HPOS="135" VPOS="2500" WIDTH="555" HEIGHT="29">
+							<String ID="string_0" HPOS="135" VPOS="2500" WIDTH="118" HEIGHT="27" WC="0.92" CONTENT="GOTAB"/><SP WIDTH="12" VPOS="2500" HPOS="253"/>
+							<String ID="string_1" HPOS="265" VPOS="2502" WIDTH="33" HEIGHT="25" WC="0.95" CONTENT="73"/><SP WIDTH="12" VPOS="2502" HPOS="298"/>
+							<String ID="string_2" HPOS="310" VPOS="2502" WIDTH="72" HEIGHT="27" WC="0.92" CONTENT="5568"/><SP WIDTH="14" VPOS="2502" HPOS="382"/>
+							<String ID="string_3" HPOS="396" VPOS="2503" WIDTH="16" HEIGHT="26" WC="0.82" CONTENT="S"/><SP WIDTH="39" VPOS="2503" HPOS="412"/>
+							<String ID="string_4" HPOS="451" VPOS="2503" WIDTH="155" HEIGHT="26" WC="0.95" CONTENT="Stockholm"/><SP WIDTH="15" VPOS="2503" HPOS="606"/>
+							<String ID="string_5" HPOS="621" VPOS="2505" WIDTH="69" HEIGHT="24" WC="0.96" CONTENT="1973"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_1" HPOS="0" VPOS="2834" WIDTH="438" HEIGHT="2"></GraphicalElement >
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
