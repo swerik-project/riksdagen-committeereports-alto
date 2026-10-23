@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_6qobimjj_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1835" HEIGHT="2835" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1835" HEIGHT="2835">
+				<ComposedBlock ID="cblock_0" HPOS="241" VPOS="395" WIDTH="1228" HEIGHT="151">
+					<TextBlock ID="block_0" HPOS="241" VPOS="395" WIDTH="1228" HEIGHT="151">
+						<TextLine ID="line_0" HPOS="241" VPOS="395" WIDTH="1228" HEIGHT="151">
+							<String ID="string_0" HPOS="241" VPOS="395" WIDTH="637" HEIGHT="151" WC="0.84" CONTENT="Lagutskottets"/><SP WIDTH="40" VPOS="395" HPOS="878"/>
+							<String ID="string_1" HPOS="918" VPOS="395" WIDTH="551" HEIGHT="121" WC="0.96" CONTENT="betänkande"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="544" VPOS="727" WIDTH="625" HEIGHT="92">
+					<TextBlock ID="block_1" HPOS="544" VPOS="727" WIDTH="625" HEIGHT="92">
+						<TextLine ID="line_1" HPOS="544" VPOS="727" WIDTH="625" HEIGHT="92">
+							<String ID="string_2" HPOS="544" VPOS="727" WIDTH="625" HEIGHT="92" WC="0.47" CONTENT="1989/90:LU35"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<GraphicalElement ID="cblock_2" HPOS="482" VPOS="887" WIDTH="511" HEIGHT="2"></GraphicalElement >
+				<GraphicalElement ID="cblock_3" HPOS="1174" VPOS="887" WIDTH="440" HEIGHT="2"></GraphicalElement >
+				<ComposedBlock ID="cblock_4" HPOS="226" VPOS="1041" WIDTH="1242" HEIGHT="572">
+					<TextBlock ID="block_2" HPOS="226" VPOS="1041" WIDTH="1242" HEIGHT="572">
+						<TextLine ID="line_2" HPOS="226" VPOS="1041" WIDTH="1242" HEIGHT="126">
+							<String ID="string_3" HPOS="226" VPOS="1041" WIDTH="1242" HEIGHT="126" WC="0.90" CONTENT="KONTOBASERAT"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="324" VPOS="1254" WIDTH="1042" HEIGHT="126">
+							<String ID="string_4" HPOS="324" VPOS="1254" WIDTH="1042" HEIGHT="126" WC="0.87" CONTENT="AKTIESYSTEM"/>
+						</TextLine>
+						<TextLine ID="line_4" HPOS="360" VPOS="1480" WIDTH="967" HEIGHT="133">
+							<String ID="string_5" HPOS="360" VPOS="1480" WIDTH="283" HEIGHT="133" WC="0.92" CONTENT="(prop."/><SP WIDTH="57" VPOS="1480" HPOS="643"/>
+							<String ID="string_6" HPOS="700" VPOS="1480" WIDTH="627" HEIGHT="119" WC="0.89" CONTENT="1988/89:152)"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

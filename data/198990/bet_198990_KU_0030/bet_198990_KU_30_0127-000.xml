@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_mgu7eic8_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1846" HEIGHT="2824" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1846" HEIGHT="2824">
+				<ComposedBlock ID="cblock_0" HPOS="204" VPOS="409" WIDTH="1426" HEIGHT="290">
+					<TextBlock ID="block_0" HPOS="204" VPOS="409" WIDTH="1426" HEIGHT="290">
+						<TextLine ID="line_0" HPOS="204" VPOS="409" WIDTH="1426" HEIGHT="120">
+							<String ID="string_0" HPOS="204" VPOS="409" WIDTH="1426" HEIGHT="120" WC="0.91" CONTENT="Konstitutionsutskottets"/>
+						</TextLine>
+						<TextLine ID="line_1" HPOS="205" VPOS="577" WIDTH="701" HEIGHT="122">
+							<String ID="string_1" HPOS="205" VPOS="577" WIDTH="701" HEIGHT="122" WC="0.96" CONTENT="betänkande"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="220" VPOS="821" WIDTH="901" HEIGHT="112">
+					<TextBlock ID="block_1" HPOS="220" VPOS="821" WIDTH="901" HEIGHT="112">
+						<TextLine ID="line_2" HPOS="220" VPOS="821" WIDTH="901" HEIGHT="112">
+							<String ID="string_2" HPOS="220" VPOS="821" WIDTH="901" HEIGHT="112" WC="0.80" CONTENT="1989/90:KU30"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_2" HPOS="210" VPOS="1156" WIDTH="379" HEIGHT="104">
+					<TextBlock ID="block_2" HPOS="210" VPOS="1156" WIDTH="379" HEIGHT="104">
+						<TextLine ID="line_3" HPOS="210" VPOS="1156" WIDTH="379" HEIGHT="104">
+							<String ID="string_3" HPOS="210" VPOS="1156" WIDTH="295" HEIGHT="104" WC="0.90" CONTENT="Bilagedel"/><SP WIDTH="31" VPOS="1156" HPOS="505"/>
+							<String ID="string_4" HPOS="536" VPOS="1166" WIDTH="53" HEIGHT="60" WC="0.84" CONTENT="A"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_3" HPOS="206" VPOS="1460" WIDTH="866" HEIGHT="371">
+					<TextBlock ID="block_3" HPOS="206" VPOS="1460" WIDTH="867" HEIGHT="367">
+						<TextLine ID="line_4" HPOS="217" VPOS="1460" WIDTH="844" HEIGHT="181">
+							<String ID="string_5" HPOS="217" VPOS="1460" WIDTH="844" HEIGHT="181" WC="0.87" CONTENT="Gransknings-"/>
+						</TextLine>
+						<TextLine ID="line_5" HPOS="206" VPOS="1671" WIDTH="866" HEIGHT="160">
+							<String ID="string_6" HPOS="206" VPOS="1671" WIDTH="866" HEIGHT="160" WC="0.95" CONTENT="promemorior"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>

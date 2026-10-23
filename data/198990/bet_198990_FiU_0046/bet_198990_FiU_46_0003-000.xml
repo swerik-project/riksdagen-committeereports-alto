@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns="http://www.loc.gov/standards/alto/ns-v3#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v3# http://www.loc.gov/alto/v3/alto-3-0.xsd">
+	<Description>
+		<MeasurementUnit>pixel</MeasurementUnit>
+		<sourceImageInformation>
+			<fileName>/tmp/tess_c01rn6ri_input.PNG</fileName>
+		</sourceImageInformation>
+		<OCRProcessing ID="OCR_0">
+			<ocrProcessingStep>
+				<processingSoftware>
+					<softwareName>tesseract 5.3.0</softwareName>
+				</processingSoftware>
+			</ocrProcessingStep>
+		</OCRProcessing>
+	</Description>
+	<Layout>
+		<Page WIDTH="1818" HEIGHT="2821" PHYSICAL_IMG_NR="0" ID="page_0">
+			<PrintSpace HPOS="0" VPOS="0" WIDTH="1818" HEIGHT="2821">
+				<ComposedBlock ID="cblock_0" HPOS="1459" VPOS="65" WIDTH="277" HEIGHT="32">
+					<TextBlock ID="block_0" HPOS="1459" VPOS="65" WIDTH="277" HEIGHT="32">
+						<TextLine ID="line_0" HPOS="1459" VPOS="65" WIDTH="277" HEIGHT="32">
+							<String ID="string_0" HPOS="1459" VPOS="65" WIDTH="151" HEIGHT="32" WC="0.77" CONTENT="1989/90:"/><SP WIDTH="11" VPOS="65" HPOS="1610"/>
+							<String ID="string_1" HPOS="1621" VPOS="65" WIDTH="115" HEIGHT="32" WC="0.77" CONTENT="FiU46"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+				<ComposedBlock ID="cblock_1" HPOS="382" VPOS="334" WIDTH="815" HEIGHT="299">
+					<TextBlock ID="block_1" HPOS="382" VPOS="334" WIDTH="815" HEIGHT="299">
+						<TextLine ID="line_1" HPOS="382" VPOS="334" WIDTH="815" HEIGHT="81">
+							<String ID="string_2" HPOS="382" VPOS="334" WIDTH="815" HEIGHT="81" WC="0.91" CONTENT="STATSBUDGET"/>
+						</TextLine>
+						<TextLine ID="line_2" HPOS="731" VPOS="468" WIDTH="115" HEIGHT="51">
+							<String ID="string_3" HPOS="731" VPOS="468" WIDTH="115" HEIGHT="51" WC="0.96" CONTENT="FÖR"/>
+						</TextLine>
+						<TextLine ID="line_3" HPOS="489" VPOS="580" WIDTH="590" HEIGHT="53">
+							<String ID="string_4" HPOS="489" VPOS="580" WIDTH="394" HEIGHT="53" WC="0.92" CONTENT="BUDGETÅRET"/><SP WIDTH="21" VPOS="580" HPOS="883"/>
+							<String ID="string_5" HPOS="904" VPOS="591" WIDTH="175" HEIGHT="42" WC="0.90" CONTENT="1990/91"/>
+						</TextLine>
+					</TextBlock>
+				</ComposedBlock>
+			</PrintSpace>
+		</Page>
+	</Layout>
+</alto>
